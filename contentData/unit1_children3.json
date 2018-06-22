@@ -1,0 +1,44 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"Listen to the following monologue about Mary, a store detective.",
+      "text_zh":"听下面关于玛丽 ---- 一位商店侦探的一段文章。"
+    },
+    {
+      "role":0,
+      "text":"Mary was an eighteen-year-old girl. She was only five feet two inches tall and 105 pounds heavy. When she was offered a job of a store detective she felt surprised. The manager explained that they just needed persons like Mary for she didn't look like a detective. He said, \"Most shoplifters are well-dressed, and many of them have much money and good jobs\".",
+      "text_zh":"玛丽是一个18岁的女孩。她身高仅有5英尺2英寸，体重只有105磅。当她获得一份商店侦探的工作时，她感到惊讶。经理解释道：他们正需要像玛丽这样的人，因为她看起来不像侦探。他说：“多数偷窃商店货物的人都衣着光鲜，他们中的话多人有很多钱和很不错的工作。”"
+    },
+    {
+      "role":0,
+      "text":"The manager was right. One morning. Mary saw someone who looked like a businessman standing at the tie counter. The salesclerk showed the man expensive silk ties. Then the clerk went to help another customer. As soon as the clerk turned around, the man put three ties in his briefcase. Two minutes later when the clerk turned, the man said, \"I don't like these silk ties. They aren't of good quality.\"",
+      "text_zh":"经理没说错。一天早晨，玛丽看到一位商人模样的人站在领带柜台前。店员给他拿了几条价格不菲的领带给他看，接着去招呼另一位顾客。当店员刚一转身，那人拿起三条领带放进了公文包。两分钟后，当店员转身过来，那人说道：“我不喜欢这些信赖，他们质量不好。"
+    },
+    {
+      "role":0,
+      "text":"The man walked as quickly as possible out of the front door. Mary followed him . When he man was about to step on a magnificent Rolls-Royce, Mary went up to him and said , \"Excuse me ,sir, would you mind letting me take a look in your briefcase?\" The man was seized with terror but soon he calmed down and said, \" I 'm afraid I certainly do mind, if it's all the same to you .Now go away.\"",
+      "text_zh":"那人尽快地走出了商店的前门。玛丽跟上他。就在他要一脚踏进一辆富丽堂皇的劳斯莱斯时，玛丽走上前对他说：“对不起，先生。你介意我看看您的公文包吗？”那人露出惊恐的样子，但马上镇静下来，说：“恐怕我当然介意，要是这对你来说都一样。现在，你走开。”"
+    },
+    {
+      "role":0,
+      "text":"Mary produced her identity card indicating that she was a store detective and she insisted on having a look into the man's brefcase. The man had no way out, saying, \"Oh, very well. Anything to help a woman detective.\" Mary took out from the briefcase three silk ties. \"Can you explain?\" Mary asked. \"Yes, nothing unusual in that,\" the man said . \" I'll go to attend respectively a negotiation, a wedding and a funeral. I like to wear differently colored ties on different occasions.\"",
+      "text_zh":"玛丽出示了她的身份证来证明她是商店的侦探并坚持检查他的公文包。那人没办法，说道：“噢，好吧。只要能帮一个女侦探干什么都行。”玛丽从手提箱里拿出三条信赖，问：“您能解释一下吗？” “可以，这没什么特别的。” 他说：“我要分别参加一场谈判、一场婚礼和一场葬礼。我喜欢在不同的场合戴不同颜色的领带。"
+    }
+  ]
+}

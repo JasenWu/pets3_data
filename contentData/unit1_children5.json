@@ -1,0 +1,39 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"The circumstances surrounding the birth of a female infant in Kosciusko,Mississippi, on Jan. 29,1954, were not promising. Present was the usual mix that had so often accumulated into a burden too heavy for a single-parent household like the one Oprah Winfrey grew up in. The state in which she was born had laws in place waiting to characterize her as unwelcome, to bar her participation in otherwise acceptable social activities, to shackle her to the residue of slavery and other injustices of the past. The simple truth is that her gradmother, her great-grandmother and all the great-great-grandmothers before them never experienced one day of life free from the harsh decrees of state-sponsored racial repression.",
+      "text_zh":"1954年1月29日在密西西北的科修斯小镇，周围的环境对于一个女婴的出生没有什么希望可言。境况通常是一团糟，生活的困苦已积聚成一个像奥普莱~温费里生长的单亲家庭所不堪承受的重负。她的出身早就有现成的规则将她定为“不受欢迎的人”，不让她参加对其他人的社会活动，把她禁锢在奴隶制的残余影响和过去遗留下的其他不公正之中。简单的事实就是她的祖母，她的祖母及他们之前的祖母们从没有一天不是生活在由政府支持的种族压迫的严酷法令下。"
+    },
+    {
+      "role":0,
+      "text":"In hindsight, it appears that her birth was an uneventful one. But at age three she was reciting speeches from church pulpits. Upon discovering books, the child delved into the written word,turning out weekly book reports for her father. Even during turbulent times, not a moment was wasted. Seeds were being planted, watered, and nurtured. On April 13, 1964, nearly an adolescent and watching television from the linoleum floor of her mother's walk-up flat in Milwaukee, Wisconsin,  she witnessed and event that connected to some thing deep inside of her. She was watching the live broadcast of the Academy Awards ceremony and saw a young African-American actor receiving the film industry's highest honnor. Sharing in that moment and all it implied, she later told me,caused her to say softly to herself, \" if he can do that, I wonder what I could do?\"",
+      "text_zh":"事后看来，她的出生平淡无奇。但到了三岁，她开始背诵教堂布道的演说词。一量发现书籍的妙处，这个孩子一头扎进书堆，每周向她的父亲交一篇读书报告。甚至在那些动荡的时期，她也从未浪费过点滴时间。播种，浇灌，精心培养。1964年4月13日，坐在母亲位于威斯康星州密尔活基的无电梯公寓房间里的油地毡上，快要进入青春期的她从电视上见证了一个触动她内心深处的事件。她观看了奥斯卡金像奖的颁奖仪式，看到一位年的非裔美国人接受了电影界的最高荣誉。分享了那一时刻及那一时刻带给她的启示，她轻声问自己：“如果他能做到，我想知道我又能做些什么？”"
+    },
+    {
+      "role":0,
+      "text":"The ground had been set .The journey of Oprah Winfrey had begun. The babe, the child, the adolescent, the young woman —— al their strengths were harnessed into a force of astonishing power that placed itself in the service of nature and the human family. That the world has  changed in meaningful ways since 1954 is beyond question. Oprah and her activites were driving forces in many of those changes. Her enormously influential talk show, her philanthropic work with children in Africa and else where, her popular book club and magazine, her empowering spiritual message, her contribution( by action and example) to imporving race relations ——all speak to the human family, touching hearts and leaving each one uplifted.",
+      "text_zh":"基础已经打好。奥普莱~温弗里的旅程开始了。从婴儿到儿童，再到少女，再到女青年——从所有经历中获取的能量都转化为一股令人惊异的力量，专注于为自然和人类大家庭服务。毫无疑问，自1954年以来，世界发生了意义深远的变化。奥普莱和她从事的活动是其中许多变化的驱动力。她的影响巨大的谈话节目，她对非洲和其他地区孩子们进行的慈善工作，她的深受欢迎的读书俱乐部和杂志，她那使人奋进的精神感召，她对改善种族关系所做的身体力行的贡献，所有这一切都向世人表达了她的思想和感受，使人感动，催人上进。"
+    },
+    {
+      "role":0,
+      "text":"Mississippi too seems to be mellowing out into a more congenial place than it was in 1954. That may also  be partly due to the very special energy that is Oprah Winfrey —— a  courageous , funny, compassionate, well -informed, dazzlingly curious person, as down-to-earth and loving as any human being I've ever know.",
+      "text_zh":"如今密西西比河流经的地方比起1954年来说要令人愉快的多。部分原因可以归功于奥普莱~温费里的特殊力量——她勇敢、有趣、富于同情心、广见博闻，有强烈的好奇心，而且与我认识的任何一人一样脚踏实地、充满爱心。"
+    }
+  ]
+}

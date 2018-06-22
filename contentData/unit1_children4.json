@@ -1,0 +1,39 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"Listen to the following monologue about Jules Verne and his stories.",
+      "text_zh":"听下面关于儒勒~凡尔纳及其故事的一篇文章。"
+    },
+    {
+      "role":0,
+      "text":"Jules Verne was not an inventor and he was not a scientist, but he read a great many scientific books. He had a very strong imagination and he loved adventure although he did not have many great adventures himself. He wrote a number of exciting books about the things whick he thought that scientists and inventors would one day be able to do. At the time, his stories seemed like fairy stories!",
+      "text_zh":"儒勒~凡尔纳不是发明家也不是科学家，但他读过大量的科技作品。尽管他自己没有很多冒险经历，但他想象力十分丰富且喜欢冒险。他写了许多令人兴奋的书来讲述他认为科学家和发明家在将来某一天能做的事情。"
+    },
+    {
+      "role":0,
+      "text":"Many of Jules Verne's attempts to loook into the future, however, were surprisingly accurate. For example, one book was called From Eartb to Moon.In this book, three men and a dog made a journey around the moon. They did this in a hollow \"ship\" frired from a gun. After going round the moon, they returned to the earth and splashed down into the sea not far from where the first real moon travelers landed in July 1969, about a hundred years later!",
+      "text_zh":"然而，儒勒~凡尔纳许多探究未来的尝试的精确性令人惊讶。比方说，一本名为《环游月球》的书中，三个男人和一条狗围绕朋球进行了一次旅行。他们乘坐在一艘由一门大炮发射出去的中空的” “船”里。在环绕月球后，他们返回地球，落入大海中，着陆地点离1969年6月首批真正登月者的着陆点不远，而后者发生在一百年之后！"
+    },
+    {
+      "role":0,
+      "text":"In all his books Jules Verne used his scientific knowledge as well as his imagination in describing future inventions. Some times he was wrong, of course, but often the accuracy of his  descriptions is very surprising.",
+      "text_zh":"在儒勒~凡尔纳的所有作品中，他运用的想象力和科学知识来描绘未来的发明，当然，他有时错了，但他描述的精确度时常让人感到惊异。"
+    }
+  ]
+}

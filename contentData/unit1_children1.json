@@ -1,0 +1,100 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Melanie",
+      "name_zh":"梅兰妮"
+    },
+    "2":{
+      "name":"Layth",
+      "name_zh":"蕾斯"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"Melanie Sanders brings out her photo album to show her new Egyptian friend,Layth, pictures of her family.",
+      "text_zh":"梅兰妮 桑德斯拿出相册，给她的埃及新朋友蕾斯看好的家庭照"
+    },
+    {
+      "role":1,
+      "text":"Oh,Layth, I'm sure you recognize . Grandmother in this picture? She's in the blue  dress.",
+      "text_zh":"噢，我肯定你从这张照片上认出我的奶奶了，她穿着蓝色的连衣裙。"
+      
+    },
+    {
+      "role":2,
+      "text":"Sure, and who's that holding the hand of a boy?",
+      "text_zh":"当然了，那个握着男孩儿手的是谁？"
+    },
+    {
+      "role":1,
+      "text":" That's my older brother,Lester, with my nephew,Nicky, when he  was two years old. My sistr-in-law,Dorothy, is next to him but she's not smiling because she was angry with  Lester.Lester always leaves her and goes out of town on business.",
+      "text_zh":"是我的哥哥莱斯特和我的侄子尼基，尼基那时才两岁。旁边是我的嫂子多萝茜，她没笑是国为在生莱斯特的气。莱斯特总是离开她到城外去出差。"
+    },
+    {
+      "role":2,
+      "text":" I like this picture, It's so funny!",
+      "text_zh":"我喜欢这张照片，真有趣！"
+    },
+    {
+      "role":1,
+      "text":"Oh , it's my niece,Nicole, when she was thirteen, I remember. She was upset because Chris took her picture while she was curling her hair. You'll probably find this one funny, too. This is my great aunt, Anna Lawrence, Grandma's sister. Her hat is really out of date.",
+      "text_zh":"瞧，这是我的侄女尼古拉，我记得那时她13岁。她不高兴是因为克里斯在她卷头发时给她拍了照。你会发现这张也很有趣。这是我的姨奶奶安娜~劳伦斯，我奶奶的姐姐。她的帽子实在是过时了。"
+    },
+    {
+      "role":2,
+      "text":"Who's this skinny man?",
+      "text_zh":"这个瘦瘦的男人是谁？"
+    },
+    {
+      "role":1,
+      "text":"That's my great uncle,George Lawrence,Anna Lawrence's husband. You can tell they lived during the Depression.He's wearing boots because shoes were out of stock.",
+      "text_zh":"是我的姨爹爹，乔治~劳伦斯，安娜~劳伦斯的丈夫。你可以看出他们生活在大萧条时期。他穿着靴子，因为没有鞋子卖。"
+    },
+    {
+      "role":2,
+      "text":"I can see they're definitely from the old generation.",
+      "text_zh":"我看得出他们真是生活在过去年代的人。"
+    },
+    {
+      "role":1,
+      "text":"Here's a more recent picture showing all three generations together.Here  are Grandpa and Grandma Murphy, my mother's parents. And here are Mom and Dad, and here's my older brother, Lester, again with his wife and three of their children: Nicolas,Ryan, and Laura.  Ryan really has an outgoing personality. See how he's smiling?",
+      "text_zh":"这里还有更多所有三代人近些年的照片。这是墨菲外公和外婆。我妈妈的父母。这是妈妈和爸爸，这是我哥哥莱斯特和他的妻子还有三个孩子：尼古拉斯，赖恩和罗拉。赖恩性格开朗，瞧他笑的！"
+    },
+    {
+      "role":2,
+      "text":"Yes. He looks like he's fun to be with.You know what? I can see a strong family resemblance. Oh, who's this?",
+      "text_zh":"是啊，看上去和他在一起一定很开心。我想说，我可以看出你们一家人有共同的特征。咦，这是谁?"
+    },
+    {
+      "role":1,
+      "text":"That's Curtis Lane, Lester's brother-in-law, his wife's brother. You ought to meet this man. He really knows how to bring a person out. I wish I had his social skills.",
+      "text_zh":"是戈提斯~雷恩，莱斯特的大舅子，他妻子的哥哥.你应该见见这个人。他真会逗人开心。我希望我有他的社交能力。"
+    },
+    {
+      "role":2,
+      "text":"Who's this lady with Curtis Lane ?",
+      "text_zh":"和戈提斯~雷恩在一起的女士是谁？"
+    },
+    {
+      "role":1,
+      "text":"Does Mrs. Lane live with Lester and Dorothy?",
+      "text_zh":"她与莱斯 特和多萝茜住在一块吗？"
+    },
+    {
+      "role":2,
+      "text":"Oh, no! Lester always said he would never live with his in-laws.Well, Layth, since we're looked at all the pictures, would you like to go out and stretch your legs?",
+      "text_zh":"噢， 不！莱斯特总是说他决不会同她的亲戚住一起。嗳，蕾斯，既然我们把照片都看完了，你想不想出去活动活动胳膊腿儿？"
+    },
+    {
+      "role":1,
+      "text":"Okay! That's a good idea. But I enjoyed looking at the pictures.",
+      "text_zh":"好哇，好主意。可我真的很喜欢看这些照片。"
+    } 
+  ]
+}
