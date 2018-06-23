@@ -1,0 +1,67 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Johnson",
+      "name_zh":"约翰逊"
+    },
+    "2":{
+      "name":"Andrews",
+      "name_zh":"安德鲁斯"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"David Andrews, a successful businessman and an amateur pilot, is talking with Barbara Johnson, from a news magazine, about his family.",
+      "text_zh":"大卫~安德鲁斯，一个成功的商人和业余飞行员，正在同来自一家新闻杂志社的芭芭拉~约翰逊谈论他的家庭。"
+      
+    },
+    {
+      "role":1,
+      "text":"Are your kids having a much different experience than you did growing up?",
+      "text_zh":"你孩子的成长经历是否与你自己的经历有很大的不同？"
+      
+    },
+    {
+      "role":2,
+      "text":"We were more important than my parents were, in their eyes. I feel that that's how my wife and I are with our kids. They're the stars of our family. They're everything to us, and we are secondary to them. People may disagree with that viewpoint, but I don't know how to be any other way.",
+      "text_zh":"在他们眼里，我们比我们父母在我们眼里要重要些。我感到这就是我和妻子与孩子们的相处这道。他们是我们家的明星。他们是我们的一切，我们从属于他们。人们也许不同意这个观点，可是我不知道还有什么别的方法。"
+    },
+    {
+      "role":1,
+      "text":"What has brought you the greatest personal happiness in your life?",
+      "text_zh":"是什么带给你个人生活中的最大幸福？"
+    },
+    {
+      "role":2,
+      "text":"My children. I know that sounds cliche, but there's a reason things are cliche. Because they're true.",
+      "text_zh":"是我的孩子们。我知道这听上去有点老调，但老调的东西有它的道理。因为他们是真的。"
+    },
+    {
+        "role":1,
+        "text":"What kinds of things do you do just for fun?",
+        "text_zh":"你做些什么事只是为了寻开心？"
+      },
+      {
+        "role":2,
+        "text":"Last weeked, I took the kids to Orlando. We stayed at the Ritz-Carlton and just had a blast. Or I'll give everybody a ride in the Ultra-light-- it's a flying kite. But we also do the regular stuff -- go to a movie, have a Sunday barbecue, swim. At the end of the day , we go to Dairy Queen. It's funny because that's exactly what I used to do on Sundays during the summer with my mother and father.",
+        "text_zh":"上周末，我带孩子去奥兰多。我们就呆在里兹—卡尔顿酒店里开心的疯闹，或者我用那种超轻型悄机，一种滑翔机，带着每个人飞一圈。但是我们也做一些常规的事儿---看场电影，举行周日烧烤宴，游泳什么的。傍晚时分我们就去甜品店。有趣的是这正是我过去不同我的父母在夏天的周日一起做的事。"
+      },
+      {
+        "role":1,
+        "text":"Are you just as happy as you were a child?",
+        "text_zh":"你是不是快乐得像个孩子一样？"
+      },
+      {
+        "role":2,
+        "text":"Oh, well , more. Because I have my own kids. I loved my life as a child. But that's the time that your're saying,\"One day I 'll have my own barbecue.\" In other words, every generation gets to improve on the dreams of the last generation.",
+        "text_zh":"噢，比孩子还高兴，因为我有自己的孩子。我喜欢我的孩提时代。但是那时你会说：“总有一天我会有自己的烧烤宴。”换句话说，每一代人都要在上一代人的梦想里过得更好。"
+      }
+
+]
+}

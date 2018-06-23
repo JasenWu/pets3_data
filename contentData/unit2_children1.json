@@ -1,0 +1,45 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Grant",
+      "name_zh":"格兰特"
+    },
+    "2":{
+      "name":"Travolta",
+      "name_zh":"特拉活特"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"John Travolta, a notable actor, is talking with Susan Grant, a reporter, about one aspect of his personality that sppeals to his fans.",
+      "text_zh":"约翰~特拉沃特，一位著名的演员，正在同记者苏珊~格兰特谈论他吸引影迷的某些个性魅力。"
+    },
+    {
+      "role":1,
+      "text":"Your fans think of you as one of Holly woood's nice guys. Why is that?",
+      "text_zh":"你的影迷认为你是好莱坞的好人之一。这是为什么？"
+      
+    },
+    {
+      "role":2,
+      "text":"When I was eighteen, I had met a brilliant Broadway star who now is quite nameless. As he talked to me, the star was so shocked that I interrupted him. I thought, that's right; I was bold and illmannered. Nevertheless, I was impacted so deeply that I made a decision: I thought, I don't ever wat to have the effect on a person that this person had on me, where I was just blown away by disappointment. It took a few years to get over it.",
+      "text_zh":"18岁时，遇到了当时一位红极一时的明星，他现在已了无声息。同我交谈时，他对我打断他的话感到非常震惊。没错，我当时是这样认为的。我那时卤莽无理。不过，我也深受刺激以至于我作出一个决定：我决不会给别人留下他留给我的那种印象，我那时真是失望极了，花了几年的工夫才克服了那种情绪。"
+    },
+    {
+      "role":1,
+      "text":"Do you feel like you've made a difference in your career —— like the inverse of the way that star treated you all those years ago?",
+      "text_zh":"你感到在你的事业中你起到了作用吗？那种与多年前你所受到的待遇相反的作用？"
+    },
+    {
+      "role":2,
+      "text":"I hope so. One thing I do is work with Make-A-Wish. If an ill child's one wish is to see a celebrity and he picks me , then I make time to see him. But I have to be very careful with these kids, because if you get too attached, you're just setting yourself up for loss. There was one girl who had cancer. She was only seven when I met her, and she didn't look like she was going to make it . But I'm at the airport the other night in L.A, and this beautiful 19-year-old girl comes up and says,\"Do you remeber me? I was the Make-A-Wish girl.\" And she took a picture out of her with a bald head and wearing a scarf. \"After that visit with you,\"she said,\"I just decided, I ain't going anywhere. Thank you for giving me the inspiration to stick around.\" At age 50, you have to feel you're contributing to something",
+      "text_zh":"希望如此。我所做的有一件事就是与“许个愿”节目合作。如果一个生病的孩子的愿望是见一个名人而他又选中了我，我一定会抽时间去见他。但是，同这些孩子接触，我得非常谨慎，因为如果你与他们接触太深，你就会自我感到失落。有个患癌症的女孩。我见到她时，她才7岁，看样子支撑不了多久。但是，几天前的一个晚上，在洛杉矶机场，这个漂亮的19岁女孩走到我的跟前说：“你还记得我吗？我就是那个许愿的女孩。”她拿出一张照片，上面的她没有头发、戴着围巾。“见到你之后，”她说：“我就决定我不要到任何地方去。谢谢你鼓励我我留下来。”50岁了，你得有种成就感。"
+    }
+  ]
+}

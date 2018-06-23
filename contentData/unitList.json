@@ -2,52 +2,192 @@
   "1":{  
     "order":1,
     "title":"Greeting and Introduction",
+    
     "children":{
       "1":{
         "title":"Dialog",
         "startTime":0,
-        "endTime":189
+        "endTime":189,
+        "audioName":true
         
       },
       "2":{
         "title":"Dialog",
         "startTime":190,
-        "endTime":321
+        "endTime":321,
+        "audioName":true
       },
       "3":{
         "title":"Monologue",
         "startTime":322,
-        "endTime":469
+        "endTime":469,
+        "audioName":true
          
       },
       "4":{
         "title":"Monologue",
         "startTime":470,
-        "endTime":553
+        "endTime":553,
+        "audioName":true
        
       },
      "5":{
         "title":"Passage",
         "startTime":554,
-        "endTime":733
+        "endTime":733,
+        "audioName":true
+       
+      },
+      "6":{
+        "title":"Excise A",
+        "startTime":554,
+        "endTime":733,
+        "audioName":true
+       
+      },
+      "7":{
+        "title":"Excise B",
+        "startTime":554,
+        "endTime":733,
+        "audioName":true
        
       }
+
     }
   },
   "2":{  
     "order":2,
     "title":"People",
-    "children":[] 
+    "children":{
+      "1":{
+        "title":"Dialog",
+        "startTime":0,
+        "endTime":189,
+        "audioName":true
+        
+      },
+      "2":{
+        "title":"Dialog",
+        "startTime":190,
+        "endTime":321,
+        "audioName":true
+      },
+      "3":{
+        "title":"Dialog",
+        "startTime":322,
+        "endTime":469,
+        "audioName":true
+         
+      },
+      "4":{
+        "title":"Dialog",
+        "startTime":470,
+        "endTime":553,
+        "audioName":true
+      },
+     "5":{
+        "title":"Passage",
+        "startTime":554,
+        "endTime":733,
+        "audioName":true
+      }
+      
+    }
   },
   "3":{  
     "order":3,
     "title":"House and Family",
-    "children":[]
+    "children":{
+      "1":{
+        "title":"Dialog",
+        "startTime":0,
+        "endTime":189,
+        "audioName":true
+        
+      },
+      "2":{
+        "title":"Dialog",
+        "startTime":190,
+        "endTime":321,
+        "audioName":true
+      },
+      "3":{
+        "title":"Dialog",
+        "startTime":322,
+        "endTime":469,
+        "audioName":true
+         
+      },
+      "4":{
+        "title":"Dialog",
+        "startTime":470,
+        "endTime":553,
+        "audioName":true
+      },
+     "5":{
+        "title":"Passage",
+        "startTime":554,
+        "endTime":733,
+        "audioName":true
+      },
+      "6":{
+        "title":"Excise A",
+        "startTime":554,
+        "endTime":733,
+        "audioName":true
+      },
+      "7":{
+        "title":"Excise B - 1",
+        "startTime":554,
+        "endTime":733,
+        "audioName":true
+      },
+      "8":{
+        "title":"Excise B - 2",
+        "startTime":554,
+        "endTime":733,
+        "audioName":true
+      }
+
+    }
   },
   "4":{  
     "order":4,
     "title":"Environment",
-    "children":[]
+    "children":{
+      "1":{
+        "title":"Dialog",
+        "startTime":0,
+        "endTime":189,
+        "audioName":true
+        
+      },
+      "2":{
+        "title":"Dialog",
+        "startTime":190,
+        "endTime":321,
+        "audioName":true
+      },
+      "3":{
+        "title":"Dialog",
+        "startTime":322,
+        "endTime":469,
+        "audioName":true
+         
+      },
+      "4":{
+        "title":"Monologue",
+        "startTime":470,
+        "endTime":553,
+        "audioName":true
+      },
+     "5":{
+        "title":"Passage",
+        "startTime":554,
+        "endTime":733,
+        "audioName":true
+      }
+    }
   },
   "5":{  
     "order":5,
