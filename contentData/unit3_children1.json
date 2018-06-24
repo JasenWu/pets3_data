@@ -1,77 +1,78 @@
 {
-  "roles":{
-    "0":{
-      "name":"aside",
-      "name_zh":"旁白"
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Harry",
+            "name_zh": "哈利"
+        },
+        "2": {
+            "name": "Clyde",
+            "name_zh": "克莱德"
+        }
     },
-    "1":{
-      "name":"Harry",
-      "name_zh":"哈利"
-    },
-    "2":{
-      "name":"Clyde",
-      "name_zh":"克莱德"
-    }
-  },
-
-  "contents":[
-    {
-      "role":0,
-      "text":"Clyde and Harry are friends. They are talking about work and family.",
-      "text_zh":"克莱德和哈利是朋友，他们正在谈论工作和家庭。"
-    },
-    {
-      "role":1,
-      "text":"That's a big job!  Is Betty happy about that?",
-      "text_zh":"那真是个繁忙的差事！贝蒂对这事高兴吗？"
-      
-    },
-    {
-      "role":2,
-      "text":"To be honest with you, Clyde, she isn't pleased at all. Because she's a working mother, she thinks I ought to help her take care of the kids and the housework.",
-      "text_zh":"坦率告诉你，克莱德，她一点也不高兴，因为她是个职业母亲，认为我该帮她照顾孩子们和做些家务。"
-    },
-    {
-      "role":1,
-      "text":"You're in the same spot I was in when Patricia went back to work after the baby was born. She soon called my attention to the fact that she couldn't work full time and keep house, too. I decided a change of plans was alled for, and I began coming straight home from work to help here out. Now while she feeds the baby, I wash the dishes or even cook the meal. I don't think we men spend  enough time with our kids.",
-      "text_zh":"在帕翠丝生完孩子回去上班时，我的处境和你一样。她马上让我知道这个事实：她不能边工作边照顾家庭。我决定修改计划，我开始在下班后直奔家里帮助她，现在她喂小孩时，我会去洗碗甚至做饭，我想咱们男人没有在小孩身上花足够的时间。"
-    },
-    {
-      "role":2,
-      "text":"Never thought much about stuff like that. I guess I just took it for granted that a wife was supposed to  take care of her kids and husband. I didn't think about them needing me —— except to bring home the paycheck.",
-      "text_zh":"从来没有这样考虑过这事，我只是想当然地认为妻子就应该照顾孩子和丈夫。我以为她们并不需要我——除了把薪水带回家以外。"
-    },
-    {
-      "role":1,
-      "text":" They do need you, Harry , especially the kids. You can't just take it for granted that they know you love them. You've got to get to know them.",
-      "text_zh":"他们非常需要你，哈利，特别是孩子们。你不能总是想当然认为他们知道你爱他们，你得去了解他们。"
-    },
-    {
-      "role":2,
-      "text":"Well, I told Betty that it was here job to rear the kids, but maybe I'd better take that back and give her a hand.",
-      "text_zh":"好。我曾告诉贝蒂照看孩子是她的事，也许我该收回这话，去帮帮她。"
-    }
-    ,
-    {
-      "role":1,
-      "text":"You can't change everything all at once, though. Take your time Adjust your schedule so you can be at home more. Get Betty to take off on some trips with you. I'll bet her mom would take over the house for her.",
-      "text_zh":"可是你不可能立刻就改变这一切，慢慢来！调整你的日程表，以便有更多时间呆在家里，带上贝蒂一起去旅游，我敢打赌她妈妈会为她看家的。"
-    },
-    {
-      "role":2,
-      "text":"Maybe you're right.",
-      "text_zh":"也许你是对的。"
-    }
-    ,
-    {
-      "role":1,
-      "text":" Believe me, you won't regret it . It's a real challenge to take on, Harry, but the kids won't wait. They'll be grown and gone before you know it.",
-      "text_zh":"相信我， 你不会后悔的。 这是一次真的挑战，哈利，孩子们不会等了，他们在你意识到之前就将长大、离去了。"
-    },
-    {
-      "role":2,
-      "text":"Thanks for the advice, good buddy.",
-      "text_zh":"好朋友，谢谢你的建议。"
-    }
-  ]
+    "contents": [
+        {
+            "role": 0,
+            "text": "Clyde and Harry are friends. They are talking about work and family.",
+            "text_zh": "克莱德和哈利是朋友，他们正在谈论工作和家庭。"
+        },
+        {
+            "role": 1,
+            "text": "I've taken over as chief conssultant for all of our East Coast offices, you know. I took on so much work that I hardly have time for my own family.",
+            "text_zh": "你知道， 我已作为首席顾问接管了我们所有的东海岸公司。我承担了这么多事，这样我几乎没有时间花在家庭上了。"
+        },
+        {
+            "role": 2,
+            "text": "That's a big job!  Is Betty happy about that?",
+            "text_zh": "那真是个繁忙的差事！贝蒂对这事高兴吗？"
+        },
+        {
+            "role": 1,
+            "text": "To be honest with you, Clyde, she isn't pleased at all. Because she's a working mother, she thinks I ought to help her take care of the kids and the housework.",
+            "text_zh": "坦率告诉你，克莱德，她一点也不高兴，因为她是个职业母亲，认为我该帮她照顾孩子们和做些家务。"
+        },
+        {
+            "role": 2,
+            "text": "You're in the same spot I was in when Patricia went back to work after the baby was born. She soon called my attention to the fact that she couldn't work full time and keep house, too. I decided a change of plans was called for, and I began coming straight home from work to help here out. Now while she feeds the baby, I wash the dishes or even cook the meal. I don't think we men spend  enough time with our kids.",
+            "text_zh": "在帕翠丝生完孩子回去上班时，我的处境和你一样。她马上让我知道这个事实：她不能边工作边照顾家庭。我决定修改计划，我开始在下班后直奔家里帮助她，现在她喂小孩时，我会去洗碗甚至做饭，我想咱们男人没有在小孩身上花足够的时间。"
+        },
+        {
+            "role": 1,
+            "text": "Never thought much about stuff like that. I guess I just took it for granted that a wife was supposed to  take care of her kids and husband. I didn't think about them needing me —— except to bring home the paycheck.",
+            "text_zh": "从来没有这样考虑过这事，我只是想当然地认为妻子就应该照顾孩子和丈夫。我以为她们并不需要我——除了把薪水带回家以外。"
+        },
+        {
+            "role": 2,
+            "text": " They do need you, Harry , especially the kids. You can't just take it for granted that they know you love them. You've got to get to know them.",
+            "text_zh": "他们非常需要你，哈利，特别是孩子们。你不能总是想当然认为他们知道你爱他们，你得去了解他们。"
+        },
+        {
+            "role": 1,
+            "text": "Well, I told Betty that it was here job to rear the kids, but maybe I'd better take that back and give her a hand.",
+            "text_zh": "好。我曾告诉贝蒂照看孩子是她的事，也许我该收回这话，去帮帮她。"
+        },
+        {
+            "role": 2,
+            "text": "You can't change everything all at once, though. Take your time Adjust your schedule so you can be at home more. Get Betty to take off on some trips with you. I'll bet her mom would take over the house for her.",
+            "text_zh": "可是你不可能立刻就改变这一切，慢慢来！调整你的日程表，以便有更多时间呆在家里，带上贝蒂一起去旅游，我敢打赌她妈妈会为她看家的。"
+        },
+        {
+            "role": 1,
+            "text": "Maybe you're right.",
+            "text_zh": "也许你是对的。"
+        },
+        {
+            "role": 2,
+            "text": " Believe me, you won't regret it . It's a real challenge to take on, Harry, but the kids won't wait. They'll be grown and gone before you know it.",
+            "text_zh": "相信我， 你不会后悔的。 这是一次真的挑战，哈利，孩子们不会等了，他们在你意识到之前就将长大、离去了。"
+        },
+        {
+            "role": 1,
+            "text": "Thanks for the advice, good buddy.",
+            "text_zh": "好朋友，谢谢你的建议。"
+        }
+    ]
 }
