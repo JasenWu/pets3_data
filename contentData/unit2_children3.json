@@ -1,0 +1,57 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Jones",
+      "name_zh":"琼斯"
+    },
+    "2":{
+      "name":"Lee",
+      "name_zh":"李"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"Tom Lee, an established lawyer, is talking with Kate Jones, a reporter, about the impack of his childhood on his growth.",
+      "text_zh":"汤姆~李，一位功成名就的律师，正在与记者凯特~琼斯谈论他的童年对他成长的影响。"
+      
+    },
+    {
+      "role":1,
+      "text":"You had a traumatic childhood. How did it shape who you've become?",
+      "text_zh":"你的童年充满创伤。它是如何影响你今天的成功的？"
+      
+    },
+    {
+      "role":2,
+      "text":"My mother was and is so loving, but she had to work all the time. I had an alcoholic father. I had sisters who married in high school to escape, and I just had absolutely no leadership whatsoever. A lot of what I ultimately defined myself to be was a reaction against that. My dad was beatem and abused by his mother all through his childhood.She was so embittered, but it doesn't make it any easier to live with.",
+      "text_zh":"我母亲过去和现在都很有爱心，那时她长时间工作。我父亲是个酒鬼。 为了逃避，我姐妹们高中没毕业都嫁了出去。我绝对没有什么领导能力。我之所以成为现在的我是对那种环境的反抗。我父亲在他的童年里一直受到他母亲的殴打和虐待。她是一个很差劲的女人。我知道我父亲的成长环境，也知道他为什么痛苦，但这些都不能使我同他生活变得轻松些。"
+    },
+    {
+      "role":1,
+      "text":"Especially when you're a child?",
+      "text_zh":"尤其你还是个孩子。"
+    },
+    {
+      "role":2,
+      "text":"He was never abusive with me or my sister. He drank to escape. We were living in Denver when I was in the fourth, fifth and sixth grades. He was a tool pusher essentially, sold drill bits to oil-drilling companies. He entertained the drillers, the buyers, constantly. Soo he was out every night, drinking. It got so bad that he either quit or got fired --as a kid you never know. All of a sudden, we were out of a job. He said, \"I'm going to go back to get my ph.D. in psychology.\" He was admitted to the University of Oklahoma, so we moved to Oklahoma City For that period of time, he didn't drink at all. He just quit.",
+      "text_zh":"我父亲从不虐待我或者我的姐妹们。他喝酒就是为了逃避。我上四、五、六年级时，我家住在丹佛。他是个工具推销员，向采油公司推销钻井用的零配件。他要不停地招待钻工和客户。因此，他每晚都要出去喝酒。情况变得很槽，他要么辞职要么解雇——作为一个孩子我无从知晓真相。突然，我们没工作了。他说：“我打算回去拿心理学博士学位。”俄克拉荷马大学接受了他，所以我们搬到俄克拉荷马城。有一段时间，他一点酒不喝。他戒了。"
+    },
+    {
+        "role":1,
+        "text":"You must have respected that?",
+        "text_zh":"你那时一定很敬佩他。"
+      },
+      {
+        "role":2,
+        "text":" I did, but it came with a price because when he was drinking, we had hobs and money. When he quit, we traded alcoholism for being dirt-poor.",
+        "text_zh":"是啊，但是有代价的。因为他喝酒时，我们有工作有钱。一旦他不喝了，我们用酗酒换来了赤贫。"
+      } 
+
+]
+}

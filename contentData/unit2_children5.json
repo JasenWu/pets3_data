@@ -1,0 +1,39 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "McGraw",
+            "name_zh": "麦格罗"
+        },
+        "2": {
+            "name": "Yorke",
+            "name_zh": "约克"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "If a computer were to design the perfect U.N. Secretary-General, he or she would look sonething like this: African born; European and American educated, with decades of service in the U.N. system; married to a European; and possessing a quiet charisma and calm authority as chaos arises. That the U.N. in 1996 found such a person to restore its sense of direction and purpose was a near miracle.",
+            "text_zh": "如果让电脑来设计一个完美的联合国秘书长，他或她会是这样：来自非洲，在欧洲和美国接受教育，有数十年在联合国工作的经历；同一个欧洲人结婚，具有沉静的个人魅力，在混乱的局势中指挥若定。"
+        },
+        {
+            "role": 0,
+            "text": "But out of the U.N.’s failures in Bosnia, Somalia and Rwanda came Kopi Annan, the career international civil servant who had participated in these disasters yet somehow survived and learned from them.",
+            "text_zh": "1996年，联合国找到这样一个人来重建她的方针和宗旨，这几乎是一个奇迹。但是从联合国在波斯尼亚、索马里亚和卢旺达的失败中走出了科菲、安南，这位职业国际公务员经历了这些灾难并幸存下来，并从中获取了经验。"
+        },
+        {
+            "role": 0,
+            "text": "Today Annan is in the middle of his second term. His task is not finished, and the U.N. is still far from what it should be. But Annan has tested the limits of the job, accumulating more authority-one cannot use the word power, given the constraints the U.N. system places on him-than any of his predecessors.",
+            "text_zh": "目前，安南正处于他的第二个任期。他的使命没有完成，联合国离她的目标尚远。但是安南已经检验了对他的工作的种种限制，逐渐建立起比他的任何前任都高的威信——这里考虑到联合国体制对他的约束，我们不能用权力二字。"
+        },
+        {
+            "role": 0,
+            "text": "His complex relationship with the U.S. government is little understood. When Annan takes positions in public that are displeasing to the bush administration, it unleashes its attack dogs. Yet when administration officials found their policies in Iraq floundering, they asked the U.N. for help. Some observers told Annan that he should responsibility was to the cause of stabilizing Iraq. He began to work toward the decisive date of June 30, when the u.s. will hand over control to Iraqi authorities and an uncertain situation will prevail determined by factors way beyond his, or anyone else’s, ability to control. But it is Annan’s destiny to be handed the very worst problems after they have been unsuccessfully addressed by others. Anyone who knows him knows he wades into such problems with his usual blend of courage, self-control, modesty and optimism.",
+            "text_zh": "没人能理解他同美国当局的复杂关系。当安南在公众面前的立场惹恼了布什政府，它就会放出它爪牙来攻击他然而，当美国官员发现他们在伊拉克的政策岌岌可危时，他们又找联合国寻求帮助。一些观察家告诉安南他不应该帮助美国走出泥潭。但是，他知道他更大的责任是让伊拉克走上稳定的进程。6月30日，美国将把对伊拉克的控制权移交给伊拉克政府，他已开始为这个决定性的日子而奔忙。一个前途未定的局面又将展开，安南，或是别的什么人，是否能在伊拉克成功将由一些他或是别的什么人无法控制的因素决定。但是安南的使命就是接管别人没能解决的棘手的问题，任何了解他的人都知道他是带着他一贯的勇气，自制、谦虚和乐观精神在这些困难中艰难前行。"
+        }
+         
+    ]
+}

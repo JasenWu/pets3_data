@@ -1,0 +1,63 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "McGraw",
+            "name_zh": "麦格罗"
+        },
+        "2": {
+            "name": "Yorke",
+            "name_zh": "约克"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Phillip McGraw, a famous talk-show host, is talking with Laura Yorke, a reporter, about his work and family.",
+            "text_zh": "菲利普~麦格罗，一位著名的谈话节目主持人，正在同记者萝拉~约克谈他的工作和家庭。"
+        },
+        {
+            "role": 1,
+            "text": "You've talked about finding meaning in suffering. What do you mean by that?",
+            "text_zh": "你谈到苦难中找寻生活的意义。你的意思是什么？"
+        },
+        {
+            "role": 2,
+            "text": "Everybody at some point is going to have misfortune. I think if we don’t learn from that, then it was just a penalty. But if you use it, then it becomes tuition. I draw a lot on my personal experiences. It’s hard for people to deceive me, because I’m a pretty street-smart guy. Some husband comes on my show and tries to tell me he’s not really a workaholic. I say, “You’re talking to one. I’ve been there.”",
+            "text_zh": "每个人都会在某个时间遭遇到不幸。我想如果我们没有从中获得教益，不幸就只会是一种惩罚。但是如果你利用它，它就会成为教诲。我从我的个人经历中学到很多。人们很难欺骗我，因为我是个谙熟世故的人。一位丈夫来到我的谈话节目，试图告诉我他不是真正的工作狂。我说：“你的谈话对象就是，我曾经就是个工作狂”"
+        },
+        {
+            "role": 1,
+            "text": "Are there families who come on your show but whom you feel you just can’t help?",
+            "text_zh": "有没有家庭到你的节目来而你却感到无能为力？"
+        },
+        {
+            "role": 2,
+            "text": "I never think that I’m doing eight-minute cures on television. But I think that 50 percent of the solution to any problem lies in defining it first. I can be an emotional compass that points them down the path, but the real work will start when they walk off the stage.",
+            "text_zh": "我从不认为我是在电视上做8分钟疗法。但我想解决问题的一半在于先要定义它。我可以做个情感指针，为他们指明明路，但是他们走出演播台时，真正的工作才刚开始。"
+        },
+        {
+            "role": 1,
+            "text": "You must haveI understand you and Robin and your two sons are an incredibly tight-knit family. What would you say is the greatest value system that you, the McGraws, have? What runs you guys?",
+            "text_zh": "我知道你和罗宾以及你们的两个儿子组成一个关系非常紧密的家庭，你认为什么是你和你的家人最重要的价值观？什么是你们的行为准则？"
+        },
+        {
+            "role": 2,
+            "text": "It may sound dull, but it’s really family first. Our family and its priorities, needs, values, come before everything else — work, recreation, whatever. When I say family first, that means marriage also, because our belief has always been that one of the greatest gifts you can give your children is a good marriage between their mom and dad, so they don’t wind up living in a divorce situation.",
+            "text_zh": "可能听起来没什么新意，但第一位的肯定是家庭。我们家，我们家优先考虑的问题、需要、价值观比例的事情都重要，比如工作、娱乐，不管什么。我说家庭第一，也意味婚姻。因为我们一直坚信你能给你的孩子的最好的礼物就是妈妈和爸爸的幸福婚姻，这样他们就不会生活在父母离婚的阴影中。"
+        },
+        {
+            "role": 1,
+            "text": "How do you feel you’ve succeeded as a parent?",
+            "text_zh": "你怎么样判断你是个成功的家长？"
+        },
+        {
+            "role": 2,
+            "text": " Our approach was that if Robin and I fell off the world tomorrow, would our boys be equipped to manage their lives, would they have the values, work ethic and goals-management skills they needed to go forward? I think they would.",
+            "text_zh": "我们的方法是看如果我和罗宾明天要离开这个世界，我们的儿子们是否准备好来管理他们的生活，他们是否具有自己的价值观、职业道德和目标管理技巧，这些都是他们能继续向前所需要的。我认为他们会具备这一切。"
+        }
+    ]
+}
