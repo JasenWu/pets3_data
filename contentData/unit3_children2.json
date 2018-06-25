@@ -1,0 +1,83 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Eileen",
+            "name_zh": "艾琳"
+        },
+        "2": {
+            "name": "Frank",
+            "name_zh": "弗兰克"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Frank is talking with his wife Eileen in the living-room.",
+            "text_zh": "弗兰克和妻子艾琳正在客厅谈话。"
+        },
+        {
+            "role": 1,
+            "text": "Please put your cigagette out. The smoke gives me a headache.",
+            "text_zh": "请把你的烟灭了，烟雾让我头疼。"
+        },
+        {
+            "role": 2,
+            "text": "OK!OK! You know, I hate to see women sitting down all day with their heads buried in their hands.",
+            "text_zh": "好！好！你知道，我讨厌看到女人整天坐着埋头忙手里的活。"
+        },
+        {
+            "role": 1,
+            "text": " Do you want me to put my needlework away?",
+            "text_zh": "你让我放下手里的针线活？"
+        },
+        {
+            "role": 2,
+            "text": "You bet!",
+            "text_zh": "当然。"
+        },
+        {
+            "role": 1,
+            "text": "I am putting forth a lot of effort to make this tablecloth, You always coplain about whatever you see me doing. I can't put up with your constant critisism anymore.",
+            "text_zh": "我花了很多精力做这个桌布，你看了我做什么总是抱怨，我再也不能忍受你无休止的批评了。"
+        },
+        {
+            "role": 2,
+            "text": "  I’m sorry, sweetie. Please forgive my bad temper. I was putting a machine together today, and I had problems with it. I'm tired. Will you please forgive me?",
+            "text_zh": "对不起，亲爱的。请原谅我的坏脾气。我今天在组装一部机器，遇到了一些问题！我累了，你能原谅我吗？"
+        },
+        {
+            "role": 1,
+            "text": "This time I will, but please don't put me down anymore.",
+            "text_zh": "这次原谅你了，请你以后别贬低我。"
+        },
+        {
+            "role": 2,
+            "text": " Honey, I've put aside some money that I earned by doing some extra mechanical work. Would you like to go out to dinner tonight, just the two of us?",
+            "text_zh": "亲爱的，我存了一些做额外机械活的钱，今晚就我俩去吃晚餐，怎么样？"
+        },
+        {
+            "role": 1,
+            "text": "How exciting!  I'll take a shower and put on my best dress. Oh, here's an advertisement for that new Italian restaurant in the shopping mall.",
+            "text_zh": "好啊！我冲个澡，穿上最好的衣服。噢，这里有一张购物广场新开的意大利餐馆的广告。"
+        },
+        {
+            "role": 2,
+            "text": "Mmm! Look at these photographs. They put me in the mood for Italian food. Would you like to try this new place?",
+            "text_zh": "嗯！看看这些照片。它们使我有了吃意大利餐的心情。你想试试这个地方吗？"
+        },
+        {
+            "role": 1,
+            "text": "Can we afford it?",
+            "text_zh": "我们承担得起吗？"
+        },
+        {
+            "role": 2,
+            "text": "Don't worry! We can manage. Payday is tomorrow!",
+            "text_zh": "别担心，我们能够对付。明天发薪水。"
+        }
+    ]
+}
