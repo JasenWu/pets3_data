@@ -13,59 +13,66 @@
             "name_zh": "詹妮弗"
         }
     },
+
+    
     "contents": [
         {
             "role": 0,
+            "text": "Tim is paying a short visit  to Jennifer, her mother-in-law.",
+            "text_zh": "泰米短暂拜访她婆婆詹妮弗。"
+        },
+        {
+            "role": 1,
             "text": "I was going by the store near your house and thought of stopping for a few moments before going on home.",
             "text_zh": "我去了您家附近的商店，回家前到您这里来转转。"
         },
         {
-            "role": 1,
+            "role": 2,
             "text": " I'm glad you did! Come on in! How are things going?",
             "text_zh": "你能来，我很高兴！请进！都还好吧？"
         },
         {
-            "role": 2,
+            "role": 1,
             "text": "Just fine. David and I have been invited to a formal dinner at his boss's home. But I have no idea what I should ware?",
             "text_zh": "很好，大卫的老板邀请我俩参加他的正式晚宴。但我不知道该穿什么？"
         },
         {
-            "role": 1,
+            "role": 2,
             "text": "If I were you. I'd wear the light blue dress David brought back from London. Your black purse and shoes go nicely with that dress.",
             "text_zh": "要是我，就会穿大卫从伦敦带回来的浅蓝色衣服，你的黑色钱包和鞋子与那件衣服很相配。"
         },
         {
-            "role": 2,
+            "role": 1,
             "text": "But I can't wear that dress. Forget it!",
             "text_zh": "但我不能穿那件衣服，别提这件衣服了！"
         },
         {
-            "role": 1,
+            "role": 2,
             "text": "Why not?",
             "text_zh": "怎么了？"
         },
         {
-            "role": 2,
+            "role": 1,
             "text": " Because it's too short. I need a more modes dress.",
             "text_zh": "因为它太短了，我需要一件更庄重的衣服。"
         },
         {
-            "role": 1,
+            "role": 2,
             "text": "When David goes abroad, he always brings back nice dresses for you. Let's see ... Maybe the white dress you wore for New Year's.",
             "text_zh": "大卫出国总给你带些好衣服，让我想想....也许你新年穿的白衣服不错。"
         },
         {
-            "role": 2,
+            "role": 1,
             "text": " I guess that will do! I really am lucky to have David. He's so thoughtful! He always goes beyond my expectations.",
             "text_zh": "我想是的！我嫁给大卫真幸运，他考虑得很周到！他总是让我出乎意料。"
         },
         {
-            "role": 1,
+            "role": 2,
             "text": "Since this is a formal dinner, the kids can't go along with you. Would you like me to baby-sit for you?",
             "text_zh": "这是正式晚宴，孩子们不能跟着你。你把他们交给我照看，行吗？"
         },
         {
-            "role": 2,
+            "role": 1,
             "text": "Sure! Your offer goes to prove that you're a wonderful mother-in-law.",
             "text_zh": "当然，您能主动帮我，真是一位好婆婆。"
         } 
