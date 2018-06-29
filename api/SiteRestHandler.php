@@ -25,10 +25,10 @@ class SiteRestHandler extends SimpleRest
  
     }
       //获取对话列表
-    public function getChapter($unitId)
+    public function getChapter($unit_id)
     {
         $site = new Site();
-        $rawData = $site->getChapter($unitId);//todo
+        $rawData = $site->getChapter($unit_id);//todo
 
         if (empty($rawData)) {
             $statusCode = 404;
@@ -57,8 +57,44 @@ class SiteRestHandler extends SimpleRest
 
         $requestContentType = $_SERVER['HTTP_ACCEPT'];
         $this->setHttpHeaders($requestContentType, $statusCode);
-        echo json_encode($rawData);
+        echo $rawData;
     }
+
+    public function insertChapter($params){
+        $site = new Site();
+        $rawData = $site->insertChapter($params);
+
+        if (empty($rawData)) {
+            $statusCode = 404;
+            $rawData = array('error' => 'No sites found!');
+        } else {
+            $statusCode = 200;
+        }
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, $statusCode);
+        echo $rawData;
+
+    }
+
+    public function insertContent($params){
+        $site = new Site();
+        $rawData = $site->insertContent($params);
+
+        if (empty($rawData)) {
+            $statusCode = 404;
+            $rawData = array('error' => 'No sites found!');
+        } else {
+            $statusCode = 200;
+        }
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, $statusCode);
+        echo $rawData;
+
+    }
+
+    
 
    
 }

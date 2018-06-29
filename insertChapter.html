@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script></script>
+</head>
+
+<body>
+  <script>
+    let data = {
+      "1": {
+        "order": 1,
+        "title": "Greeting and Introduction",
+
+        "children": {
+          "1": {
+            "title": "Dialog",
+            "startTime": 0,
+            "endTime": 189,
+            "audioName": true
+
+          },
+          "2": {
+            "title": "Dialog",
+            "startTime": 190,
+            "endTime": 321,
+            "audioName": true
+          },
+          "3": {
+            "title": "Monologue",
+            "startTime": 322,
+            "endTime": 469,
+            "audioName": true
+
+          },
+          "4": {
+            "title": "Monologue",
+            "startTime": 470,
+            "endTime": 553,
+            "audioName": true
+
+          },
+          "5": {
+            "title": "Passage",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+
+          },
+          "6": {
+            "title": "Excise A",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+
+          },
+          "7": {
+            "title": "Excise B",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+
+          }
+
+        }
+      },
+      "2": {
+        "order": 2,
+        "title": "People",
+        "children": {
+          "1": {
+            "title": "Dialog",
+            "startTime": 0,
+            "endTime": 189,
+            "audioName": true
+
+          },
+          "2": {
+            "title": "Dialog",
+            "startTime": 190,
+            "endTime": 321,
+            "audioName": true
+          },
+          "3": {
+            "title": "Dialog",
+            "startTime": 322,
+            "endTime": 469,
+            "audioName": true
+
+          },
+          "4": {
+            "title": "Dialog",
+            "startTime": 470,
+            "endTime": 553,
+            "audioName": true
+          },
+          "5": {
+            "title": "Passage",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+          }
+
+        }
+      },
+      "3": {
+        "order": 3,
+        "title": "House and Family",
+        "children": {
+          "1": {
+            "title": "Dialog",
+            "startTime": 0,
+            "endTime": 189,
+            "audioName": true
+
+          },
+          "2": {
+            "title": "Dialog",
+            "startTime": 190,
+            "endTime": 321,
+            "audioName": true
+          },
+          "3": {
+            "title": "Dialog",
+            "startTime": 322,
+            "endTime": 469,
+            "audioName": true
+
+          },
+          "4": {
+            "title": "Dialog",
+            "startTime": 470,
+            "endTime": 553,
+            "audioName": true
+          },
+          "5": {
+            "title": "Passage",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+          },
+          "6": {
+            "title": "Excise A",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+          },
+          "7": {
+            "title": "Excise B - 1",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+          },
+          "8": {
+            "title": "Excise B - 2",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+          }
+
+        }
+      },
+      "4": {
+        "order": 4,
+        "title": "Environment",
+        "children": {
+          "1": {
+            "title": "Dialog",
+            "startTime": 0,
+            "endTime": 189,
+            "audioName": true
+
+          },
+          "2": {
+            "title": "Dialog",
+            "startTime": 190,
+            "endTime": 321,
+            "audioName": true
+          },
+          "3": {
+            "title": "Dialog",
+            "startTime": 322,
+            "endTime": 469,
+            "audioName": true
+
+          },
+          "4": {
+            "title": "Monologue",
+            "startTime": 470,
+            "endTime": 553,
+            "audioName": true
+          },
+          "5": {
+            "title": "Passage",
+            "startTime": 554,
+            "endTime": 733,
+            "audioName": true
+          }
+        }
+      },
+      "5": {
+        "order": 5,
+        "title": "Weather and Climate",
+        "children": []
+      },
+      "6": {
+        "order": 6,
+        "title": "Eating and Drinking",
+        "children": []
+      },
+      "7": {
+        "order": 7,
+        "title": "Food Culture",
+        "children": []
+      },
+      "8": {
+        "order": 8,
+        "title": "At Home",
+        "children": []
+      },
+      "9": {
+        "order": 9,
+        "title": "At Work",
+        "children": []
+      },
+      "10": {
+        "order": 10,
+        "title": "Hobbies and Interest",
+        "children": []
+      },
+      "11": {
+        "order": 11,
+        "title": "Entertainments and Sports",
+        "children": []
+      },
+      "12": {
+        "order": 12,
+        "title": "Shops and Commodities",
+        "children": []
+      },
+      "13": {
+        "order": 13,
+        "title": "Shopping",
+        "children": []
+      },
+      "14": {
+        "order": 14,
+        "title": "Holiday Festivals",
+        "children": []
+      },
+      "15": {
+        "order": 15,
+        "title": "Holiday Activities",
+        "children": []
+      },
+      "16": {
+        "order": 16,
+        "title": "Places and Locations",
+        "children": []
+      },
+      "17": {
+        "order": 17,
+        "title": "Travel and Tourism",
+        "children": []
+      },
+      "18": {
+        "order": 18,
+        "title": "Sightseeing and Travel Plans",
+        "children": []
+      },
+      "19": {
+        "order": 19,
+        "title": "Visit a Doctor and Health  Insurance",
+        "children": []
+      },
+      "20": {
+        "order": 20,
+        "title": "Bodybuilding and Environmental Sanitation",
+        "children": []
+      },
+      "21": {
+        "order": 21,
+        "title": "Services(1)",
+        "children": []
+      },
+      "22": {
+        "order": 22,
+        "title": "Services(2)",
+        "children": []
+      },
+      "23": {
+        "order": 23,
+        "title": "Making Friendsand Communication",
+        "children": []
+      },
+      "24": {
+        "order": 24,
+        "title": "Political , Legal and Social Lssuses",
+        "children": []
+      },
+      "25": {
+        "order": 25,
+        "title": "Work and Posts",
+        "children": []
+      },
+      "26": {
+        "order": 26,
+        "title": "Finding a Job",
+        "children": []
+      },
+      "27": {
+        "order": 27,
+        "title": "Education",
+        "children": []
+      },
+      "28": {
+        "order": 28,
+        "title": "Popular Science",
+        "children": []
+      },
+      "29": {
+        "order": 29,
+        "title": "History",
+        "children": []
+      },
+      "30": {
+        "order": 30,
+        "title": "Geography",
+        "children": []
+      }
+    }
+    let arr = [];
+    let order = 0;
+    for(let x in data){
+      //console.log(data[x].title);
+      order++;
+      let title = data[x].title;
+      axios.post('http://www.renjie.net.cn/pets3/api/RestController.php', {
+        req: 'chapter',
+        type: 'insert',
+        params:{
+          unit_id:order,
+          order:order,
+          title:title,
+          remark:"",
+
+        }
+      })
+      .then(function (response) {
+        console.log(response);
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
+      arr.push(title);
+    }
+
+
+
+
+    console.log(arr);
+  </script>
+</body>
+
+</html>

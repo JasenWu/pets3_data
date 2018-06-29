@@ -1,4 +1,12 @@
 <?php
+// 获取unit列表：http://www.renjie.net.cn/pets3/api/RestController.php?req=unit
+//获取章节列表：http://www.renjie.net.cn/pets3/api/RestController.php?req=chapter&unit_id=1
+//获取章节列表：http://www.renjie.net.cn/pets3/api/RestController.php?req=content&unit_id=1&chapter_id=3
+
+// 插入章节 http://www.renjie.net.cn/pets3/api/RestController.php 参数：{req:unit type:insert,params:{order:1,title:"example",remark:"example"}
+// 插入chapter http://www.renjie.net.cn/pets3/api/RestController.php 参数：{req:unit type:insert,params:{order:1,title:"example",remark:"example"}
+// 插入content http://www.renjie.net.cn/pets3/api/RestController.php 参数：{req:unit type:insert,params:{unit_id:1,chapter_id=1,roleId:1,content_en:"example",content_zh:"content_zh",remark:"example"}
+
 require_once "SiteRestHandler.php";
 
 $req = "";
@@ -7,11 +15,12 @@ if (isset($_GET["req"])) { //get请求
     $req = $_GET["req"];
     getRequest($req);
 } else {
-    $req = $_POST["req"];
-    $type = $_POST["type"];
-    $params = $_POST["params"];
+    $param = json_decode(file_get_contents('php://input'), true);
+    //var_dump($param);
+    $req = $param["req"];
+    $type = $param["type"];
+    $params = $param["params"];
     postRequest($req, $type, $params);
-
 }
 
 function getRequest($req)
@@ -27,17 +36,17 @@ function getRequest($req)
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->getUnit();
             break;
-        case "insertUnit": //插入单元数据
-            // 处理 REST Url /RestController.php?req=insertUnit
-            $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertUnit();
-            break;
-
+ 
         case "chapter":
-            $unitId = $_GET["unitId"];
+            $unit_id = $_GET["unit_id"];
             // 处理 REST Url /RestController.php?req=chapter
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->getChapter($unitId);
+            $siteRestHandler->getChapter($unit_id);
+            break;
+        case "insertChapter": //插入单元数据
+            // 处理 REST Url /RestController.php?req=insertUnit
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->insertChapter();
             break;
 
         case "roles":
@@ -52,7 +61,6 @@ function getRequest($req)
             $siteRestHandler->getContent();
             break;
 
-      
         default:
             echo "请检查参数2222" . $requestType;
 
@@ -65,29 +73,28 @@ function insert($req, $params)
 
     switch ($req) {
 
-        case "unit": //列出单元
+        case "unit": //插入单元
             // 处理 REST Url /RestController.php?req=unit
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->insertUnit($params);
             break;
 
-        case "chapter":
-            $unitId = $_GET["unitId"];
+        case "chapter"://插入章节
             // 处理 REST Url /RestController.php?req=chapter
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertChapter($unitId);
+            $siteRestHandler->insertChapter($params);
             break;
 
-        case "roles":
+        case "roles"://插入角色
             // 处理 REST Url /RestController.php?req=roles
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->insertRoles();
             break;
 
-        case "content":
+        case "content"://插入内容
             // 处理 REST Url /RestController.php?req=content
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertContent();
+            $siteRestHandler->insertContent($params);
             break;
 
         default:

@@ -13,7 +13,7 @@ INSERT INTO `unit`(`id`, `order`, `title`, `remark`) VALUES (null,1,'Greeting an
 -- 创建 chapter 对话表
 CREATE TABLE IF NOT EXISTS `chapter`(
    `id` INT UNSIGNED AUTO_INCREMENT COMMENT '主键自增',
-   `unitId` INT COMMENT '章节Id关联',
+   `unit_id` INT COMMENT '章节Id关联',
    `order` INT  COMMENT '章节顺序',
    `title` VARCHAR(60) NOT NULL  COMMENT '章节标题',
    `remark` VARCHAR(240) NULL  COMMENT '章节备注信息',
@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS `chapter`(
 -- 创建 roles 角色表
 CREATE TABLE IF NOT EXISTS `roles`(
    `id` INT UNSIGNED AUTO_INCREMENT  COMMENT '主键自增',
-   `unitId` INT  COMMENT '章节Id关联',
+   `unit_id` INT  COMMENT '章节Id关联',
    `chapterId` INT  COMMENT '章节对话ID关联',
    `name` VARCHAR(10) NOT NULL  COMMENT '角色名称',
    `sex` INT  COMMENT '1：男 0：女',
@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS `roles`(
 -- 创建 对话内容 角色表
 CREATE TABLE IF NOT EXISTS `content`(
    `id` INT UNSIGNED AUTO_INCREMENT COMMENT '主键自增',
-   `unitId` INT  COMMENT '章节Id关联',
+   `unit_id` INT  COMMENT '章节Id关联',
    `chapterId` INT  COMMENT '章节对话ID关联',
    `roleId` INT  COMMENT '角色ID关联',
    `content_en` TEXT NOT NULL  COMMENT '英文内容',
