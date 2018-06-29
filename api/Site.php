@@ -13,7 +13,7 @@ class Site
     {
         $DB = new Db();
         $conn = $DB->connect();
-        $sql = 'SELECT * FROM unit';
+        $sql = 'SELECT * FROM `unit`';
         $retval = mysqli_query($conn, $sql);
         if (!$retval) {
             die('无法读取数据: ' . mysqli_error($conn));
@@ -26,7 +26,56 @@ class Site
         mysqli_close($conn);
         return $result;
     }
-    //获取对话列表
+
+    //获取章节列表
+    public function getChapter($unit_id)
+    {
+        $DB = new Db();
+        $conn = $DB->connect();
+        if($unit_id){
+            $sql = 'SELECT * FROM `chapter`  WHERE `unit_id`=' . $unit_id;
+        }else{
+            $sql = 'SELECT * FROM `chapter`';
+        }
+        $retval = mysqli_query($conn, $sql);
+        if (!$retval) {
+            die('无法读取数据: ' . mysqli_error($conn));
+        }
+       
+        
+        $result = array();
+        while ($rowData = mysqli_fetch_array($retval, MYSQLI_ASSOC)){
+            array_push($result,$rowData);
+        }
+        mysqli_close($conn);
+        return $result;
+    }
+
+    //获取章节列表
+    public function getRoles($chapter_id)
+    {
+        $DB = new Db();
+        $conn = $DB->connect();
+        if($chapter_id){
+            $sql = 'SELECT * FROM `roles`  WHERE `chapter_id` =' . $chapter_id;
+        }else{
+            $sql = 'SELECT * FROM `roles`';
+        }
+       
+        
+ 
+        $retval = mysqli_query($conn, $sql);
+        if (!$retval) {
+            die('无法读取数据: ' . mysqli_error($conn));
+        }
+        $rowData = mysqli_fetch_array($retval, MYSQLI_ASSOC);
+        mysqli_close($conn);
+        return $rowData;
+    }
+
+    
+
+    //插入章节
     public function insertUnit($params)
     {    
         
@@ -45,7 +94,7 @@ class Site
 
     }
 
-    //获取章节列表
+    //插入章节
     public function insertChapter($params)
     {    
         
@@ -64,7 +113,7 @@ class Site
 
     }
 
-    //获取章节列表
+    //插入内容
     public function insertContent($params)
     {    
         $arr =  $params;
@@ -80,24 +129,26 @@ class Site
         mysqli_close($conn);
 
     }
- 
 
-    //获取对话列表
-    public function getChapter($unit_id)
-    {
+    
+    //插入角色
+    public function insertRoles($params)
+    {    
+        $arr =  $params;
         $DB = new Db();
         $conn = $DB->connect();
-        $sql = 'SELECT * FROM chapter  WHERE `unit_id` =' . $unit_id;
-        
-        mysqli_query($conn , "set names utf8");
+        $sql = 'INSERT INTO `roles` (`id`,`unit_id`,`chapter_id`,`name`,`sex`,`type`,`remark`) VALUES (null,"'.$arr['unit_id'].'","'.$arr['chapter_id'].'","'.$arr['name'].'","'.$arr['sex'].'","'.$arr['type'].'","'.$arr['remark'].'")';
         $retval = mysqli_query($conn, $sql);
         if (!$retval) {
             die('无法读取数据: ' . mysqli_error($conn));
         }
-        $rowData = mysqli_fetch_array($retval, MYSQLI_ASSOC);
+        return "{code:0}";
         mysqli_close($conn);
-        return $rowData;
+
     }
+ 
+
+    
 
     
 }

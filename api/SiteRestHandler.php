@@ -44,6 +44,28 @@ class SiteRestHandler extends SimpleRest
  
     }
 
+      //获取对话列表
+      public function getRoles($chapter_id)
+      {
+          $site = new Site();
+          $rawData = $site->getRoles($chapter_id);//todo
+  
+          if (empty($rawData)) {
+              $statusCode = 404;
+              $rawData = array('error' => 'No sites found!');
+          } else {
+              $statusCode = 200;
+          }
+  
+          $requestContentType = $_SERVER['HTTP_ACCEPT'];
+          $this->setHttpHeaders($requestContentType, $statusCode);
+   
+          echo json_encode($rawData);
+   
+      }
+
+    
+
     public function insertUnit($params){
         $site = new Site();
         $rawData = $site->insertUnit($params);
@@ -80,6 +102,23 @@ class SiteRestHandler extends SimpleRest
     public function insertContent($params){
         $site = new Site();
         $rawData = $site->insertContent($params);
+
+        if (empty($rawData)) {
+            $statusCode = 404;
+            $rawData = array('error' => 'No sites found!');
+        } else {
+            $statusCode = 200;
+        }
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, $statusCode);
+        echo $rawData;
+
+    }
+
+    public function insertRoles($params){
+        $site = new Site();
+        $rawData = $site->insertRoles($params);
 
         if (empty($rawData)) {
             $statusCode = 404;

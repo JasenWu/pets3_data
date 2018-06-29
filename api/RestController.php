@@ -36,23 +36,28 @@ function getRequest($req)
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->getUnit();
             break;
- 
+
         case "chapter":
-            $unit_id = $_GET["unit_id"];
+            if (isset($_GET["unit_id"])) { //get请求
+                $unit_id = $_GET["unit_id"];
+            } else {
+                $unit_id = null;
+            }
             // 处理 REST Url /RestController.php?req=chapter
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->getChapter($unit_id);
             break;
-        case "insertChapter": //插入单元数据
-            // 处理 REST Url /RestController.php?req=insertUnit
-            $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertChapter();
-            break;
 
         case "roles":
+            if (isset($_GET["chapter_id"])) { //get请求
+                $chapter_id = $_GET["chapter_id"];
+            } else {
+                $chapter_id = "";
+            }
+
             // 处理 REST Url /RestController.php?req=roles
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->getRoles();
+            $siteRestHandler->getRoles($chapter_id);
             break;
 
         case "content":
@@ -79,19 +84,19 @@ function insert($req, $params)
             $siteRestHandler->insertUnit($params);
             break;
 
-        case "chapter"://插入章节
+        case "chapter": //插入章节
             // 处理 REST Url /RestController.php?req=chapter
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->insertChapter($params);
             break;
 
-        case "roles"://插入角色
+        case "roles": //插入角色
             // 处理 REST Url /RestController.php?req=roles
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertRoles();
+            $siteRestHandler->insertRoles($params);
             break;
 
-        case "content"://插入内容
+        case "content": //插入内容
             // 处理 REST Url /RestController.php?req=content
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->insertContent($params);

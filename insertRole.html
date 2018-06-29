@@ -342,14 +342,14 @@
       order++;
       let title = data[x].title;
       axios.post('http://www.renjie.net.cn/pets3/api/RestController.php', {
-        req: 'content',
+        req: 'roles',
         type: 'insert',
         params:{
           unit_id:order,
           chapter_id:order,
-          role_id:order,
-          content_en:title,
-          content_zh:title,
+          name:order,
+          sex:order,
+          type:order,
           remark:"",
 
         }
