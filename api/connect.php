@@ -5,27 +5,31 @@
  * RESTful 服务类
  */
 Class Db {
-      
-    public function connect(){
+    public $conn = null;//数据库连接
+
+
+    public function __construct(){
         $servername = "localhost";
         $username = "root";
         $password = "";
         $dbname = "pets3";
-        $conn = null; 
+
         // 创建连接
-        $conn = new mysqli($servername,$username,$password,$dbname);
-        mysqli_query($conn , "set names utf8");
+        $this->conn = new mysqli($servername,$username,$password,$dbname);
+        mysqli_query($this->conn , "set names utf8");
         // Check connection
-        if ($conn->connect_error) {
+        if ($this->conn->connect_error) {
             
-            die("连接失败: " . $conn->connect_error);
+            die("连接失败: " . $this->conn->connect_error);
             exit();
-        }else{
-         
-            return $conn;
-          
-        } 
+        }
     }
+
+    public function __destruct(){
+        mysqli_close($this->conn);
+    }
+
+
   
     
        

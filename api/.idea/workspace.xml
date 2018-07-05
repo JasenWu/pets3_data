@@ -23,25 +23,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RestController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RestController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RestController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+            <state relative-caret-position="374">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SimpleRest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleRest.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="SiteRestHandler.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SiteRestHandler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+            <state relative-caret-position="850">
+              <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -49,17 +53,17 @@
       <file leaf-file-name="Site.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Site.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+            <state relative-caret-position="58">
+              <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connect.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="connect.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/connect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="331">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -70,10 +74,20 @@
     <findStrings>
       <find>$arr =  $params;</find>
       <find>$rowData</find>
+      <find>$conn</find>
+      <find>mysqli_close($conn);</find>
+      <find>if (!$retval) {</find>
+      <find />
+      <find>$statusCode</find>
+      <find>echo</find>
+      <find>error</find>
+      <find>SimpleRest</find>
     </findStrings>
     <replaceStrings>
       <replace>$arr =  json_decode($params,true);</replace>
       <replace>$result</replace>
+      <replace>$this-&gt;conn</replace>
+      <replace>200</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -82,9 +96,11 @@
         <option value="/Library/WebServer/Documents/index.html.en" />
         <option value="/Library/WebServer/Documents/test.php" />
         <option value="$PROJECT_DIR$/test.php" />
-        <option value="$PROJECT_DIR$/RestController.php" />
-        <option value="$PROJECT_DIR$/Site.php" />
         <option value="$PROJECT_DIR$/connect.php" />
+        <option value="$PROJECT_DIR$/Site.php" />
+        <option value="$PROJECT_DIR$/SimpleRest.php" />
+        <option value="$PROJECT_DIR$/SiteRestHandler.php" />
+        <option value="$PROJECT_DIR$/RestController.php" />
       </list>
     </option>
   </component>
@@ -106,7 +122,7 @@
   <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/pets3_data/api" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="175" />
+    <option name="x" value="178" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="1035" />
@@ -183,12 +199,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530684714201</updated>
       <workItem from="1530684728285" duration="2742000" />
-      <workItem from="1530759791152" duration="9206000" />
+      <workItem from="1530759791152" duration="12368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11948000" />
+    <option name="totallyTimeSpent" value="15110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,7 +216,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="175" y="23" width="1400" height="1035" extended-state="0" />
+    <frame x="178" y="23" width="1400" height="1035" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
@@ -209,13 +225,13 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.337763" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32882413" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5007752" visible="true" weight="0.24928571" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.40790844" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.24928571" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2569956" />
-      <window_info id="Favorites" order="2" sideWeight="0.4992248" side_tool="true" visible="true" weight="0.24928571" />
+      <window_info active="true" id="Favorites" order="2" sideWeight="0.50087875" side_tool="true" visible="true" weight="0.24928571" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37460977" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,34 +302,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleRest.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SiteRestHandler.php">
+    <entry file="file://$PROJECT_DIR$/connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RestController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        <state relative-caret-position="331">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Site.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+        <state relative-caret-position="58">
+          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/connect.php">
+    <entry file="file://$PROJECT_DIR$/SimpleRest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="391">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteRestHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>

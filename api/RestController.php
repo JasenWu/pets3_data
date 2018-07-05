@@ -23,6 +23,7 @@ if (isset($_GET["req"])) { //get请求
     }
 }
 
+//get请求
 function getRequest($req)
 {
     /*
@@ -76,12 +77,29 @@ function getRequest($req)
             $siteRestHandler->getReaded($read_id);
             break;
 
-        default:
-            echo "请检查参数2222" . $requestType;
+
 
     }
 
 }
+
+//post 请求
+function postRequest($req, $type, $params)
+{
+    switch ($type) {
+        case "insert":
+            insert($req, $params);
+            break;
+        case "update":
+            update($req, $params);
+            break;
+        case "delete":
+            delete($req, $params);
+            break;
+    }
+
+}
+
 //插入、新增
 function insert($req, $params)
 {
@@ -113,8 +131,7 @@ function insert($req, $params)
             $siteRestHandler->insertContent($params);
             break;
 
-        default:
-            echo "请检查参数2222" . $requestType;
+
 
     }
 }
@@ -153,24 +170,9 @@ function update($req, $params)
             $siteRestHandler->updateReaded($params);
             break;
 
-        default:
-            echo "请检查参数2222" . $requestType;
+
 
     }
 }
 
-function postRequest($req, $type, $params)
-{
-    switch ($type) {
-        case "insert":
-            insert($req, $params);
-            break;
-        case "update":
-            update($req, $params);
-            break;
-        case "delete":
-            delete($req, $params);
-            break;
-    }
 
-}
