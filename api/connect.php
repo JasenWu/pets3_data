@@ -19,7 +19,7 @@ Class Db {
         if ($conn->connect_error) {
             
             die("连接失败: " . $conn->connect_error);
-            
+            exit();
         }else{
          
             return $conn;

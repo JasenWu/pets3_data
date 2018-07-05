@@ -4,7 +4,9 @@ require_once "SimpleRest.php";
 require_once "Site.php";
 
 class SiteRestHandler extends SimpleRest
-{
+{   
+    public $error = array('code' => 404,'data' => null);
+
     //获取单元
     public function getUnit()
     {
@@ -12,8 +14,9 @@ class SiteRestHandler extends SimpleRest
         $rawData = $site->getUnit();//todo
 
         if (empty($rawData)) {
-            $statusCode = 404;
-            $rawData = array('error' => 'No sites found!');
+            $statusCode = 200;
+              
+            $rawData = $this->error;
         } else {
             $statusCode = 200;
         }
@@ -31,8 +34,9 @@ class SiteRestHandler extends SimpleRest
         $rawData = $site->getChapter($unit_id);//todo
 
         if (empty($rawData)) {
-            $statusCode = 404;
-            $rawData = array('error' => 'No sites found!');
+            $statusCode = 200;
+              
+            $rawData = $this->error;
         } else {
             $statusCode = 200;
         }
@@ -43,6 +47,29 @@ class SiteRestHandler extends SimpleRest
         echo json_encode($rawData);
  
     }
+      //获取对话列表
+      public function getReaded($read_id)
+      {
+          $site = new Site();
+        
+
+          $rawData = array("code"=>0,"data"=>$site->getReaded($read_id));
+          if (empty($rawData)) {
+              $statusCode = 200;
+              
+              $rawData = $this->error;
+          } else {
+              $statusCode = 200;
+          }
+  
+          $requestContentType = $_SERVER['HTTP_ACCEPT'];
+          $this->setHttpHeaders($requestContentType, $statusCode);
+   
+          echo json_encode($rawData);
+   
+      }
+
+    
 
       //获取对话列表
       public function getRoles($chapter_id)
@@ -51,8 +78,9 @@ class SiteRestHandler extends SimpleRest
           $rawData = $site->getRoles($chapter_id);//todo
   
           if (empty($rawData)) {
-              $statusCode = 404;
-              $rawData = array('error' => 'No sites found!');
+            $statusCode = 200;
+              
+            $rawData = $this->error;
           } else {
               $statusCode = 200;
           }
@@ -71,8 +99,9 @@ class SiteRestHandler extends SimpleRest
         $rawData = $site->insertUnit($params);
 
         if (empty($rawData)) {
-            $statusCode = 404;
-            $rawData = array('error' => 'No sites found!');
+            $statusCode = 200;
+              
+            $rawData = $this->error;
         } else {
             $statusCode = 200;
         }
@@ -87,8 +116,9 @@ class SiteRestHandler extends SimpleRest
         $rawData = $site->insertChapter($params);
 
         if (empty($rawData)) {
-            $statusCode = 404;
-            $rawData = array('error' => 'No sites found!');
+            $statusCode = 200;
+              
+            $rawData = $this->error;
         } else {
             $statusCode = 200;
         }
@@ -104,8 +134,9 @@ class SiteRestHandler extends SimpleRest
         $rawData = $site->insertContent($params);
 
         if (empty($rawData)) {
-            $statusCode = 404;
-            $rawData = array('error' => 'No sites found!');
+            $statusCode = 200;
+              
+            $rawData = $this->error;
         } else {
             $statusCode = 200;
         }
@@ -121,8 +152,9 @@ class SiteRestHandler extends SimpleRest
         $rawData = $site->insertRoles($params);
 
         if (empty($rawData)) {
-            $statusCode = 404;
-            $rawData = array('error' => 'No sites found!');
+            $statusCode = 200;
+              
+            $rawData = $this->error;
         } else {
             $statusCode = 200;
         }
@@ -132,6 +164,26 @@ class SiteRestHandler extends SimpleRest
         echo $rawData;
 
     }
+
+    public function updateReaded($params){
+        $site = new Site();
+        $rawData = $site->updateReaded($params);
+
+        if (empty($rawData)) {
+            $statusCode = 200;
+              
+            $rawData = $this->error;
+        } else {
+            $statusCode = 200;
+        }
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, $statusCode);
+        echo $rawData;
+
+    }
+
+    
 
     
 

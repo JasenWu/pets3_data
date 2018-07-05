@@ -45,3 +45,12 @@ CREATE TABLE IF NOT EXISTS `content`(
    `remark` VARCHAR(240) NULL  COMMENT '备注信息',
      PRIMARY KEY ( `id` )
 )
+
+-- 已读
+CREATE TABLE IF NOT EXISTS `readed`(
+   `id` INT UNSIGNED AUTO_INCREMENT COMMENT '主键自增',
+   `count` INT  COMMENT '已读总量',
+     PRIMARY KEY ( `id` )
+)
+
+UPDATE `readed` SET `count`= 10001 WHERE `id` = 1

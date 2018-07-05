@@ -9,18 +9,18 @@
 
 require_once "SiteRestHandler.php";
 
-$req = "";
-
 if (isset($_GET["req"])) { //get请求
     $req = $_GET["req"];
     getRequest($req);
 } else {
-    $param = json_decode(file_get_contents('php://input'), true);
-    //var_dump($param);
-    $req = $param["req"];
-    $type = $param["type"];
-    $params = $param["params"];
-    postRequest($req, $type, $params);
+    if(isset($_POST["req"]) && isset($_POST["type"]) && isset($_POST["params"])){
+        $req = $_POST["req"];
+        $type = $_POST["type"];
+        $params = $_POST["params"];
+        postRequest($req, $type, $params);
+    }else{
+        echo("POST:请检查参数");
+    }
 }
 
 function getRequest($req)
@@ -65,6 +65,16 @@ function getRequest($req)
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->getContent();
             break;
+        case "readed":
+            if (isset($_GET["read_id"])) { //get请求
+                $read_id = $_GET["read_id"];
+            } else {
+                $read_id = "";
+            }
+            // 处理 REST Url /RestController.php?req=readed
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->getReaded($read_id);
+            break;
 
         default:
             echo "请检查参数2222" . $requestType;
@@ -72,10 +82,46 @@ function getRequest($req)
     }
 
 }
-
+//插入、新增
 function insert($req, $params)
 {
 
+    switch ($req) {
+
+        case "unit": //插入单元
+            // 处理 REST Url /RestController.php?req=unit
+
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->insertUnit($params);
+            break;
+
+        case "chapter": //插入章节
+            // 处理 REST Url /RestController.php?req=chapter
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->insertChapter($params);
+            break;
+
+        case "roles": //插入角色
+            // 处理 REST Url /RestController.php?req=roles
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->insertRoles($params);
+            break;
+
+        case "content": //插入内容
+            // 处理 REST Url /RestController.php?req=content
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->insertContent($params);
+            break;
+
+        default:
+            echo "请检查参数2222" . $requestType;
+
+    }
+}
+
+//更新
+function update($req, $params)
+{
     switch ($req) {
 
         case "unit": //插入单元
@@ -100,6 +146,11 @@ function insert($req, $params)
             // 处理 REST Url /RestController.php?req=content
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->insertContent($params);
+            break;
+        case "readed": //插入内容
+            // 处理 REST Url /RestController.php?req=content
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->updateReaded($params);
             break;
 
         default:

@@ -335,17 +335,19 @@
     }
     let arr = [];
     let order = 0;
+    let index = 0;
     for(let x in data){
       //console.log(data[x].title);
+      index++;
+      if(index>1) break;
       order++;
       let title = data[x].title;
       axios.post('http://www.renjie.net.cn/pets3/api/RestController.php', {
-        req: 'unit',
-        type: 'insert',
+        req: 'readed',
+        type: 'update',
         params:{
-          order:order,
-          title:title,
-          remark:"",
+          count:100015,
+           
         }
       })
       .then(function (response) {
@@ -354,13 +356,9 @@
       .catch(function (error) {
         console.log(error);
       });
-      arr.push(title);
+     
     }
-
-
-
-
-    console.log(arr);
+ 
   </script>
 </body>
 
