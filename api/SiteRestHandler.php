@@ -124,6 +124,52 @@ class SiteRestHandler extends SimpleRest
 
     }
 
+    //删除内容
+    public function deleteContent($params){
+        $site = new Site();
+        $rawData = $site->deleteContent($params);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+        echo $rawData;
+
+    }
+
+    //删除内容
+    public function deleteRole($params){
+        $site = new Site();
+        $rawData = $site->deleteRole($params);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+        echo $rawData;
+
+    }
+    //删除内容
+    public function deleteChapter($params){
+        $site = new Site();
+        $rawData = $site->deleteChapter($params);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+        echo $rawData;
+
+    }
+    //删除内容
+    public function deleteUnit($params){
+        $site = new Site();
+        $rawData = $site->deleteUnit($params);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+        echo $rawData;
+
+    }
+
+
+
+
+
     
 
     

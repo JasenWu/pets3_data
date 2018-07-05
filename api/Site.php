@@ -124,7 +124,7 @@ class Site
 
 
 
-    //插入章节
+    //插入单元
     public function insertUnit($params)
     {
         $arr = json_decode($params, true);
@@ -167,6 +167,68 @@ class Site
 
 
     }
+
+    //根据id，删除内容
+    public function deleteContent($params)
+    {
+        $arr = json_decode($params, true);
+        $DB = new Db();
+        $conn = $DB->conn;
+        $sql = 'DELETE FROM `content` WHERE `id` ='.$arr['id'];
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        return "{code:0}";
+
+
+    }
+
+    //根据id，删除内容
+    public function deleteRole($params)
+    {
+        $arr = json_decode($params, true);
+        $DB = new Db();
+        $conn = $DB->conn;
+        $sql = 'DELETE FROM `roles` WHERE `id` ='.$arr['id'];
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        return "{code:0}";
+
+
+    }
+
+    //根据id，删除内容
+    public function deleteChapter($params)
+    {
+        $arr = json_decode($params, true);
+        $DB = new Db();
+        $conn = $DB->conn;
+        $sql = 'DELETE FROM `chapter` WHERE `id` ='.$arr['id'];
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        return "{code:0}";
+
+
+    }
+
+    //根据id，删除内容
+    public function deleteUnit($params)
+    {
+        $arr = json_decode($params, true);
+        $DB = new Db();
+        $conn = $DB->conn;
+        $sql = 'DELETE FROM `unit` WHERE `id` ='.$arr['id'];
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        return "{code:0}";
+
+
+    }
+
+
 
     //插入角色
     public function insertRoles($params)

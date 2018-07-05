@@ -108,6 +108,41 @@ function postRequest($req, $type, $params)
 
 }
 
+
+function delete($req, $params)
+{
+    switch ($req) {
+
+        case "unit": //插入单元
+            // 处理 REST Url /RestController.php?req=unit
+
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->deleteUnit($params);
+            break;
+
+        case "chapter": //插入章节
+            // 处理 REST Url /RestController.php?req=chapter
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->deleteChapter($params);
+            break;
+
+        case "roles": //插入角色
+            // 处理 REST Url /RestController.php?req=roles
+            $siteRestHandler = new SiteRestHandler();
+
+            $siteRestHandler->deleteRole($params);
+            break;
+
+        case "content": //插入内容
+            // 处理 REST Url /RestController.php?req=content
+
+            $siteRestHandler = new SiteRestHandler();
+            $siteRestHandler->deleteContent($params);
+            break;
+    }
+}
+
+
 //插入、新增
 function insert($req, $params)
 {
