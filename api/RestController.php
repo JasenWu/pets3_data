@@ -19,7 +19,8 @@ if (isset($_GET["req"])) { //get请求
         $params = $_POST["params"];
         postRequest($req, $type, $params);
     }else{
-        echo("POST:请检查参数");
+        echo json_encode(array('code'=>500,"msg"=>"server error,请检查参数"));
+
     }
 }
 

@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/RestController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -199,12 +199,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530684714201</updated>
       <workItem from="1530684728285" duration="2742000" />
-      <workItem from="1530759791152" duration="12368000" />
+      <workItem from="1530759791152" duration="12563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15110000" />
+    <option name="totallyTimeSpent" value="15305000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,13 +225,13 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.337763" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.40790844" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.24928571" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15400624" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.500615" visible="true" weight="0.24928571" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2569956" />
-      <window_info active="true" id="Favorites" order="2" sideWeight="0.50087875" side_tool="true" visible="true" weight="0.24928571" />
+      <window_info id="Favorites" order="2" sideWeight="0.499385" side_tool="true" visible="true" weight="0.24928571" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37460977" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,7 +333,7 @@
     <entry file="file://$PROJECT_DIR$/RestController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
