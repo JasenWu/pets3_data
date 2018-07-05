@@ -21,7 +21,7 @@ Class Db {
         if ($this->conn->connect_error) {
             
             die("连接失败: " . $this->conn->connect_error);
-            exit();
+
         }
     }
 

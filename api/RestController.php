@@ -67,6 +67,7 @@ function getRequest($req)
             $siteRestHandler = new SiteRestHandler();
             $siteRestHandler->getContent();
             break;
+
         case "readed":
             if (isset($_GET["read_id"])) { //get请求
                 $read_id = $_GET["read_id"];
