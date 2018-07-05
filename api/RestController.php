@@ -17,6 +17,7 @@ if (isset($_GET["req"])) { //get请求
         $req = $_POST["req"];
         $type = $_POST["type"];
         $params = $_POST["params"];
+
         postRequest($req, $type, $params);
     }else{
         echo json_encode(array('code'=>500,"msg"=>"server error,请检查参数"));
@@ -63,9 +64,14 @@ function getRequest($req)
             break;
 
         case "content":
+            if (isset($_GET["chapter_id"])) { //get请求
+                $chapter_id = $_GET["chapter_id"];
+            } else {
+                $chapter_id = null;
+            }
             // 处理 REST Url /RestController.php?req=content
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->getContent();
+            $siteRestHandler->getContent($chapter_id);
             break;
 
         case "readed":
@@ -124,6 +130,7 @@ function insert($req, $params)
         case "roles": //插入角色
             // 处理 REST Url /RestController.php?req=roles
             $siteRestHandler = new SiteRestHandler();
+
             $siteRestHandler->insertRoles($params);
             break;
 

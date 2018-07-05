@@ -59,6 +59,21 @@ class SiteRestHandler extends SimpleRest
    
       }
 
+    //获取角色列表
+    public function getContent($chapter_id)
+    {
+        $site = new Site();
+        $rawData = $site->getContent($chapter_id);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+
+        echo json_encode($rawData);
+
+    }
+
+
+
     
     //插入单元
     public function insertUnit($params){

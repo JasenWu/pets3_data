@@ -81,7 +81,7 @@ class Site
     public function getRoles($chapter_id)
     {
         $DB = new Db();
-        $conn = $DB->connect();
+        $conn = $DB->conn;
         if ($chapter_id) {
             $sql = 'SELECT * FROM `roles`  WHERE `chapter_id` =' . $chapter_id;
         } else {
@@ -98,6 +98,30 @@ class Site
         return $result;
 
     }
+
+    //获取章节内容
+    public function getContent($chapter_id)
+    {
+        $DB = new Db();
+        $conn = $DB->conn;
+        if ($chapter_id) {
+            $sql = 'SELECT * FROM `content`  WHERE `chapter_id` =' . $chapter_id;
+        } else {
+            $sql = 'SELECT * FROM `content`';
+        }
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+
+        $result = array();
+        while ($rowData = mysqli_fetch_array($retval, MYSQLI_ASSOC)) {
+            array_push($result, $rowData);
+        }
+        return $result;
+
+    }
+
+
 
 
     //插入章节
@@ -147,7 +171,9 @@ class Site
     //插入角色
     public function insertRoles($params)
     {
+
         $arr = json_decode($params, true);
+
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'INSERT INTO `roles` (`id`,`unit_id`,`chapter_id`,`name`,`sex`,`type`,`remark`) VALUES (null,"' . $arr['unit_id'] . '","' . $arr['chapter_id'] . '","' . $arr['name'] . '","' . $arr['sex'] . '","' . $arr['type'] . '","' . $arr['remark'] . '")';
