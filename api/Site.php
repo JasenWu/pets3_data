@@ -139,6 +139,79 @@ class Site
 
     }
 
+
+
+
+
+    //更新单元
+    public function updateUnit($params)
+    {
+        $arr = json_decode($params, true);
+        $DB = new Db();
+        $conn = $DB->conn;
+        $sql = 'UPDATE `chapter` SET `order`="'  . $arr['order'] .  '",`title`="' . $arr['title'] .'",`remark`="' . $arr['remark'] .'" WHERE `id` = '. $arr['id'];
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        return "{code:0}";
+
+
+    }
+
+    //更新单元
+    public function updateChapter($params)
+    {
+        $arr = json_decode($params, true);
+        $DB = new Db();
+        $conn = $DB->conn;
+        $sql = 'UPDATE `unit` SET `unit_id`="'  . $arr['unit_id'] .  '", `order`="'  . $arr['order'] .  '",`title`="' . $arr['title'] .'",`remark`="' . $arr['remark'] .'" WHERE `id` = '. $arr['id'];
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        return "{code:0}";
+
+
+    }
+
+    //更新单元
+    public function updateContent($params)
+    {
+        $arr = json_decode($params, true);
+        $DB = new Db();
+        $conn = $DB->conn;
+        $sql = 'UPDATE `content` SET   `unit_id`="'  . $arr['unit_id'] .  '",`chapter_id`="'  . $arr['chapter_id'] .  '",`role_id`="' . $arr['role_id'] .'",`content_en`="' . $arr['content_en'].'",`content_zh`="' . $arr['content_zh'] .'" WHERE `id` = '. $arr['id'];
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        return "{code:0}";
+
+
+    }
+
+    //更新单元
+    public function updateRoles($params)
+    {
+        $arr = json_decode($params, true);
+        $DB = new Db();
+        $conn = $DB->conn;
+        $sql = 'UPDATE `roles` SET   `unit_id`="'  . $arr['unit_id'] .  '",`chapter_id`="'  . $arr['chapter_id'] .  '",`name`="' . $arr['name'] .'",`sex`="' . $arr['sex'].'",`type`="' . $arr['type'] .'",`remark`="' . $arr['remark'] .'" WHERE `id` = '. $arr['id'];
+
+        $retval = $conn->query($sql);
+        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        return "{code:0}";
+
+
+    }
+
+
+
+
+
+
+
+
+
+
     //插入章节
     public function insertChapter($params)
     {

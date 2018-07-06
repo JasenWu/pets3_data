@@ -1,11 +1,4 @@
 <?php
-// 获取unit列表：http://www.renjie.net.cn/pets3/api/RestController.php?req=unit
-//获取章节列表：http://www.renjie.net.cn/pets3/api/RestController.php?req=chapter&unit_id=1
-//获取章节列表：http://www.renjie.net.cn/pets3/api/RestController.php?req=content&unit_id=1&chapter_id=3
-
-// 插入章节 http://www.renjie.net.cn/pets3/api/RestController.php 参数：{req:unit type:insert,params:{order:1,title:"example",remark:"example"}
-// 插入chapter http://www.renjie.net.cn/pets3/api/RestController.php 参数：{req:unit type:insert,params:{order:1,title:"example",remark:"example"}
-// 插入content http://www.renjie.net.cn/pets3/api/RestController.php 参数：{req:unit type:insert,params:{unit_id:1,chapter_id=1,roleId:1,content_en:"example",content_zh:"content_zh",remark:"example"}
 
 require_once "SiteRestHandler.php";
 
@@ -188,25 +181,25 @@ function update($req, $params)
         case "unit": //插入单元
             // 处理 REST Url /RestController.php?req=unit
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertUnit($params);
+            $siteRestHandler->updateUnit($params);
             break;
 
         case "chapter": //插入章节
             // 处理 REST Url /RestController.php?req=chapter
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertChapter($params);
+            $siteRestHandler->updateChapter($params);
             break;
 
         case "roles": //插入角色
             // 处理 REST Url /RestController.php?req=roles
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertRoles($params);
+            $siteRestHandler->updateRoles($params);
             break;
 
         case "content": //插入内容
             // 处理 REST Url /RestController.php?req=content
             $siteRestHandler = new SiteRestHandler();
-            $siteRestHandler->insertContent($params);
+            $siteRestHandler->updateContent($params);
             break;
         case "readed": //插入内容
             // 处理 REST Url /RestController.php?req=content

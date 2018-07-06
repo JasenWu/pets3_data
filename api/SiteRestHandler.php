@@ -84,6 +84,52 @@ class SiteRestHandler extends SimpleRest
         $this->setHttpHeaders($requestContentType, 200);
         echo $rawData;
     }
+
+    //更新单元
+    public function updateUnit($params){
+        $site = new Site();
+        $rawData = $site->updateUnit($params);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+        echo $rawData;
+    }
+
+    //更新单元
+    public function updateChapter($params){
+        $site = new Site();
+        $rawData = $site->updateUnit($params);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+        echo $rawData;
+    }
+
+
+    //更新单元
+    public function updateContent($params){
+        $site = new Site();
+        $rawData = $site->updateContent($params);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+        echo $rawData;
+    }
+
+    //更新单元
+    public function updateRoles($params){
+        $site = new Site();
+        $rawData = $site->updateRoles($params);
+
+        $requestContentType = $_SERVER['HTTP_ACCEPT'];
+        $this->setHttpHeaders($requestContentType, 200);
+        echo $rawData;
+    }
+
+
+
+
+
     //插入章节
     public function insertChapter($params){
         $site = new Site();
