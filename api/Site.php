@@ -46,7 +46,7 @@ class Site
     {
         $DB = new Db();
         $conn = $DB->conn;
-        $sql = 'SELECT * FROM `unit`';
+        $sql = 'SELECT * FROM `unit` ORDER BY `order`';
 
         $retval = $conn->query($sql);
 
