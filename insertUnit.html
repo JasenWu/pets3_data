@@ -11,6 +11,7 @@
 </head>
 
 <body>
+
   <script>
     let datas = {
       "1": {
@@ -333,50 +334,37 @@
         "children": []
       }
     }
-    let arr = [];
-    let order = 0;
-    let index = 0;
  
-  
 
 
-      const deepObjectToPostParams = (data, keyPre = '', opt = {}) => {
-        let q = ''
-        for (let i in data) {
-          let pref = keyPre ? (keyPre + '[' + i + ']') : i
 
-          if (opt.url && opt.url.indexOf('index/upload') === 0 && i === 'file') {
-            q += pref + '=' + data[i] + '&'
-            continue
-          }
 
-          if (typeof data[i] === 'object') {
-            if (Array.isArray(data[i]) && data[i].length === 0 && opt.allowEmptyArray) {
-              q += pref + `=&`
-            } else {
-              q += deepObjectToPostParams(data[i], pref, opt)
-            }
+    const deepObjectToPostParams = (data, keyPre = '', opt = {}) => {
+      let q = ''
+      for (let i in data) {
+        let pref = keyPre ? (keyPre + '[' + i + ']') : i
+
+        if (opt.url && opt.url.indexOf('index/upload') === 0 && i === 'file') {
+          q += pref + '=' + data[i] + '&'
+          continue
+        }
+
+        if (typeof data[i] === 'object') {
+          if (Array.isArray(data[i]) && data[i].length === 0 && opt.allowEmptyArray) {
+            q += pref + `=&`
           } else {
-            q += pref + '=' + encodeURIComponent(data[i]) + '&'
+            q += deepObjectToPostParams(data[i], pref, opt)
           }
-        }
-        return q
-      }
-      
-      let data = {
-        req: 'unit',
-        type: 'insert',
-        params: {
-          order: 2,
-          title: "title",
-          remark: "sddsfafads",
+        } else {
+          q += pref + '=' + encodeURIComponent(data[i]) + '&'
         }
       }
+      return q
+    }
 
-      let url = "http://localhost/pets3_data/api/RestController.php"
 
 
-
+    function insertfunc(data, url = "http://localhost/pets3_data/api/RestController.php") {
       axios({
           method: 'post',
           url: (url),
@@ -387,7 +375,7 @@
           transformRequest: [function (data, headers) {
             let q = deepObjectToPostParams(data, '', {
               url: url,
-             
+
             })
             q = q.substr(0, q.length - 1)
             return q
@@ -401,41 +389,31 @@
         }) => {
 
         })
+    }
 
 
-      // const params = new URLSearchParams();
-      // params.append('req', 'unit');
-      // params.append('type', 'insert');
-      // params.append('params', JSON.stringify({
-      //   order: 1,
-      //   title: "title",
-      //   remark: "remark"
-      // }));
+    function doit(datas) {
 
-      // console.log('params', params);
-      // axios.post('http://localhost/pets3_data/api/RestController.php', params);
+      for (x in datas) {
+        let data = {
+          req: 'unit',
+          type: 'insert',
+          params: {
+            order: datas[x].order,
+            title: datas[x].title,
+            remark: datas[x].remark,
+          }
 
-      // axios.post('http://localhost/pets3_data/api/RestController.php', {
-      //     params: {
-      //       req: 'unit',
-      //       type: 'insert',
-      //       params22: {
-      //         order: order,
-      //         title: title,
-      //         remark: "",
-      //       }
-      //     },
 
-      //   })
-      //   .then(function (response) {
-      //     console.log(response);
-      //   })
-      //   .catch(function (error) {
-      //     console.log(error);
-      //   });
+        }
+        insertfunc(data);
 
-   
+      }
+    }
   </script>
+
+
+  <button id="btn" onclick="doit(datas)">doit</button>
 </body>
 
 </html>
