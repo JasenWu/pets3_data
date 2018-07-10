@@ -7,7 +7,31 @@ require_once "connect.php";
  */
 
 class Site
-{
+{   //获取数据类型
+    public function myGetType($var)
+    {
+        if (is_array($var)) return "array";
+        if (is_bool($var)) return "boolean";
+        if (is_float($var)) return "float";
+        if (is_int($var)) return "integer";
+        if (is_null($var)) return "NULL";
+        if (is_numeric($var)) return "numeric";
+        if (is_object($var)) return "object";
+        if (is_resource($var)) return "resource";
+        if (is_string($var)) return "string";
+        return "unknown type";
+    }
+    //将前端传的数据转为数组
+    public function dataToArr($params){
+        if($this->myGetType($params) == "array"){
+            $arr = $params;
+        }else{
+            $arr = json_decode($params,true);
+        }
+        return $arr;
+
+    }
+
     public function throwError($retval, $conn)
     {
 
@@ -122,15 +146,15 @@ class Site
     }
 
 
-
+    
 
     //插入单元
     public function insertUnit($params)
-    {
-        $arr = json_decode($params, true);
+    {       
+        $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
-        $sql = 'INSERT INTO `unit` (`id`, `order`, `title`, `remark`) VALUES (null,' . $arr['order'] . ',"' . $arr['title'] . '","' . $arr['remark'] . '")';
+        $sql = 'INSERT INTO `unit` (`id`, `order`, `title`, `remark`) VALUES (null,"' . $arr['order'] . '","' . $arr['title'] . '","' . $arr['remark'] . '")';
 
         $retval = $conn->query($sql);
         $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
@@ -146,7 +170,7 @@ class Site
     //更新单元
     public function updateUnit($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'UPDATE `chapter` SET `order`="'  . $arr['order'] .  '",`title`="' . $arr['title'] .'",`remark`="' . $arr['remark'] .'" WHERE `id` = '. $arr['id'];
@@ -161,7 +185,7 @@ class Site
     //更新单元
     public function updateChapter($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'UPDATE `unit` SET `unit_id`="'  . $arr['unit_id'] .  '", `order`="'  . $arr['order'] .  '",`title`="' . $arr['title'] .'",`remark`="' . $arr['remark'] .'" WHERE `id` = '. $arr['id'];
@@ -176,7 +200,7 @@ class Site
     //更新单元
     public function updateContent($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'UPDATE `content` SET   `unit_id`="'  . $arr['unit_id'] .  '",`chapter_id`="'  . $arr['chapter_id'] .  '",`role_id`="' . $arr['role_id'] .'",`content_en`="' . $arr['content_en'].'",`content_zh`="' . $arr['content_zh'] .'" WHERE `id` = '. $arr['id'];
@@ -191,7 +215,7 @@ class Site
     //更新单元
     public function updateRoles($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'UPDATE `roles` SET   `unit_id`="'  . $arr['unit_id'] .  '",`chapter_id`="'  . $arr['chapter_id'] .  '",`name`="' . $arr['name'] .'",`sex`="' . $arr['sex'].'",`type`="' . $arr['type'] .'",`remark`="' . $arr['remark'] .'" WHERE `id` = '. $arr['id'];
@@ -203,19 +227,12 @@ class Site
 
     }
 
-
-
-
-
-
-
-
-
+ 
 
     //插入章节
     public function insertChapter($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'INSERT INTO `chapter` (`id`, `unit_id`, `order`, `title`,`remark`) VALUES (null,"' . $arr['unit_id'] . '","' . $arr['order'] . '","' . $arr['title'] . '","' . $arr['remark'] . '")';
@@ -229,7 +246,7 @@ class Site
     //插入内容
     public function insertContent($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'INSERT INTO `content` (`id`, `unit_id`, `chapter_id`, `role_id`,`content_en`,`content_zh`,`remark`) VALUES (null,"' . $arr['unit_id'] . '","' . $arr['chapter_id'] . '","' . $arr['role_id'] . '","' . $arr['content_en'] . '","' . $arr['content_zh'] . '","' . $arr['remark'] . '")';
@@ -244,7 +261,7 @@ class Site
     //根据id，删除内容
     public function deleteContent($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'DELETE FROM `content` WHERE `id` ='.$arr['id'];
@@ -259,7 +276,7 @@ class Site
     //根据id，删除内容
     public function deleteRole($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'DELETE FROM `roles` WHERE `id` ='.$arr['id'];
@@ -274,7 +291,7 @@ class Site
     //根据id，删除内容
     public function deleteChapter($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'DELETE FROM `chapter` WHERE `id` ='.$arr['id'];
@@ -289,7 +306,7 @@ class Site
     //根据id，删除内容
     public function deleteUnit($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'DELETE FROM `unit` WHERE `id` ='.$arr['id'];
@@ -307,7 +324,7 @@ class Site
     public function insertRoles($params)
     {
 
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
 
         $DB = new Db();
         $conn = $DB->conn;
@@ -322,7 +339,7 @@ class Site
     //插入角色
     public function updateReaded($params)
     {
-        $arr = json_decode($params, true);
+         $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
         $sql = 'UPDATE `readed` SET `count`=' . $arr['count'] . ' WHERE `id` = 1';

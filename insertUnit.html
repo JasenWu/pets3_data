@@ -12,7 +12,7 @@
 
 <body>
   <script>
-    let data = {
+    let datas = {
       "1": {
         "order": 1,
         "title": "Greeting and Introduction",
@@ -335,32 +335,106 @@
     }
     let arr = [];
     let order = 0;
-    for(let x in data){
-      //console.log(data[x].title);
-      order++;
-      let title = data[x].title;
-      axios.post('http://www.renjie.net.cn/pets3/api/RestController.php', {
+    let index = 0;
+ 
+  
+
+
+      const deepObjectToPostParams = (data, keyPre = '', opt = {}) => {
+        let q = ''
+        for (let i in data) {
+          let pref = keyPre ? (keyPre + '[' + i + ']') : i
+
+          if (opt.url && opt.url.indexOf('index/upload') === 0 && i === 'file') {
+            q += pref + '=' + data[i] + '&'
+            continue
+          }
+
+          if (typeof data[i] === 'object') {
+            if (Array.isArray(data[i]) && data[i].length === 0 && opt.allowEmptyArray) {
+              q += pref + `=&`
+            } else {
+              q += deepObjectToPostParams(data[i], pref, opt)
+            }
+          } else {
+            q += pref + '=' + encodeURIComponent(data[i]) + '&'
+          }
+        }
+        return q
+      }
+      
+      let data = {
         req: 'unit',
         type: 'insert',
-        params:{
-          order:order,
-          title:title,
-          remark:"",
+        params: {
+          order: 2,
+          title: "title",
+          remark: "sddsfafads",
         }
-      })
-      .then(function (response) {
-        console.log(response);
-      })
-      .catch(function (error) {
-        console.log(error);
-      });
-      arr.push(title);
-    }
+      }
+
+      let url = "http://localhost/pets3_data/api/RestController.php"
 
 
 
+      axios({
+          method: 'post',
+          url: (url),
+          data: data,
+          withCredentials: true,
+          responseType: 'json',
+          timeout: 60000,
+          transformRequest: [function (data, headers) {
+            let q = deepObjectToPostParams(data, '', {
+              url: url,
+             
+            })
+            q = q.substr(0, q.length - 1)
+            return q
+          }]
 
-    console.log(arr);
+        })
+        .then(({
+          data,
+          status,
+          message
+        }) => {
+
+        })
+
+
+      // const params = new URLSearchParams();
+      // params.append('req', 'unit');
+      // params.append('type', 'insert');
+      // params.append('params', JSON.stringify({
+      //   order: 1,
+      //   title: "title",
+      //   remark: "remark"
+      // }));
+
+      // console.log('params', params);
+      // axios.post('http://localhost/pets3_data/api/RestController.php', params);
+
+      // axios.post('http://localhost/pets3_data/api/RestController.php', {
+      //     params: {
+      //       req: 'unit',
+      //       type: 'insert',
+      //       params22: {
+      //         order: order,
+      //         title: title,
+      //         remark: "",
+      //       }
+      //     },
+
+      //   })
+      //   .then(function (response) {
+      //     console.log(response);
+      //   })
+      //   .catch(function (error) {
+      //     console.log(error);
+      //   });
+
+   
   </script>
 </body>
 

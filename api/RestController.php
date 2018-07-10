@@ -1,4 +1,12 @@
 <?php
+header("Access-Control-Allow-Credentials:true");
+header("Access-Control-Allow-Headers:Origin,X-Requested-With,Content-Type,Accept,X-HTTP-Method-Override,Cookie,X-Token,X-Device,X-Ver");
+header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept');
+header("Access-Control-Allow-Methods:POST,GET,OPTIONS,DELETE,PUT");
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Expose-Headers:X-Reqid");
+header("Access-Control-Max-Age:86400");
+
 
 require_once "SiteRestHandler.php";
 
@@ -6,11 +14,11 @@ if (isset($_GET["req"])) { //get请求
     $req = $_GET["req"];
     getRequest($req);
 } else {
+    
     if(isset($_POST["req"]) && isset($_POST["type"]) && isset($_POST["params"])){
         $req = $_POST["req"];
         $type = $_POST["type"];
         $params = $_POST["params"];
-
         postRequest($req, $type, $params);
     }else{
         echo json_encode(array('code'=>500,"msg"=>"server error,请检查参数"));

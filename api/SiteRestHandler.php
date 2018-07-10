@@ -157,6 +157,7 @@ class SiteRestHandler extends SimpleRest
 
         $requestContentType = $_SERVER['HTTP_ACCEPT'];
         $this->setHttpHeaders($requestContentType, 200);
+        
         echo $rawData;
     }
     //更新已读
