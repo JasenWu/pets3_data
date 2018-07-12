@@ -218,10 +218,14 @@ class Site
          $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
-        $sql = 'UPDATE `roles` SET   `unit_id`="'  . $arr['unit_id'] .  '",`chapter_id`="'  . $arr['chapter_id'] .  '",`name`="' . $arr['name'] .'",`sex`="' . $arr['sex'].'",`type`="' . $arr['type'] .'",`remark`="' . $arr['remark'] .'" WHERE `id` = '. $arr['id'];
+ 
 
-        $retval = $conn->query($sql);
-        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        for ($i = 0; $i < count($arr['roles']); $i++) {
+            $sql = 'UPDATE `roles` SET   `unit_id`="'  . $arr['unit_id'] .  '",`chapter_id`="'  . $arr['chapter_id'] .  '",`name`="' . $arr['roles'][$i]['name'] .'",`sex`="' . $arr['roles'][$i]['sex'].'",`type`="' . $arr['roles'][$i]['type'] .'",`remark`="' . $arr['roles'][$i]['remark'] .'" WHERE `id` = '. $arr['roles'][$i]['id'];
+           
+            $retval = $conn->query($sql);
+            $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+        }
         return "{code:0}";
 
 
