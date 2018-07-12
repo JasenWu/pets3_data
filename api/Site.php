@@ -249,10 +249,14 @@ class Site
          $arr = $this->dataToArr($params);
         $DB = new Db();
         $conn = $DB->conn;
+        
+
         $sql = 'INSERT INTO `content` (`id`, `unit_id`, `chapter_id`, `role_id`,`content_en`,`content_zh`,`remark`) VALUES (null,"' . $arr['unit_id'] . '","' . $arr['chapter_id'] . '","' . $arr['role_id'] . '","' . $arr['content_en'] . '","' . $arr['content_zh'] . '","' . $arr['remark'] . '")';
 
         $retval = $conn->query($sql);
         $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
+
+
         return "{code:0}";
 
 
@@ -328,7 +332,10 @@ class Site
 
         $DB = new Db();
         $conn = $DB->conn;
-        $sql = 'INSERT INTO `roles` (`id`,`unit_id`,`chapter_id`,`name`,`sex`,`type`,`remark`) VALUES (null,"' . $arr['unit_id'] . '","' . $arr['chapter_id'] . '","' . $arr['name'] . '","' . $arr['sex'] . '","' . $arr['type'] . '","' . $arr['remark'] . '")';
+        for ($i = 1; $i <= count($arr['roles']); $i++) {
+            $sql = 'INSERT INTO `roles` (`id`,`unit_id`,`chapter_id`,`name`,`sex`,`type`,`remark`) VALUES (null,"' . $arr['unit_id'] . '","' . $arr['chapter_id'] . '","' . $arr['roles'][$i]['name'] . '","' . $arr['roles'][$i]['sex'] . '","' . $arr['roles'][$i]['type'] . '","' . $arr['roles'][$i]['remark'] . '")';
+        }
+     
         $retval = $conn->query($sql);
         $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
         return "{code:0}";

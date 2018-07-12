@@ -1,0 +1,125 @@
+{
+  "roles": {
+    "0": {
+      "name": "aside",
+      "name_zh": "旁白"
+    },
+    "1": {
+      "name": "Mary",
+      "name_zh": "玛丽"
+    },
+    "2": {
+      "name": "Clerk",
+      "name_zh": "职员"
+    }
+  },
+
+  "contents": [{
+      "role": 0,
+      "text": "Mary is buying some books in a bookstore.",
+      "text_zh": "玛丽在书店买书。"
+    },
+    {
+      "role": 1,
+      "text": "Good afternoon, madam. What can I do for you?",
+      "text_zh": "夫人，下午好。想买点什么？"
+
+    },
+    {
+      "role": 2,
+      "text": " Good afternoon, I’m looking for some books for  my kids and their cousins.",
+      "text_zh": "下午好。我在为我的孩子和他们的堂兄妹找书。"
+    },
+    {
+      "role": 1,
+      "text": " Christmas gifts,right?",
+      "text_zh": "圣诞礼物，对吗？"
+    },
+    {
+      "role": 2,
+      "text": "Exactly.",
+      "text_zh": "完全正确。"
+    },
+    {
+      "role": 1,
+      "text": " What kind of books?",
+      "text_zh": "什么样的书？"
+    },
+    {
+      "role": 2,
+      "text": "Conservation-themed ones would be approved of , I think .",
+      "text_zh": "我想，以资源保护为主题的书比较好。"
+    },
+    {
+      "role": 1,
+      "text": "Here are three picture books. They have just arrived. Look at this one, madam. A Cool Drink of Water.",
+      "text_zh": "这有三本图画书，刚到的。夫人，请看这本《凉爽的饮用水》。"
+    },
+    {
+      "role": 2,
+      "text": "What’s it about?",
+      "text_zh": "是什么内容？"
+    },
+    {
+      "role": 1,
+      "text": "The universal importance of clean drinking water.",
+      "text_zh": "清洁饮用水的广泛重要性。"
+    },
+    {
+      "role": 2,
+      "text": "Good.",
+      "text_zh": "不错。"
+    },
+    {
+      "role": 1,
+      "text": "And this one. Recycle Every Day. It tells the story of a smart family of rabbits that wisely reuses resources.",
+      "text_zh": "还有这本《每天回收》，讲的是一个聪明的兔子家庭如何有效再利用资源的故事。"
+    },
+    {
+      "role": 2,
+      "text": "These pictures are beautiful, aren’t they?",
+      "text_zh": "这些图片很漂亮，不是吗？"
+    },
+    {
+      "role": 1,
+      "text": "And this is a picture book of the life story of Rachel Carson.",
+      "text_zh": "这是一本雷切尔.卡森生平故事的图书。"
+    },
+    {
+      "role": 2,
+      "text": "Oh, Rachel Carson. He is famous for vigorously opposing the use of chemicals to kill pests. Let me have a look at the book . Rachel: The Story of Rachel Carson. These picture books are perfect for my younger kids. I still need one for their elder brother. What would you recommend for a tenth-grader?",
+      "text_zh": "噢，雷切尔.卡森，他因为强烈反对使用化学药品杀虫而著名，让我看看这本《雷切尔：雷切尔.卡森的故事》，这些图画书对我年幼的孩子们太合适了。我还要给他们的各个买一本，10年级的孩子看什么书好？"
+    },
+    {
+      "role": 1,
+      "text": "What about this, ma’am? If The World Were a Village. It’s about languages, religions and food from around the world.",
+      "text_zh": "夫人，《如果世界是一个 村子》怎么样？这是关于世界各种语言、宗教和食物的书。"
+    },
+    {
+      "role": 2,
+      "text": " That’s it. He’ll be interested. Now something for their cousins. One is interested in plant life and the other one is a sports fan.",
+      "text_zh": "就要它了，他会感兴趣的。现在给他们的堂兄妹买点东西，他们一个对植物生命感兴趣，另一个是运动迷。"
+    },
+    {
+      "role": 1,
+      "text": " That’s easy. Plants on the Trail With Lewis and Clark, about  plant identification, and Golfing Giant, about how to become a golf expert.",
+      "text_zh": "那和容易，关于植物鉴别的《路易斯和克拉克的植物追踪》以及怎样变成一个高尔夫专家的《高尔夫巨人》。"
+    },
+    {
+      "role": 2,
+      "text": "Wonderful. You’ve been very helpful indeed.",
+      "text_zh": "好极了，你的确帮了很大的忙。"
+    },
+    {
+      "role": 1,
+      "text": "My pleasure, ma’am. That’s $45.98. Would you please pay at the cashier counter over there while I wrap these books for you?",
+      "text_zh": "我和乐意，女士。共计45.98美元，我给你包书的时候，您到那边的收银台结账，好吗？"
+    },
+    {
+      "role": 2,
+      "text": "sure.",
+      "text_zh": "当然可以！"
+    }
+
+  ]
+}

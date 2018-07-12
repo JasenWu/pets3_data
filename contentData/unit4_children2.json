@@ -1,0 +1,91 @@
+{
+  "roles": {
+    "0": {
+      "name": "aside",
+      "name_zh": "旁白"
+    },
+    "1": {
+      "name": "Chen",
+      "name_zh": "陈"
+    },
+    "2": {
+      "name": "Sally",
+      "name_zh": "莎莉"
+    }
+  },
+
+  "contents": [{
+      "role": 0,
+      "text": "Chen, a visiting scholar from China, and his American landlady Sally are talking about an article in Nature.",
+      "text_zh": "陈，来自中国的访问学者，正和他的美国女房东讨论《自然》杂志上的一篇文章。"
+    },
+    {
+      "role": 1,
+      "text": "Sally,I’ve just read an article in the latest issue of Nature, and there’s some bad news.",
+      "text_zh": "萨利，我刚看了最新一期《自然》杂志的一篇文章，有些坏消息。"
+
+    },
+    {
+      "role": 2,
+      "text": "What’s it?",
+      "text_zh": "什么坏消息？"
+    },
+    {
+      "role": 1,
+      "text": "According to a new study by some Singaporean scientists, by the end of this century, up to 42 percent of animal species in Southeast Asia could become extinct, and worse still, at least half of those species could disappear worldwide.",
+      "text_zh": "根据新加坡科学家的最新研究，到本世纪末，高达42%的东南亚动物物种会濒临灭绝，更糟糕的是，至少其中的一半会从世界范围内消失。"
+
+    },
+    {
+      "role": 2,
+      "text": "How did they figure it out?",
+      "text_zh": "他们怎么算出来的？"
+    },
+    {
+      "role": 1,
+      "text": " They used Singapores as a microcosm for examining a regionwide tropical biodiversity crisis, and compiled population data from the past two centuries.  They found out that as Singapore’s forests have been sacrificed for  agriculture and urban  development, animals that call the forest home have suffered enormously. In the past 80 years, two thirds of the 91 known forest -dependent species of birds in Singapore have become extinct. And the scientists used the current deforestation rate of about 74 percent over the past two centuries for the entire region of Southeast Asia.",
+      "text_zh": "他们把新加坡作为一个小的生态系统来检测地区性的热带生物多样性危机，并收集近两个世纪动物数量数据。他们发现，新加坡发展了农业和城市化，却牺牲了森林。那些以森林为家的动物们收到的伤害最大。在过去的80年里，新加坡91中依赖森林的知名鸟类中，有2/3成立濒危物种。并且科学家们使用的是当前开发森林的速度，它是过去两个世纪立整个东南亚地区的74%。"
+
+    },
+    {
+      "role": 2,
+      "text": " So deforestation is the major cause. They really shouldn’t have destroyed those lovely forests. What a high price to pay for the so-called development.",
+      "text_zh": "所以砍伐森林是主要原因。他们真的不应该砍伐这些可爱的森林，这些所谓的发展要付出多大的代价呀！"
+    },
+    {
+      "role": 1,
+      "text": "The study goes on to call for strong measures against illegal logging and hunting, and the establishment of nature reserves.",
+      "text_zh": " 研究海呼吁采取强烈措施来反对非法砍伐和狩猎并要建立自然保护区。"
+
+    },
+    {
+      "role": 2,
+      "text": "Too late, too late. The sad truth is that deforestation, illegal logging and hunting are still going on.",
+      "text_zh": "太迟了，太迟了。可怕的事实是开发森林、非法开采和狩猎仍然存在。"
+    },
+    {
+      "role": 1,
+      "text": "But isn’t it better to realize what’s wrong and start to do something than to remain ignorant of the problem and let the situation stay?",
+      "text_zh": "但是意识到了什么地方错了并为此做点什么不比忽略这个问题，让它任其发展好得多吗？"
+
+    },
+    {
+      "role": 2,
+      "text": " Maybe you’re right.",
+      "text_zh": "也许你是对的。"
+    },
+    {
+      "role": 1,
+      "text": "",
+      "text_zh": ""
+
+    },
+    {
+      "role": 2,
+      "text": "",
+      "text_zh": ""
+    }
+
+
+  ]
+}
