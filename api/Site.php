@@ -327,20 +327,15 @@ class Site
     //插入角色
     public function insertRoles($params)
     {
-
          $arr = $this->dataToArr($params);
-
         $DB = new Db();
         $conn = $DB->conn;
-        for ($i = 1; $i <= count($arr['roles']); $i++) {
+        for ($i = 0; $i < count($arr['roles']); $i++) {
             $sql = 'INSERT INTO `roles` (`id`,`unit_id`,`chapter_id`,`name`,`sex`,`type`,`remark`) VALUES (null,"' . $arr['unit_id'] . '","' . $arr['chapter_id'] . '","' . $arr['roles'][$i]['name'] . '","' . $arr['roles'][$i]['sex'] . '","' . $arr['roles'][$i]['type'] . '","' . $arr['roles'][$i]['remark'] . '")';
+            $retval = $conn->query($sql);
+            $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
         }
-     
-        $retval = $conn->query($sql);
-        $this->throwError($retval, $conn);//有错误时抛出错误并终止脚本执行
         return "{code:0}";
-
-
     }
 
     //插入角色
