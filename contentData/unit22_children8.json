@@ -1,0 +1,25 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"In this picture, there is an old couple carrying a box of coins. Just like the saying goes, it is easier to get money than to keep it. Therefore, they decided to deposit such kind of coins into the bank. Unfortunately, the clerk of the bank refused their request. The reason was rather ridiculous—“it is difficult to account so many coins”. Having heard this, the old couple was very upset. From this story, I cannot help asking why? Why coins can not be deposited. As we know, the coins can be used in the market. Why not in the bank? Did the bank have a prejudice against coins? What’s more. it is indeed very hard to account such a lot of coins, but that’s your work and duty! The bank should assume the responsibility for that. According to the “Law of the People’s Bank of China”, the coin belongs to our Legal tender.So, it is not allowed to refuse. To sum up, the attitude of this bank clerk needs to be improved. Besides, everybody should have a good respect on coins.",
+      "text_zh":"未翻译"
+    }
+     
+  ]
+}

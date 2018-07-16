@@ -1,0 +1,25 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"What is an email? It is short for electronic mail, the transmission of messages over communication networks. Recently, many people make extensive use of e-mail because it is fast, flexible, and reliable. Now let me introduce the procedures of sending emails. Of course, we  must apply for an email address that belongs to ourselves first. Then we need to open the website. After that, click the button Writing Mails. And then we should fill in the blanks with certain information. To: Input the email addresses of recipients, or select an email from your addressing book. Subject: Input the subject of the message. Content: Compose our messages in the large message area provided. Lastly, click the button Sending Mails at the top or the bottom of the screen. Then, you succeed in sending an email.",
+      "text_zh":"未翻译"
+    }
+     
+  ]
+}

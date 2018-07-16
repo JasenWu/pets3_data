@@ -1,0 +1,80 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Jack",
+            "name_zh": "杰克"
+        },
+        "2": {
+            "name": "Sandy",
+            "name_zh": "桑迪"
+        }
+    },
+
+    
+    "contents": [
+        {
+            "role": 0,
+            "text": "Jack is a local reporter and he is interviewing students on campus about their hobbies. Sandy is one of the students being interviewed.",
+            "text_zh": "拉"
+        },
+        {
+            "role": 1,
+            "text": "Hi, I am Jack from the local newspaper. I am conducting interviews on the subject of hobbies of students. Do you mind if I ask you a few question",
+            "text_zh": "嗨，戴比，我们看电影去吧。我真的喜欢看喜剧。再说，这些单子你已经算了好几个小时了。"
+        },
+        {
+            "role": 2,
+            "text": "No problem. What would you like to know about?",
+            "text_zh": "不可能！"
+        },
+        {
+            "role": 1,
+            "text": " What kind of entertainment do you like?",
+            "text_zh": "为什么呢？"
+        },
+        {
+            "role": 2,
+            "text": "I  love going to concerts. I don't go frequently because they are a bit beyond my budget. I am not earning any money right now, so it is hard for me to afford them.",
+            "text_zh": "我们没钱出去玩。"
+        },
+        {
+            "role": 1,
+            "text": "Then how do you normally spend your spare time?",
+            "text_zh": "噢，得了吧。"
+        },
+        {
+            "role": 2,
+            "text": "I enjoy outdoor  activities. When I am free, I climb mountains with my friends. The closest one is not far from our school, jus 30 minutes by bus. Bus No 3 takes us directly to the foot of the mountain. I am really into nature and I love being around trees and water and mountain as much as possible.",
+            "text_zh": "我不是一直在告诉你们几乎入不敷出了吗？我说的所有事情你都是左耳进，右耳出。"
+        },
+        {
+            "role": 1,
+            "text": "What else do you do besides that in your spare time?",
+            "text_zh": "好啦，听着，等等，好不好？近来我一直都试图削减开支，我离家时总是关灯，我一直随时关心话费。。。。"
+        },
+        {
+            "role": 2,
+            "text": "What else? Well, I collect stamps as well. You can sometimes learn a lot from your collection.Some stamps tell you stories.",
+            "text_zh": "是的，也许是的，但是你每天总是把温度开到70度，这样我们每月得多花70到80美元。"
+        },
+        {
+            "role": 1,
+            "text": "When did you start to collect stamps?",
+            "text_zh": "等一等，等一等，我不得不这样做。你知道每次温度低于68度我就会不舒服，戴比，你是知道的。"
+        },
+        {
+            "role": 2,
+            "text": "I started doing that at the age of 5. On day,my mother showed me her small but wonderful collection and told me about the stamps one by one. Then I became interested. Now I have even got a couple of rare stamps.",
+            "text_zh": "噢，噢！看看话费单，花了98美元！怎么可能！我知道近来我们打了些长途，但这个数目也太离谱了。"
+        },
+        {
+            "role": 1,
+            "text": "Great. You have answered all my questions! Thanks you for your time!",
+            "text_zh": "那本地话费是多少？"
+        }   
+    ]
+}

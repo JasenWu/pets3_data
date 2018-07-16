@@ -1,0 +1,29 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"This is Nelson Smith. He is computer engineer. His work involves installation, repair and servicing of computers and associated equipment. Computer engineers may sometimes be described as information technology(IT)  hardware technicians, service engineers or computer systems engineer.",
+      "text_zh":"这是史密斯~内尔松。它是个计算机工程师。它的工作包含安装、维修和维护电脑等相关工作。计算机工程师经常被人称为IT工作者、服务工程师或者计算机系统工程师。"
+    },
+    {
+      "role":0,
+      "text":"This is Susan King an architect from Chicago She has constructed her career over years Her building materials include six years of architectural school and co-op internships and stints at three full-time employers She is now working as an associate architect for Environ Inc with design work on numerous warehouses manufacturing facilities and even fast food restaurant to her credit .",
+      "text_zh":"没有翻译"
+    }   
+  ]
+}

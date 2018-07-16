@@ -1,0 +1,53 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "A tourist is asking a passerby for directions to the tourist information center.",
+            "text_zh": "一位游客正在找旅游信息中心，并向一位过路人问路。"
+        },
+        {
+            "role": 1,
+            "text": "Excue me ...I'm trying to locate the Tourist Information Center .The hotel clerk said it was about five blocks this side of the center of town ,but I’ve been walking for quite a while now and can’t seem to find it . ",
+            "text_zh": "对不起...我在找旅客信息中心。旅客的服务员说它距离市中心大约五个街区，但是，我走了半天还是没找到。"
+        },
+        {
+            "role": 2,
+            "text": "You just haven’t walked far enough yet .It’s about a ten-minute walk from here ,I’d say . ",
+            "text_zh": "你走得还不够远。我想从这儿大约走十分钟就到了。"
+        },
+        {
+            "role": 1,
+            "text": "Would you mind drawing me a little map on this piece of paper ? I always seem to get lost when I try to follow directions . ",
+            "text_zh": "你不介意帮我在这片小纸片上画张小地图吗？每次我沿着指定的方向走的时候似乎总是会迷路。"
+        },
+        {
+            "role": 2,
+            "text": "Yes it is easier to follow a map Okay ...You go straight along this avenue for about 200yards ;then when you come to this bend in the road ,turn right . ",
+            "text_zh": "好的，按照地图走更容易些，好了...你沿着这条街一直走大约200码，然后到了拐弯处，向右转。"
+        },
+        {
+            "role": 1,
+            "text": "Is there any landmark at that bend ?",
+            "text_zh": "拐弯处有没有易于识别的地标呢？"
+        },
+        {
+            "role": 2,
+            "text": " Let me think ...yes ,there’s Shell station on the left ,across the street .Then after you turn,just walk for another five or six minutes .You ll see a big sign .You can’t miss it .",
+            "text_zh": "让我想想...有，穿过那条街，左边有一家壳牌加油站。转弯后，再走5到6分钟，你就能看见一副大牌子，你不会找不到的。"
+        }
+    ]
+}

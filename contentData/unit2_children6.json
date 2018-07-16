@@ -1,0 +1,41 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"What is real friend? Some people think that real friendship lies in generosity .",
+      "text_zh":"未翻译"
+    },
+    {
+      "role":0,
+      "text":"Some others think that a real friend is one with whom they can share happiness.",
+      "text_zh":"未翻译"
+    }  
+    ,
+    {
+      "role":0,
+      "text":" In my opinion, however,a  real friend is one who is with you when you are in difficulties. He is ready to offer you help whenever you need it and gives his advice even if you don t like to hear it. A friend in need is friend indeed. ",
+      "text_zh":"未翻译"
+    } 
+    ,
+    {
+      "role":0,
+      "text":"It takes a great effort to get a real friend. First, we should be kind and honest to others. Second, do not hesitate to offer our help when others need it. A sincere and frank person is never worried about finding real friend. ",
+      "text_zh":"未翻译"
+    }  
+  ]
+}

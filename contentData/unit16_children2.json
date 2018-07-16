@@ -1,0 +1,78 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": " A tourist wants to go to the Brooklyn Museum and asks a passerby for directions . ",
+            "text_zh": "一位游客想去参观布鲁克林博物馆，并向一位过路人问路。"
+        },
+        {
+            "role": 1,
+            "text": "Excuse me ...could you tell me if this is where I can catch a bus to the Brooklyn Museum ?",
+            "text_zh": "对不起...你能告诉我是否能在这儿乘坐去布鲁克林博物馆的公共汽车？"
+        },
+        {
+            "role": 2,
+            "text": "Yes ,you’re at the right stop,but that bus comes only every half hour to 45 minutes .Besides, I don’t think it goes directly to Brooklyn,I know it makes a lot of stops . ",
+            "text_zh": "是的，你刚好在车站，但是这趟车要半个小时到45分钟发一次，另外，我想它不直接到达布鲁克林，据我听知，沿路它要停好多站。"
+        },
+        {
+            "role": 1,
+            "text": "Sounds like it takes a long time to get there .",
+            "text_zh": "听起来好像要花很长时间才能到那儿。"
+        },
+        {
+            "role": 2,
+            "text": "It does ...especially at this time of day when the traffic is heavy .Why don’t you take the subway? It’s a lot faster .",
+            "text_zh": "确实...尤其是一天中的这会儿交通高峰时刻。你为什么不乘地铁去？那样要快得多。"
+        },
+        {
+            "role": 1,
+            "text": "I just can’t seem to understand the New York subway system at all.As soon as I get   underground I lose my sense of direction . ",
+            "text_zh": "我根本就不了解纽约的地铁系统，我一到地铁站就失去方向感了。"
+        },
+        {
+            "role": 2,
+            "text": "But it’s easy to get to Brooklyn from here.",
+            "text_zh": "从这到布鲁克林很容易。"
+        },
+        {
+            "role": 1,
+            "text": "Well...do you know where the nearest  subway station is ?",
+            "text_zh": "行...你能告诉我最近的地铁站在哪儿？"
+        },
+        {
+            "role": 2,
+            "text": "About a block down from here. Say,I’m going in that direction.I’ll show you where it is.",
+            "text_zh": "离这儿有一个街区。我正朝着那个方向走。我来指给你看，在那儿。"
+        },
+        {
+            "role": 1,
+            "text": " Thanks a lot .",
+            "text_zh": "太感谢了。"
+        },
+        {
+            "role": 2,
+            "text": "Think nothing of it .The museum’s about eight stops down . You get off at Eastern parkway. And you don’t have to make any changes. ",
+            "text_zh": "别客气。大约有8站路就到博物馆了，你在东方公园路下车，并且不必改变任何方向。"
+        },
+        {
+            "role": 1,
+            "text": "It sounds easy.Maybe this time I won’t get lost !",
+            "text_zh": "听起来还算容易，也许这次我不会迷路了。"
+        }
+    ]
+}

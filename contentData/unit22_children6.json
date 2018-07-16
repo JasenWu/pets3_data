@@ -1,0 +1,50 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Mr.Irving",
+            "name_zh": "艾尔文先生"
+        },
+        "2": {
+            "name": "Mrs.Schmidt",
+            "name_zh": "舒密特先生"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Dear Sir or Madam,",
+            "text_zh": "未翻译"
+        },
+        {
+            "role": 0,
+            "text": "I am writing to make a complaint  about your poor postal service which puts me in a very difficult position.",
+            "text_zh": "未翻译"
+        },
+        {
+            "role": 0,
+            "text": "I am a second year student in Liaoning University. Two months ago my mother sent me a parcel packed in a nylon bag from Beijing, which contains some winter clothes: a black overcoat, a brown sweater, and a pair of gloves. But two months has passed, I still have not received my  parcel yet, I have to spend extra money on winter clothes as I can hardly stand the cold weather here.",
+            "text_zh": "未翻译"
+        },
+        {
+            "role": 0,
+            "text": "I sincerely hope that you will give prompt attention to my case and settle it properly as soon as possible. I am looking forward to your favorable reply.",
+            "text_zh": "未翻译"
+        }
+        ,
+        {
+            "role": 0,
+            "text": "Yours sincerely,",
+            "text_zh": "未翻译"
+        }
+        ,
+        {
+            "role": 0,
+            "text": "Wang LIn",
+            "text_zh": "未翻译"
+        }
+    ]
+}

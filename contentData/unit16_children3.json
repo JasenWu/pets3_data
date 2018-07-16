@@ -1,0 +1,44 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+         
+        {
+            "role": 0,
+            "text": "May Hunter is at a travel conference and exhibition in Manchester,England.She is talking about her first and second day there. ",
+            "text_zh": " 梅.亨特目前在英国的曼彻斯特出席一个旅游交易展览会，她正在谈论她第一天和第二天在那儿的情况。"
+        },
+        {
+            "role": 0,
+            "text": "Manchester is fantastic place! It s full of life,lots to see and do in the evenings.Yesterday was my first day.I checked in at the hotel and then went out to Chinatown,which has some great Chinese  restaurants and things to see. I love that kind of atmosphere and the wonderful Chinese   supermarkets and clothes shops. I want to go back there later to do some shopping .",
+            "text_zh": "曼彻斯特是一个迷人的地方！到处生气勃勃。到了晚上，更是有许多值得看和做的事情。昨天是我到这儿的第一天。我在旅馆登记住下后，就去了唐人街，那儿有许多中国餐馆和值得看的东西。我喜欢那种气氛和不错的中国超市，服装店，稍后我还想去哪儿购物。"
+        },
+        {
+            "role": 0,
+            "text": "In the end,I found a restaurant which had more than special dishes.It seems as if I am going to enjoy myself here for the coming days .Today,I went back to work! I went to the conference to register and to set up my exhibition stand.",
+            "text_zh": "我还终于找到了一家能提供50多种特色菜的餐厅。似乎接下来几天我都可以去这家餐厅享受美食。今天我要回去工作了。我去了会场报到登记，还搭好了我的展台。"
+        },
+        {
+            "role": 0,
+            "text": "I found everything ready for us.The registration was easy and straightforward,and the people were friendly.I discussed the conference with the manager. I found that the stand of my company is in a good position,near the coffee shop and the bakery.So I should get lots of people passing and buying my holidays and tours.",
+            "text_zh": "我觉得一切都为我们安排好了，会场登记注册简单又便捷，人们对很友好，我跟会场经理讨论了会议安排，我发现我们公司展台的位置很好，在咖啡店和面包房附近。这样，我有可能让很多的人经过我的展台，为我给他们提供度假旅游方案买单。"
+        },
+        {
+            "role": 0,
+            "text": "Things are going well! I set out our brochures ready for the official opening,and then I went to look at the other stands.This afternoon I want to go out again to do some shopping.I bought some presents for my boyfriend.",
+            "text_zh": "一切都进展顺利！为了会议的正式开幕，我还发了宣传公司的小册，然后，我去看了一下别的展台。今天下午我想再出去购物，我为我的男友买了一些礼物。"
+        } 
+    ]
+}

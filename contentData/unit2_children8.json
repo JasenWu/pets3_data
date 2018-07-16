@@ -1,0 +1,29 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"In the picture, young man is talking with an elderly man who is sitting at the table with book in his hand and looks very learned The young man is bending his body listening to the elderly man with big smile, thumbing up to show his agreement and compliments to him However there is another picture in bubble over the young man's head: he has his arms crossed over his breast and his nose in the air showing he complies with the elderly man in speech but disobeys in his heart.",
+      "text_zh":"没有翻译"
+    } ,
+    {
+      "role":0,
+      "text":"The problem with this young man is immodesty which is fairly common among young people. Some of them have too high an opinion of themselves, totally ignoring other people's, especially old people s, suggestions and advice regarding them as being out of date. Consequently, their immodesty often drives them up against the wall. In fact we should know no matter whom we are and no matter how talented we are we are unlikely to be all powerful and the old people's experience and advice are treasures in our life, which we should try our best to learn from Modesty is one of the many qualities that cross-century young people should possess, It gives us the impetus to go forward . ",
+      "text_zh":"没有翻译"
+    } 
+  ]
+}
