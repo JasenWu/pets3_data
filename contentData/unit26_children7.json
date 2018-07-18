@@ -1,0 +1,25 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"  Interested in English teaching. I pursued my graduate study in the direction of teaching methodology. I was a top student through the tree academic years, and I showed my enthusiasm and energy, sensitivity in everything I did. Besides, as a part-time teacher in the public school for one year, I have got some working experience in English teaching profession and I have earned respect from my students and my colleagues. Therefore, my background, experience, and proven accomplishments are combined to make me an ideal candidate for teacher’s position. ",
+      "text_zh":"未翻译"
+    }
+      
+  ]
+}

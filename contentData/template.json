@@ -1,0 +1,89 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "",
+            "text_zh": ""
+        },
+        {
+            "role": 1,
+            "text": "",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "",
+            "text_zh": ""
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "",
+            "text_zh": ""
+        }   
+         
+    ]
+}

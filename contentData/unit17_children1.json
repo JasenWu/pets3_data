@@ -1,0 +1,84 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "W",
+            "name_zh": "W"
+        },
+        "2": {
+            "name": "M",
+            "name_zh": "M"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Two young people,an American and a japanese,are chatting as they wait to board their flight.",
+            "text_zh": "两位年轻人，一位美国人和一位日本人，边等班机边闲聊。"
+        },
+        {
+            "role": 1,
+            "text": " I see by your boarding card that we’re on the same fight.",
+            "text_zh": "从登机牌上看，我们将乘同一趟航班。"
+        } ,
+        {
+            "role": 2,
+            "text": "Oh really?I’m so happy to meet someone else on my flight—this is my first trip overseas.",
+            "text_zh": "哦，真的吗？很高兴认识和我乘同一航班的朋友。这是我第一次去海外旅游。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Then you’ve never been to the United States. Are you going there to study or just for sightseeing?",
+            "text_zh": "这么说你从来没有去过美国。是去学习还是去观光。"
+        } ,
+        {
+            "role": 2,
+            "text": "I’ll be studying tourism management for two years at private institute for foreigners.",
+            "text_zh": "我将去一所私立学校学两年旅游管理。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "That’s great.Oh,by the way,I’m John Smith.I’m returning home to New York City after a two-week vacation here in Tokyo.",
+            "text_zh": "太好了！哦，告诉你，我叫约翰.史密斯。我在东京度过了两周的假期，现在回纽约的家。"
+        } ,
+        {
+            "role": 2,
+            "text": "Was it your first trip to Japan?",
+            "text_zh": "你是第一次到日本吗？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Oh no,I’ve been here three times. I have friends living in Tokyo. ",
+            "text_zh": "哦，不是，我已经去过3次了，我有朋友住在东京。"
+        } ,
+        {
+            "role": 2,
+            "text": "Speaking of friends,I think I’d better find the tax-free shop before we board the plane.I’d like to buy some gifts for the people who will be meeting me at the airport.",
+            "text_zh": "说起朋友，我想在上飞机前，最好找家免税店，我想送些礼物给去机场接我的朋友。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "The shop is over there in the corner —I’ll watch your things for you while you look around.",
+            "text_zh": "免税店就在那边的角落里—你去瞧瞧，我帮你看行李。"
+        } ,
+        {
+            "role": 2,
+            "text": "Thanks,I’d appreciate that.Do I have much time?",
+            "text_zh": "谢谢，非常感谢。我的时间够吗？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Yes I just looked at the board—they should be announcing our flight in about 30 minutes.",
+            "text_zh": "够了，我刚才看了登机布告栏—大约30分钟以后，他们才宣布登机。"
+        }  
+         
+    ]
+}

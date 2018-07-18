@@ -1,0 +1,48 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"The two students differ in their choices of career. One will enter a foreign company and the other will be a civil servant.",
+      "text_zh":"未翻译"
+    },
+    {
+      "role":0,
+      "text":"Since China’s reform and opening up to the outside world, many big cities have become the hot destinations of overseas investment. In foreign companies, the salaries of staff members are determined on the basis of their contribution to the company, whereas in government, the salaries of staff members are based on their title, education level and working-age, in one world, on seniority. Working in foreign companies, compared with being a civil servant, provides you with an environment for fair competition and more opportunities to progress. However, there are still many graduates taking examinations of civil servant and we see no clue of the rushing-for-civil-servant trend will go down. Why? Because  civil servants in China can enjoy good reputation and iron bowl, which are considered very important by common people.",
+      "text_zh":"未翻译"
+    }  
+    ,
+    {
+      "role":0,
+      "text":"As for the two students, we cannot say who is right or wrong in his choice, but it is always true that one should match his personality, ability and ambition to the job that fits him.",
+      "text_zh":"未翻译"
+    }
+    ,
+    {
+      "role":0,
+      "text":"Everyone faces the problem of choosing an occupation after graduation from college or university, which plays a vital role in his/her country. To make a wise choice, two important things should be taken into consideration. One is the interest,and the other, the demands of people and society. Only if the two aspects are connected can one show his/her talents and abilities to the best advantage. If the two conflict with each other, the former should give way to the latter, for people’s interests are more important than the individual’s.",
+      "text_zh":"未翻译"
+    }
+    ,
+    {
+      "role":0,
+      "text":"In regard to my choice in the future, I am fond of learning foreign languages; what’s more , with the implementation of the opening up policy, exchanges between home and abroad in economy and culture have been growing significantly, thus I’m determined to be a qualified interpreter.",
+      "text_zh":"未翻译"
+    }
+      
+  ]
+}

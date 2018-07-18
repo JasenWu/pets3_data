@@ -1,0 +1,83 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Jason",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "Fang Hua",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Fang Hua is a tourist guide of Beijing Travel Agency. She is now talking with Jason, a British tourist who comes to Beijing for the first time, about where to shop in Beijing.",
+            "text_zh": "方华是北京旅行社的导游，她正跟詹森先生聊天，詹森先生是英国人，这是他第一次到中国，他正在问方华北京购物的好去处。"
+        },
+        {
+            "role": 1,
+            "text": " Beijing is a metropolitan city. I know there’re a lot of wonderful stores and shopping centers in Beijing. Can you make an introduction to me, Miss Fang?",
+            "text_zh": "北京是一个大都市，我想,北京一定有很多很好的商店和购物中心, 方小姐, 你可以给我介绍一下吗?"
+        } ,
+        {
+            "role": 2,
+            "text": "OK. First of all, you know Wangfujing Street? Absolutely, it should be the place you can’t miss.",
+            "text_zh": "好的。首先, 你知道王府井大街吗? 这个地方你可一定要去。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": " Well, of course I know a little. Wangfujing  is situated north of Chang’an Boulevard East, and has been around for over a century as a well-known shopping street.",
+            "text_zh": "哦，我当然知道一点。王府井位于东长安街北，作为著名的商业街，它的历史超过一百年。"
+        } ,
+        {
+            "role": 2,
+            "text": "Yes, you are quite right. There are many modern stores standing on either side of the street, and it is prosperous, always crowded with people from every corner of China and the world. ",
+            "text_zh": "是的，你说得很对。在街两边有很多现代的商场，这条街很繁华，街上挤满来自全国、全世界各地的游客。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": " What are the best know of the stores?",
+            "text_zh": " 这条街最著名的商场是哪几个？"
+        } ,
+        {
+            "role": 2,
+            "text": "Probably, Beijing Department Store and New Dong’an Market. They are both well known for world-famous brands and plentiful commodities.",
+            "text_zh": "北京百货大楼和新东安市场最著名了。这两家商场以卖世界著名品牌而且商品品种繁多而知名。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Oh, I see. I’d like to go there with my wife. She should be interested. By the way, I’ve been hunting for some small commodities like Chinese folk arts and crafts. Can I find them at Wangfujing",
+            "text_zh": " 哦，我知道了。我想和我妻子一起去，她一定很想去。另外，我想搜罗一些中国民间手工艺品之类的小商品，我在王府井买得到吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "You’d better go to Liulichang Cultural Street, where oceans of souvenirs are for sale in stores. You will be happy to find traditional Chinese calligraphy and painting, folk arts and crafts and second-hand books and periodicals. All the stores are housed in buildings that have retained old architectural styles. Shopping in this street is a sightseeing tour as well. ",
+            "text_zh": "你最好去琉璃厂文化街去看看，那儿的商店有很多很多的纪念品卖，你会很高兴地看到有很多中国传统书法字画、民间手工艺品、旧书和杂志。所有的商店都开设在那些保留着中国古典建筑风格的房子里。在这条街上购物顺便也可以观光。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "That’s fascinating. Can you tell me how to get there ? I live now in the diplomatic mission zone.",
+            "text_zh": "太诱人了, 你能告诉我怎么去那儿吗? 我现在住在使馆区。 "
+        } ,
+        {
+            "role": 2,
+            "text": "It’s not far. You can take a taxi ...",
+            "text_zh": "路不远,你可以乘出租车去。"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "Questions:<br/>1. Where is Wangfujing Street situated in Beijing?<br/>2. What is Beijing Department Store famous for?<br/>3. What does Jason what to buy?<br/>4. Why does Fang Hua say that shopping in Liulichang Culttural Street is a sightseeing tour?<br/>",
+            "text_zh": ""
+        } 
+    ]
+}

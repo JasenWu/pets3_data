@@ -1,0 +1,90 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Edmund",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "Deborah",
+            "name_zh": "德波诺"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Edmund,a tourist,is taking trip in North America.He wants to know more about culture and life there. Now he is talking with  Deborah,a tourist guide,about restaurants in the U .S .",
+            "text_zh": "艾德蒙得，一位游客，正在北美旅行。他想知道更多关于那儿的文化和生活。现在他正在同德波诺，一位导游，谈论美国的餐饮情况."
+        },
+        {
+            "role": 1,
+            "text": " Hello,Deborah,could you kindly tell me what kind of restaurants I can find in America?",
+            "text_zh": "你好，德波诺，你能否告诉我在美国能找到什么样的餐厅？"
+        } ,
+        {
+            "role": 2,
+            "text": " You can find many kinds of restaurants offering a wide selection of foods at a variety of prices with variety of services. Basically,however,restaurants can be classified into two types—fast food and full service.",
+            "text_zh": "你能找到许多种价格不等，服务多样，提供各种食物的餐厅。不过，餐厅基本上分成两类—快餐服务和全餐服务。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "What is fast food restaurant? And what kind of food do they offer?",
+            "text_zh": "什么是快餐？他们提供什么样的食物呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "Fast food restaurants such as McDonald’s,Wendy’s,Taco Bell, Kentucky Fried Chicken,and so forth,serve hamburgers, tacos, chicken,sandwiches, and other foods that usually cost less than $3per item.",
+            "text_zh": "快餐餐厅，比如麦当劳，温蒂快餐店（Wendy ‘s)，墨西哥煎玉米店(Taco Bell)，肯德基等等，提供汉堡包，墨西哥煎玉米卷，炸鸡，三明治，而且其他食物每份花费还不到3美元。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "That is the same case in China.But I saw in western movies that people could order and pick up food without leaving their cars. ",
+            "text_zh": "在中国，情况也是如此。但是，我在西方电影中看到，人们不下车就可以订购和买的食物。"
+        } ,
+        {
+            "role": 2,
+            "text": "Of course you could do that in America.That is called “drive-through-window” service.If you want to eat in the restaurant, you then seat yourself. You are also expected to clean off your table when you are done with the meal. ",
+            "text_zh": "当然，你在美国也可以这么做。那就是所谓的“兔下车窗口”服务(driver-through window).如果你想在餐厅里吃，你可以自行安排坐好。吃完后，你应该清理干净你的桌子。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "How about the full service restaurants? Are there many differences between fast food and full service restaurants?",
+            "text_zh": "全餐服务是怎么回事呢？快餐店与全餐服务餐厅有许多不同之处吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Full-service restaurants offer even a wider variety,usually at higher prices. Unlike fast-food restaurants,they usually seat you, have a waiter or waitress take your order and serve your food.and clean your table after you complete your meal. ",
+            "text_zh": "全餐服务餐厅提供的食物品种非常丰富，通常价格要高些。与快餐店不同，他们通常安排你坐下，有一位男服务生或女服务生帮你点菜，负责上菜，吃完后他们还帮你清扫桌子。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Do I have to make reservations ?",
+            "text_zh": "我得预订座位吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Most restaurants do not require you to make reservations.However,if you are not sure whether reservations are required.call the restaurant and ask.",
+            "text_zh": "大多数餐厅不需要预订座位，不过，如果你不大清楚是否要预订的话，可以打电话给餐厅进行咨询。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": " Do I need to “tip”?",
+            "text_zh": "我需要付小费吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Generally speaking,a tip is expected at any restaurant where waiter or waitress serves you.The acceptable standard is 15% of the tall bill.Some restaurants will automatically add this 15% called a “gratuity charge”, to your bill if you have certain number of people in your party.",
+            "text_zh": "一般来说，在有男服务生或者女服务生接待的餐厅吃饭，应该付小费。可接受小费的标准为账单总额的15%。如果你宴请一定数量的人进餐，一些餐厅会将这15%的小费费用自动加到你的账单中。"
+        }   
+         
+         
+    ]
+}

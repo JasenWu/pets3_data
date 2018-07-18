@@ -1,0 +1,30 @@
+{
+  "roles":{
+    "0":{
+      "name":"aside",
+      "name_zh":"旁白"
+    },
+    "1":{
+      "name":"Mr.Irving",
+      "name_zh":"艾尔文先生"
+    },
+    "2":{
+      "name":"Mrs.Schmidt",
+      "name_zh":"舒密特先生"
+    }
+  },
+
+  "contents":[
+    {
+      "role":0,
+      "text":"Everyone faces the problem of choosing an occupation after graduation from college or university, which plays a vital role in his/her country.To make a wise choice, two important things should be taken into consideration. One is the interest,and the other, the demands of people and society. Only if the two aspects are connected can one show his/her talents and abilities to the best advantage. If the two conflict with each other, the former should give way to the latter, for people’s interests are more important than the individual’s.",
+      "text_zh":"未翻译"
+    },
+    {
+      "role":0,
+      "text":"In regard to my choice in the future, I am fond of learning foreign languages; what’s more , with the implementation of the opening up policy, exchanges between home and abroad in economy and culture have been growing significantly, thus I’m determined to be a qualified interpreter.",
+      "text_zh":"未翻译"
+    }  
+      
+  ]
+}

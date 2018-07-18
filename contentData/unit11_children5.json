@@ -1,0 +1,46 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "There are many art galleries and ongoing displays on the campus of the University of Victoria(UVic). The Student Union Building lounge displays various works including local students art. The Maltwood Art Museum Gallery,located in the main lobby of the University Center, features local, national, and international works. The McPherson Library Gallery located on the main floor of the library,features art produced by UVic students. To see ongoing art displays, you can visit the Fine Arts Building.",
+            "text_zh": ""
+        },
+        {
+            "role": 0,
+            "text": " CFUV broadcasts at 101.9 FM. This unique campus radio station offers a diversity of programming, which includes alternative rock, folk, classical and jazz music as well as news, public affairs and multicultural programming. CFUV also features Victoria's only regular rap, rhythm and blues, electronic experimental, and women's programming. The station is operated by students and community vounteers.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 0,
+            "text": "Cinecenta is the Students' Society's 300 seat movie theater.Celebrating its 30th anniversary, Cinecenta always offers an excellent choice of movies from alternative, foreign, indenpendent, documentary films to Hollywood block-busters. Take the time on a Sunday afternoon and catch a 2:30matinee for only $3.75 or catch a midnight classic! Movies are only $4.75 for students with a valid student ID- or buy a film pass and pay only $3.75 each. You can pick up a free timetable around campus.",
+            "text_zh": ""
+        } 
+        ,
+        {
+            "role": 0,
+            "text": " The Music Department on campus holds over 100 concerts a year. Everyone is welcome to attend student recitals, held every Friday at 12:30 pm in the Phillip T. Young Recital hall located in the music wing of the MacLaurin building. Student discounts are available at some performances of the Pacific Opera Victoria. The Victoria Symphony offers reduced price tickets to students if tickets are purchased the day of the concert. The Symphony also performs frequently at the University Center.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 0,
+            "text": "Copies of following publications can be picked up from campus publication boxes that are located in virtually every building on campus. The Martlet, the official student paper of UVic, is funded partially through student fees and is produced by an autonomous collective of students and staff. it is available across campus and throughout Victoria every Thursday Published monthly by CFUV, Offbeat is your guide to CFUV's program schedle. The Ring, published every two weeks, is UVic's community newspaper for faculty, staff, students and off-campus readers. An autonomous publication funded by UVic and produced by the Women's center, the Womyn's Publication Network is the oldest women's student newspaper in Canada. The paper has a feminist focus  ",
+            "text_zh": ""
+        }  
+         
+         
+    ]
+}

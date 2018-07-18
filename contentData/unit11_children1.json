@@ -1,0 +1,84 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Dave",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "Mary",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Dave and Mary are talking about news they read on the Internet",
+            "text_zh": ""
+        },
+        {
+            "role": 1,
+            "text": "Anything intersting on the Internet?",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "Well,a lot.I am reading the gardening column written by Steve Mann.This guy is a genius.",
+            "text_zh": ""
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Take a look at the demestic news part.There was a small earthquake yesterday in remote areas of the south.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "Yeah,I've finished it.It says only some ancient temples callapsed but fortunately nobody died.",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Look here,Swiss singer Gil was named the 2005 winner of the Polar Music Prize for his contributions to music.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": " Really?I love his music.I know Gil is already 79,and he is Switzerland's culture deputy minister now. By the way, the Polar Muusic Prize award was founded in 1989,right?",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Yeah, it says it was founded by Thomas Anderson, Manager of Swedish pop group ABBA, through a donation.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "When did they announce the winner?",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": " Let me see...here, announcement of the winner was made yesterday.Gil will receive about 137,000 U.S. dollars and he is expected to travel to Sweden to collect the award on May 23.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "Wow!Keep reading and tell me some more intersting things.",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "No problem! ",
+            "text_zh": ""
+        }
+         
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Employees in ABO，an intemational automobile company，are required to travel a lot around the world.Stephen,an experienced senior manager of the firm,is now delivering a lecture to new recruits about travel affairs.",
+            "text_zh": "在ABO，一家国际汽车公司，工作的雇员们被要求经常在世界各地旅行。史蒂芬，该公司一位经验丰富的高级主管，正在向公司的新员工介绍有关旅游事宜的资料."
+        },
+        {
+            "role": 0,
+            "text": "Many people are really upset when their flight is delayed.Not only do they have to postpone their plans but, even worse,they have to wait in an airport! There is no need to be upset though. Airports are much better places these days than most people realize.",
+            "text_zh": "当航班延误起飞，许多人确实会感到心烦意乱。他们不仅得推迟他们的计划，更糟的是，他们将在机场等待！不过，没必要感到难受，如今的机场要比大多数人所感觉到的要好得多。"
+        } ,
+        {
+            "role": 0,
+            "text": "It is believed that airport food is bad—as bad as airplane food. As a matter of fact, airports have fine international cuisine—from fresh seafood in New York to Brazilian barbecue in Hong Kong. And you can stock up on something to have for later—for example, cheese and caviar in Mexico City.",
+            "text_zh": "有人认为机场的食物非常糟糕一如同飞机上的食物一样糟糕。事实上，机场有精美的国际化的佳肴，从新西兰新鲜的海鲜到香港的巴西烧烤。并且这些东西你可以一次买很多备用一比如，墨西哥城的奶酪和鱼子酱。"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "People might think that airports could make people uncomfortable and tense. Actually that s not the truth. If you are stuck in an airport, you could have some fun. As far as I know, for instance, the airport at Honolulu has peaceful gardens. Pittsburgh has meditation room. When you walk in, relaxing music comes and pictures of clouds are projected on the wall. If as you prefer exercise, hotels at the airports in San Francisco, Rome, and many other cities have fitness centers that anyone can use.",
+            "text_zh": "人们也许认为，机场让他们感到不舒服和紧张，实际上那不是真的。如果你滞留在机场，你也可以安排一些娱乐活动。据我所知，比方说，檀香山机场有很幽静的花园匹兹堡机场有一个沉思屋，当你一走进去，让人轻松的音乐立即响起，画有云彩的图片被投影到墙上。如果你想锻炼身体旧金山、罗马和许多其他城市中的酒店能提供任何人都可使用的运动健身中心。"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "And shopping in airports is great if you would like to buy something fancy and rare.  In Paris, you can buy anything from perfume to diamonds. In Nogales,Arizona, you can buy antique knives or regional art. The art is so interesting that some people fly to Nogales just to visit the airport gallery. And Hong Kong’s  airport is known for some of the best shopping in the world.",
+            "text_zh": "另外，如果你想买一些意想不到、稀罕的东西，在机场购物简直是太棒了。在巴黎，你可以买到从香水到钻石之类的任何东西。在亚利桑那州的诺盖尔（Nogales），你能买到古老的刀或具有地域特色的艺术品。这种艺术品如此有趣，以至于有些人飞到诺盖尔，仅仅是为了参观机场美馆。另外，香港机场也以其良好的购物环境闻名世界。"
+        }  
+         
+    ]
+}
