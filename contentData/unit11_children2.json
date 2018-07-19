@@ -1,0 +1,95 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Bob",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "Jean",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Bob and Jean are talking about articles in the newspaper.",
+            "text_zh": ""
+        },
+        {
+            "role": 1,
+            "text": "Hey,do you read the Globe and Mail? They're always got interesting news. Look here. Badminton news. Nathan Robertson and Gail Emms, the Olympic silver medalists, will have to beat the double Olympic champions Zhang Jun and Gao Ling in the semifinals of Yonex All England Open Championships at the National Indoor Arena in Birmingham next week.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "Oh, hope they can win this time. I also enjoy reading the Globe and Mail. What else is there?",
+            "text_zh": ""
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Here is more...do you watch the TV show American Ido?",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "Yeah. I enjoy that. It is every Tuesday at 8, right? What does it say about it in the paper?",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "The University of North Carolina will offer an academic course about the show to promote it.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": " Interesting! When will that start in the University?",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Beginning of January. And the students can earn three credit points for the class. Hopefully there are more universities which will follow.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": " What is the course called?",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Examining American Idol. The class will watch the show twice a week and learn the history of different musical styles used as themes of the show. The final project will be a paper on who should win and why.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "I wish that I could take that course as well. Whose idea is that?",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "It is an elective course created by Jay Grymes, an assistant professor. He says he is a huge fan of the show.",
+            "text_zh": ""
+        } ,
+        {
+            "role": 2,
+            "text": "Can I read the paper when you are done with it?",
+            "text_zh": ""
+        }   
+        ,
+        {
+            "role": 1,
+            "text": "Sure.",
+            "text_zh": ""
+        }
+         
+    ]
+}
