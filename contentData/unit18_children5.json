@@ -1,0 +1,43 @@
+{
+  "roles": {
+    "0": {
+      "name": "aside",
+      "name_zh": "旁白"
+    },
+    "1": {
+      "name": "tourist",
+      "name_zh": "游者"
+    },
+    "2": {
+      "name": "passerby",
+      "name_zh": "路人"
+    }
+  },
+  "contents": [{
+      "role": 0,
+      "text": "Anyone lucky enough to be going to Honolulu doesn’t have to give a reason for going. They can just say,  “We’re going to Honolulu” and imagination will take care of the rest.  Moreover, Honolulu can probably live up to and even surpass whatever we imagine. World-famous beaches and tropical weather set the scene for an amazing mix of Pacific cultures in this Hawaiian capital.  There is a reason why Hawaii is consistently rated as one of the nation’s top travel destinations; in fact, there are several of them.",
+      "text_zh": "每一位能幸运地到檀香山游玩的人都不必给出要去的理由。他们只用说：“我们要去檀香山。”除此以外，占据他们大脑的都是想象的成分。当然，檀香山不会让我们失望，甚至比我们想象得还要棒。闻名于世的海滩和热带气候，使这里的景色掺杂着令人惊叹的夏威夷首府所独有的太平洋风情。这就是夏威夷之所以一直以来被列为该国令人向往的旅游胜地的一种原因。事实上还有其他一些原因。"
+    },
+    {
+      "role": 0,
+      "text": "Waikiki Beach is the center of activity for Hawaii’ s biggest industry:  tourism. This is one of the world’s greatest resort playgrounds, featuring some of the most beautiful beaches and hotels in the world. Visitors from all over the world flock here to enjoy the sun,the sand and the incredible nightlife.",
+      "text_zh": "对于夏威夷的最大产业—旅游业来说，怀基基黄金海岸线是其活动的中心。这里是世界上最大的度假胜地之一，以其美丽的海滩和旅馆著称。游客从世界各国聚集在此享受阳光、沙滩和令人陶醉的夜生活。"
+    },
+    {
+      "role": 0,
+      "text": "Besides the beaches,  visitors to Honolulu can take tours of the countryside surrounding the downtown area. These tours are amazing,  bringing visitors to some of the most beautiful rainforests and volcanoes in the world. Animal and plant life are abundant,  and the scenery is unsurpassed.  A five-minute car ride from Honolulu brings visitors into some of Nature’ s most beautiful and awe-inspiring sights. Several museums,  including the Bishop Museum,  combine exhibits on Hawaiian natural history with lessons about history and culture of its many diverse peoples. The Waikiki Aquarium is the third oldest public aquarium in the United States.  and it features many of Hawaii’ s most interesting sea animals.",
+      "text_zh": "除了海滩，游人还可以游览檀香山市中心周围的村落，这些旅游活动同样令人着迷。游人可欣赏到世界上一些最美丽的热带雨林和火山，那里的动植物非常丰富，景色优美无比。从檀香山出发车行5分钟，就能到达那些美丽而令人陶醉的自然风景区。一些博物馆，如主教博物馆，经常展出一些有关夏威夷自然历史的展品，以及介绍岛上各个民族的历史和文化的课程。怀基基水族馆是美国第三古老的公共水族馆，以拥有众多夏威夷有趣的海洋动物著称。"
+    },
+    {
+      "role": 0,
+      "text": "The history of Hawaii is very rich, as the islands have always attracted many different people.  Visitors can tour the Tolani Palace,  the residence of the last of the Hawaiian monarchs.  They can also visit Honolulu’ s Chinatown, which is more authentic than many of its mainland counterparts. They can also visit the Arizona Memorial.  commemorating the destruction of the battleship Arizona during the Japanese attack on Pearl Harbor that brought America into World War II.",
+      "text_zh": "夏威夷的历史异常丰富的原因在于，其诸岛一直以来总是不断地吸引各种人群。游人可以参观夏威夷最后一个君主住过的托拉尼王官。还可以去檀香山的唐人街，与大陆其他地区类似的唐人街相比，它更加原汁原味。游人还可以参观亚利桑那那号纪念馆，它是为了纪念在珍珠港事件中被毁的亚利桑那号战舰而修建的。日本人发动的这一事件使美国卷入第二次世界大战。"
+    },
+    {
+      "role": 0,
+      "text": "Honolulu exhibits the best of Hawaii in thorough way. From its famous beaches to its incredible natural preserves, this town has attracted millions of people from around the world. Many of those visitors stayed, helping to make Hawaii one of the most diverse places to visit in the United States.  Anyone lucky enough to be going to Hawai knows that he won’ t  be disppointed.",
+      "text_zh": "檀香山全方位地向人们展示了夏威夷的风采。从它著名的海岸到令人叹为观止的自然风景保护区，这座城市吸引着无数来自世界各地的游人。如此众多的游客在此，使得夏威夷成为美国最具有特色的旅游胜地之一。有幸到夏威夷的人都知道，他将会不虚此行。"
+    } 
+
+  ]
+}

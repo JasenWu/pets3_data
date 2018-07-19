@@ -1,0 +1,95 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Agent",
+          "name_zh": "代理人"
+      },
+      "2": {
+          "name": "Smith",
+          "name_zh": "史密斯"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "William Smith,who is from the U .S .,is making arrangements at a travel agency for sightseeing tour in London.",
+          "text_zh": "来自美国的威廉.史密斯，正在一家旅行社为去伦敦观光作安排。"
+      },
+      {
+          "role": 1,
+          "text": "Good morning, sir. May I help you?",
+          "text_zh": "先生，早上好！我可以帮你吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "Yes I’d like to take a one-day sightseeing tour around London. Do you have any available?",
+          "text_zh": "嗯，我想参加伦敦一日游。你们这儿有吗？"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "Yes, we have several. Here are the brochures that describe them.",
+          "text_zh": "有，我们有几种不同的旅游线路。这儿是有关价格的宣传册子。"
+      } ,
+      {
+          "role": 2,
+          "text": "I particularly want to visit the British Museum and the Tower of London. Do you have any tours that include both of them?",
+          "text_zh": "我特别想去参观不列颠博物馆和伦敦塔。你有没有包括这两个景点的旅游线路？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Yes, this one does. You visit the Tower and Westminster Abbey in the morning.Right after lunch,the tour makes stop at St Paul’ s.Then the rest of the afternoon is spent at the museum.",
+          "text_zh": "有的，这个就是。早上你可以参观伦敦塔和威斯敏斯特教堂。午餐后，在圣保罗大教堂停留一下，然后下午去博物馆。"
+      } ,
+      {
+          "role": 2,
+          "text": "How long does the tour take?",
+          "text_zh": "这次旅行行程多长时间？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "About seven hours. How large is your party,by the way?",
+          "text_zh": "大约7小时。顺便问一句，你们一行有多少人？"
+      } ,
+      {
+          "role": 2,
+          "text": "There are six people in my party.",
+          "text_zh": "有6人。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Where are you staying? ",
+          "text_zh": "住在哪儿？"
+      } ,
+      {
+          "role": 2,
+          "text": "At the Hyde Park Hotel.",
+          "text_zh": "海德公园酒店。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Let’s see the bus stops there at 10:00.You should be back by 5:00 in the afternoon.",
+          "text_zh": "让我看看，车子10点钟停止那儿，你们应该在下午5点之前返回。"
+      } ,
+      {
+          "role": 2,
+          "text": "What is the cost of the tour?",
+          "text_zh": "旅费多少？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "It s £15, including lunch.",
+          "text_zh": "15磅，包午餐."
+      } 
+       
+  ]
+}

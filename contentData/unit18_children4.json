@@ -1,0 +1,83 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Mrs.Smith",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "consultant",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": " Mrs. Smith is talking with a  trave consultant about her extended family tour  near her hometown.",
+          "text_zh": "史密斯太太正在与一位旅游顾问讨论她的家庭去她的家乡附近旅游的有关事宜。"
+      },
+      {
+          "role": 1,
+          "text": "It is just my husband and I now, but we have grown-up childre who are married and 6 grandchildren. We’d like to go away together for some time, you know, we don’ t see much of each other now. ",
+          "text_zh": "史密斯太太：现在，家里只有我丈夫和我，但是我们有成年已婚的孩子们和6个孙子。我们想一起外出一段时间。你知道，我们现在不经常见面。"
+      } ,
+      {
+          "role": 2,
+          "text": "I agree with you. Building a tradition of the extended family all going away together is great way to build long-lasting family bonds.  Almost ten years ago my own family started going camping together one long weekend each year,  and now everyone looks  forward to this trip.",
+          "text_zh": "我赞同你的想法。树立大家庭一起外出的传统，是建立家庭长期密切纽带的一项非常好的办法。几乎十年前，我自己的家庭成员就开始每年出去露营一个长长的周末，现在大家总盼着这样的旅行。"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "But, it can be very expensive isn’t it?",
+          "text_zh": "但是，很贵，是吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "It can be, but in my opinion the point of an extended family vacation is the togetherness-not the destination,  and least of all the cost Don’ t you think so?",
+          "text_zh": "可能，但我想大家庭一起度假旅游，关键是为了在一起聚一聚—而不是为了到某个地方游玩，更不用考虑花费问题，你不认为是这样的吗？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Well certainly you are right.  But we’re big family.  The number of people determines the amount of travel costs.  We still hope we can keep that down. Do you have any good suggestions?",
+          "text_zh": "嗯，当然，你是对的。但是我们是个大家庭，参加旅游的人数决定了旅费的多少。我们仍然希望能将费用降低点，你有什么好点的建议吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "The most expensive part of most trips is transportation. If you would like to stay within a hundred miles of home, and that should keep your costs down.",
+          "text_zh": "大多数旅游中最花钱的部分是交通费。如果你只想呆在离家一百英里的范围内，那样的话费用就会降低。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Yes， that’ s what we just planned.  How about accommodations and food?",
+          "text_zh": "是，我们刚刚计划的就是如此，那么住宿呢？"
+      } ,
+      {
+          "role": 2,
+          "text": "You may go by camping. No doubt,  it is the very best way to contain both accommodation costs and food costs.  And camping is a terrific way to build memories and togetherness,  which is what I suspect you are trying to do.",
+          "text_zh": "你可以去露营。毫无疑问，这就将食宿费包括进去了。露营是让人留下记忆和增强凝聚力的好办法，那是我想你应该尝试做的事情。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "It seems good,  but I hear that camping is no so convenient or interesting.",
+          "text_zh": "似乎不错，不过我听说露营不是很方便或有意思。"
+      } ,
+      {
+          "role": 2,
+          "text": "There is no need to worry about that. Nowadays, many commercial campgrounds are quite plush, with swimming pools,  hot tubs,  game rooms, etc., and a number of campgrounds will rent out travel trailers, cabins or lodges if you prefer a real bed instead of a sleeping bag.",
+          "text_zh": "不必担心那些。如今，许多商业性露营地都非常舒适。有游泳池，热水浴盆，游戏室等等。并且，如果你想要一个真正的床而不是睡袋，许多露营地还可向你出租旅游挂车，山林小屋。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "That’s perfect.  I will try to look for a site like this near my home.Thank you very much.",
+          "text_zh": "太好了。我将尽量在我家附近，找到一个像这样的地方，非常感谢你。"
+      }  
+  ]
+}

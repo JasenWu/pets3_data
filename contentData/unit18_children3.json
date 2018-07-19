@@ -1,0 +1,54 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Mr. Alan Fox, president of Vacations To Go,is introducing his company and the company’s website to potential customers.",
+          "text_zh": "艾伦·福克斯，走向来来（To Go)旅游度假公司的董事长，正在向潜在客户介绍他的公司和公司网站。"
+      },
+      {
+          "role": 0,
+          "text": "Hi,I’m Alan Fox, president of Vacations To Go.",
+          "text_zh": "大家好，我是艾伦·福克斯，走向未来旅游度假公司的董事长。"
+      },
+      {
+          "role": 0,
+          "text": "When I started this company 20 years ago, we were commended, as a new kind of travel company,  for putting travelers with flexible schedules in touch with fantastic bargains.  Over the years,  we’ve earned quality endorsements from some very tough critics. Money magazine has called us “One of the 100 Best Deals in America.”  Associated Press said, Travelers wanting bargain prices are turning to Vacations To Go.” And U.S .A . Today has proclaimed Vacations To Go “One of the Biggest Bargains in Travel Today.”",
+          "text_zh": "20年前，我到这家公司的时候，作为一家新型的旅游公司，我们就因灵活机制的行程安排使游客得到让人难以置信的低价而受到称赞。这些年来，我们已赢得高度认可，免受严历的批评。《富杂杂志》曾经称我们为全美销量额100强之一。联合通讯社报道说：“想低价旅游的人都在找走向未来旅游度假公司。”还有《今日美国曾宣称：“走向未来旅游度假公司是目前旅游价格最便宜的一家。”"
+      },
+      {
+          "role": 0,
+          "text": "All nice compliments to be sure, but the truth is we’ve always believed we do more than save people lot of money.  We help people see the world,  visit new lands,  make new friends. In short,  we help make dreams come true.",
+          "text_zh": "所有的赞美之词都是真实的、事实上我们一直认为我们所做的不仅仅是帮人们省钱，我们帮他们去看这个世界，参观新的景点，结识新的朋友。一句话，我们帮人们梦想成真。"
+      },
+      {
+          "role": 0,
+          "text": "As you navigate the website of our company, you’ ll find detailed information about the best hotels and resorts in the Bahamas,  Bermuda,  the Caribbean, Hawaii,  Mexico and Europe.  You’ll also be able to get fast,  free quotes online, including the very up-to-date specials, discounts and promotions.",
+          "text_zh": "当你浏览我们公司的网站，就能找到详细的有关巴哈马群岛、百基大群岛、加勒比海、夏威夷、墨西哥、欧洲等地最好的酒店、景点的资料。你也将能得到快捷及时的在线报价，包括最新的特惠价、打折价、促销价。"
+      },
+      {
+          "role": 0,
+          "text": "Though our company is 20 years old and our travel counselors are knowledgeable veterans, this website is relatively new. I’d love to hear what you think about it, good and bad. Leave your comment at the website or email me directly at: alanfox@Vacations ToGo.com.",
+          "text_zh": "尽管我们公司有20年的历史，我们的旅游顾问都是具备专业知识的资深专家，但网站相对新了点。我很想听到你们对网站的看法，是好还是不好，请在网站留下你们的评价或直接发电子邮件给我，我的电子邮件的地址：alanfox@VacationToGo.com."
+      },
+      {
+          "role": 0,
+          "text": "Now, please take a look around our site.  We look forward to serving you!",
+          "text_zh": "现在，请到我们的网站来看看，我们盼望为你提供服务！"
+      }  
+       
+  ]
+}
