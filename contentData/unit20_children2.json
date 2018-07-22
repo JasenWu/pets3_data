@@ -1,0 +1,67 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Morin",
+            "name_zh": "莫琳"
+        },
+        "2": {
+            "name": "Lisa",
+            "name_zh": "利萨.卡拉罕"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Linda is asking Robert, an expert in air pollution, about the indoor pollution sources and their harmful effects on human health.",
+            "text_zh": "琳达请教空气污染专家罗伯特关于室内污染源及其对人体的危害。"
+        },
+        {
+            "role": 1,
+            "text": "Robert, can you tell me what causes indoor air problems ?",
+            "text_zh": "罗伯特，请问都是哪些因素引发室内空气问题？"
+        } ,
+        {
+            "role": 2,
+            "text": "Indoor pollution sources that release gases or particles into the air are the primary cause of indoor air quality problems in homes. Inadequate ventilation can increase indoor pollutant levels.  High temperature and humidity levels can also increase concentrations of some pollutants.",
+            "text_zh": "引发室内空气质量问题的首要因素是那些往空气中释放气体或微粒的空气污染源。通风不畅的室内条件也会加剧室内的污染，此外，高温高湿条件也会加剧污染物的聚集程度。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "What are the pollutant sources?",
+            "text_zh": "那么哪些是污染源呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "There are many sources of indoor air pollution in any home, such as oil,  gas coal, wood and tobacco products;  building materials and furnishings; products for household cleaning and maintenance, personal care,  or hobbies;  central heating and cooling systems and humidification devices.",
+            "text_zh": "每个家庭里都有许多能引起空气问题的污染源，比如油、气、煤、木材、烟草制品，建材、家具，家用清洁保养物品；个人护理品或是其他小物件，中央空调系统以及湿润器等。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "What are the immediate effects of indoor air pollution on people’s health?",
+            "text_zh": "那室内的空气污染会对人体健康造成哪些即时影响呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "Immediate effects may show up after a  single exposure or repeated exposures.  These include irritation of the eyes,  nose,  and throat, headaches, dizziness, and fatigue.  Such immediate effects are usually short-term and treatable.",
+            "text_zh": "当身体一次或数次暴露在被污染的空气中后，即时症状就会出现。这包括对眼、鼻喉的刺激，头疼，眩晕以及疲劳等。即时症状一般是短期并且是可治愈的。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "How about their long-term effects?",
+            "text_zh": "那么长期影响呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "Long-term effects may show up either years after exposures or only after long or repeated periods of exposure. These effects, which include some respiratory diseases, heart disease, and cancer, can be serious and fatal.",
+            "text_zh": "当长期或长时间重复暴露在不洁空气中后，长期症状就会出现。长期症状一般比较严重甚至致命，这包括：呼吸道疾病、心脏病以及癌症等。一般都很严重甚至致命。"
+        }  
+         
+    ]
+}

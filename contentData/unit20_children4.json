@@ -1,0 +1,46 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Dr. Hans Selye, the first physician to document the effects of stress on the body, is now talking about the healing power of stress.",
+            "text_zh": "第一个记录压力对于身体影响的外科医生汉斯塞叶谈压力对于身体的治愈能力。"
+        },
+        {
+            "role": 0,
+            "text": "Humans should not try to avoid stress any more than they would keep away from food, love or exercise. While there’ s no question that prolonged stress is harmful, several studies suggest that challenging situations in which you’re able to rise to the occasion can be good for you.",
+            "text_zh": "人们不应该回避压力，就如同他们不能离开食物或身体锻炼一样。当人们们对于长期压力的危害确信不疑的时候，很多研究也发现对于能够承受的挑战环境中的压力，对人体是有益的。"
+        } ,
+        {
+            "role": 0,
+            "text": "In a 2010 study of 158 hospital nurses, those who faced considerable work demands but coped with the challenge were more likely to say they were in good health than those who felt they couldn’t get the job done.",
+            "text_zh": "在2001年对158个医院护士的究中，那些有着很大工作需求也面对相当挑战的护士与她们不能胜任工作的同事相比，更倾向于表示她们有着优良的健康状态。"
+        } 
+        ,
+        {
+            "role": 0,
+            "text": "Stress that you can manage may also boost immune function. In a study at the Academic Center for Dentistry in Amsterdam, researchers put volunteers through two stressful experiences.  In the first, a  timed task that required memorizing a list followed by a short test, subjects believed they had control over the outcome. In the second, they weren’ t in control: They had to sit through horrible video on surgical procedures. Those who did well on the memory test had an increase in levels of certain antibody (the body’s first line of defense against germs). The video-watchers experienced a downturn in the antibody.",
+            "text_zh": "那些能够承受的压力也会提高人体疫功能。在阿姆斯特丹牙科研究中心的一项研究中，研究人员把志愿者分成两组、第一组志愿者被要求在计时条件下记忆一组清单，并随之进行一个小测验。参与者都认为他们有能力在此实验中控制自己的记忆成果。第二组志愿者没有受到任何要求，但必须观看一个可怕的外科手术录像。结果表明，第一组中测试结果优秀的志愿者，身体某些特定的抗体（人体抵御细菌的第一道防线）得到增强，而观看录像的志愿者，抗体却被减弱了。"
+        } ,
+        {
+            "role": 0,
+            "text": "Stress prompts the body to produce kinds of hormones. In short bursts these hormones have a positive effect, including improved memory function. But in long bursts these hormones can have a harmful effect on the body and brain. It’s the occasional burst of stress of brief exposure to environmental or physiological stress that could be protective. ",
+            "text_zh": "压力能促使身体分泌某些荷尔蒙，如果这些荷尔蒙短暂出现，它们将对身体产生积极的作用，包括提高记忆能力等。但如果持续出现，它们也会对人的身体以及大脑到来危害。实际上对于人体而言，只是偶尔出现的短期的环境或心理压力才是有益的。"
+        }
+          
+    
+    ]
+}

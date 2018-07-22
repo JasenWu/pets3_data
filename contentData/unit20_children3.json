@@ -1,0 +1,50 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Listen to a radio report for places famous for longevity.",
+            "text_zh": "以下是某电台对几个以长寿闻名的地区的报道。"
+        },
+        {
+            "role": 0,
+            "text": "There are several places in the world that are famous for people who live very long time.",
+            "text_zh": "在世界上有几个地方是以长寿人群著称的。"
+        } ,
+        {
+            "role": 0,
+            "text": "Hunza is high in the Himalayan Mountains of Asia. There,  many people over one hundred years of age are still in good physical health.  Men of ninety are new fathers,  and women of fifty still have babies. What are the reasons for this good health?  Scientists believe that the people of Hunza have these three benefis:(1)  physical work,  usually in the fields or with animals; (2) a healthful environment with clean air and water; (3) a simple diet high in vitamins and nutrition but low in fat,  cholesterol, sugar,  and chemicals. ",
+            "text_zh": "罕沙位于亚洲喜马拉雅山脉高海拔地区。在这里，很多百岁老人仍能保持健康的身体，90岁的男子还能成为新生儿的父亲，50岁妇女还能生育孩子。使得当地居民能保持如此健康的因素素是什么呢？科学家们认为罕沙的居民有着3种优势：（1）体力劳动。他们通常进行田间耕作或畜牧业劳作。（2）健康的环境。他们拥有洁净的空气和水。（3）自然饮食。他们的食物简单而富含高维生素和营养物的饮食，并且这些的饮食都是低脂肪、低胆固醇、低糖、低化学成分的制品。"
+        } ,
+        {
+            "role": 0,
+            "text": "People in the Caucasus Mountains are also famous for their longevity. In this area, there are starling examples of very long-lived people.  They not only live a long time,  but they also live well,  they are almost never sick,  and when they die,  they have not only their own teeth but also a full head of hair and good eyesight.",
+            "text_zh": "高加索山脉居民也因其长寿而著称。该地区有着很多令人惊异的长寿者。他们不仅仅是寿命比较长，而且生命质量也相当高。在他们过世时，几乎从未生病，不仅仅拥有所有的牙齿，而且还有着茂密的头发和优秀的视力。"
+        } ,
+        {
+            "role": 0,
+            "text": "Vilcabamba,  Ecuador,  is another area famous for the longevity of its inhabitants.  This region is also in high mountains,  far away from cities. In Vilcabamba, too, there is very little serious disease. One reason for the good health of the people might be the clean, beautiful environment the temperature is about 70 Fahrenheit all year long;  the wind always comes from the same direction;  and the region is rich in flowers, fruit, vegetables, and wildlife.",
+            "text_zh": "厄瓜多尔的维卡班巴，是另外一个以长寿居民著称的地区。这个地区也在很高的山上，远离城市。在维卡班巴，居民同样几乎没有严重的疾病。人们能拥有如此良好的健康状态，其中一个原因就在于这里洁净、美丽的环境：年均温度约华氏70度；风也来自同一个方向，外，这还是一个盛产鲜花水果、蔬菜和野生动物的地区。"
+        } ,
+        {
+            "role": 0,
+            "text": "Experts found that inhabitants in the three regions have more in common than calories, natural food, their mountains, and their distance from modern cities. Because these people live in the countryside and are mostly farmers, they endure and even enjoy considerable physical hardship. Thus, they scarcely have the worries of city people. Their lives are quiet. Consequently, some experts believe that physical exercise and freedom from worry might be the two most important secrets of longevity.",
+            "text_zh": "专家发现在这三个地区的居民有着很多共同之处，比如摄取相似的卡路里，食用自然的食物，居住在山区，远离现代城市等。因为这些人多是生活在乡村的农民，他们忍受甚至是享受了大量的体力劳作。因此，他们几乎没有城市居民的烦恼，而是享受着安静的生活。此，一些专家相信身体锻炼和少操心是长寿的两个最重要秘密。"
+        }  
+
+         
+    ]
+}

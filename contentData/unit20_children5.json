@@ -1,0 +1,36 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Being young has universal appeal and today people are searching for the qualities that youth comprises: good health, mental alertness,physical attractiveness, and vigor - in a word, fitness. Fitness is the magical term that has pervaded our daily lives. Via the media, we are constantly bombarded with suggestions to be slim, do exercise, and feel fit. Many television and radio programs are devoted to fitness information and group exercise.  Newspapers and magazines regularly feature columns that present the latest nutritional discoveries and exercise equipment. In fact, it is almost impossible to pick up a general interest magazine and not find the perfect diet and easy exercise programs. Countless books and tapes on fitness are available in bookstores and libraries. The medical profession, too, advocates being slender, doing exercise,and feeling energetic.",
+            "text_zh": "年轻是所有人的冀求，现今，人们也正致力于寻找构成青春的各种要素：良好的健康状态，活跃的思维，富有魅力的体魄，无穷的活力—一句话，健康。健康，这一富于魔力的词语已经影响了我们生活的方方面面。经由各种媒体，人们总是被包围在各样的建议中：要锻炼，要健身，要保持健康。实际上许多电视或电台节目已经致力于保健信息和团队健身信息的传播；报刊杂志也纷纷开辟专栏，介绍关于营养发现或健身器材的最新成果、即便适合所有人的杂志是没有的，人们也不可能找到完美的饮食方式和轻松的健身方式。此外，书店和图书馆也向人们提供着不计其数的有关保健的书籍。同样，医务人员也在呼吁人们保持体型，多做运动，从而精力充沛。"
+        },
+        {
+            "role": 0,
+            "text": "The intense interest in the condition and appearance of the body has a generated steady flow of highly marketable innovations. In fact, consumers spend billions of dollars annually on activities and products in their quest for fitness.  Health clubs have come into bud throughout the nation,  and many people sign up for lifetime memberships.  Others,  who prefer convenience and privacy,  set up fitness equipment in their own homes.  Many people shop in health food stores for organically growth goods and dietary supplements to add extra vitamins to their diets.",
+            "text_zh": "对于体型以及健康的迫切需求，引发了一个高度市场化的创新热潮。事实上，人们每年在健身或健身物品上的花销，已经高达数十亿美元。健身俱乐部也在全国范围内蓬執地发展开来，许多人还成为了这些俱乐部的终身会员。也有一部分喜好方便或顾忌隐私的人选择购置健身器械，在家中进行体育锻炼。此外，还有很多人在保健食物店选购有机食品和保健食品，补充充额外的营养需求。"
+        } ,
+        {
+            "role": 0,
+            "text": "For many years,  it has been the practice of giant corporations to maintain a gym or health club for the exclusive use of their executives.  By working out at the gym. or playing tennis,  the top people in management could release some of the tensions generated at work.  Membership in these corporate facities was,  and still is, a status symbol.  Currently, however, a  new attitude is emerging.  All employees are burdened with tensions and pressures and could benefit from this type of recreation.  As matter of fact,  studies have indicated that improvement in physical and mental fitness contributes substantially to employee productivity.  Fewer sick-day absences is also a  financial gain for the company.  It therefore is sensible of those major corporations to offer health club memberships to all their employees.  This concept is revolutionary,  but it is being considered seriously.  There is no doubt about it: when people are physically fit, they are at their best. It makes sense to maintain optimum health in order to live life to the fullest.",
+            "text_zh": "数年前，许多大公司已经为它们的高层管理人员设立健身房或健身俱乐部，从健身房或网球运中，高层们能放松由于工作带来的紧张。而事实上，拥有这些公司设施的使用权，曾经是，现在也是一种地位的象征。然而，目前新的思维已经逐渐浮现，随着当前所有员工都普遍面对着巨大的压力和紧张情绪，他们也都需要有健身活动以帮助排解各种压力。实际上，研究指出，良好的身体状态能极大的帮助公司员工提高工作的效率，即使是少请几天病假，对于公司而言，也是有利的。因此，让普通员工获得健身俱乐部的会员资格，事实上是让公司自身获利的选择。这是一项颠覆性的改革，但这一思路已经得到了慎重的考虑。毫无疑问，只有当人们身体健康时，他们才处于最佳的状态，也才能使得生活过得更加的充实。"
+        } 
+        
+
+         
+    ]
+}
