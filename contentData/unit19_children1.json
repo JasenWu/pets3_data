@@ -1,0 +1,40 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Doctor",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "Mr.Walker",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Mr. Walker has been feeling uncomfortable for quite some time and now he is consulting his doctor.",
+            "text_zh": "沃克先生感觉不舒服已经有一段时间了，现在他正在看医生。"
+        },
+        {
+            "role": 1,
+            "text": "Well， what ‘s the matter with you  Mr.Walker?",
+            "text_zh": "哪儿不舒服啦，沃克先生？"
+        } ,
+        {
+            "role": 2,
+            "text": "You’d better ask me what is not the matter with me, doctor. I seem to be suffering from all the illnesses imaginable:  insomnia, headaches, backache, indigestion and pains in the abdomen.To make things still worse,I’ve caught cold, I’ve got a sore throat,  and I’ m constantly sneezing and coughing. To crown it all, I had an accident the other day, injured my chin, torn some limb muscles, and nearly broke my ribs.  If I take long walk,  I get short of breath. In fact,  I feel more dead than alive.",
+            "text_zh": "你应该问问我还有哪儿舒服。我看起来遇到了能想到的所有麻烦：失眠、头疼、背痛、消化不良、肚子疼。还感冒了，喉咙疼、咳嗽、打喷嚏，这让状况变得更糟。糟的是几天前我还遇到了一次意外，伤了下巴和腿部肌肉，肋骨也几乎断了。走得稍微久一点，我会党得呼吸困难。事实上，我感觉自己更像是已经死了。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": " I’m sorry to hear that, Anyhow,  I hope things aren’ t as bad as you imagine. Let me examine you. Your heart, chest and lungs seem to be all right. Now open your mouth and show me your tongue. Now breathe in deeply through the nose... There doesn’t seem to be anything radically wrong with you.but it’s quite clear that you’ re run down, and if you don’t take care of yourself,  you may have a nervous breakdown and have to go to hospital. I advise you, first of all, to relieve your strained nerves. Take long rest, have regular meals, keep to diet of salads and fruit, and very little meat. For the sake of your health, keep off alcohol. If possible, give up smoking, at least for time. Have this tonic made up and take two tablespoonfuls three times a day before meals. Take half this sleeping tablet before you go to bed, but not longer than one week. If you do this, I can promise you full recovery within two or three months.",
+            "text_zh": "听到你讲的我也很难过，但不管怎样，我希望事情并没有你想的那么糟。先让我给你检查下吧。心脏、胸、肺看起来都很健康。来，张开嘴，伸出舌头，用鼻子做深呼吸...你的身体没什么大问题，但显然劳累过度。再不注意的话，也可能会神经衰弱，这样就不得不去医院了。我想，你首先应该放松自已紧张的神经，好好休息一段时间；此外，要注意规律的饮食，多吃沙拉、水果，少吃肉。为了健康，不要沾酒。可能的话，戒掉吸烟，至少在一段时间内。这药一天三次，饭前服两勺；睡前再吃半片安眠药，但安眠药不能持续服用超过一星期。照我说的做，我保证在两三个月内就你能彻底康复了。"
+        } 
+         
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "For all its flaws, medical care in the United States has been reformed gigantically over the past several decades. Deaths from heart disease have fallen by 40 percent since 1970. Thanks to better detection and treatment, cancer mortality rates have been falling since 1990, Altogether,  medical advances have helped to raise U.S. life expectancy from an average of 68 years in1950 to77 years today.",
+            "text_zh": "尽管存在诸多缺陷，美国医疗保健状况在过去几十年里已经得到了巨大的改善：1970年以来，心脏病导致的死亡下降了40％；，1990年以来，由于检测、治疗手段的进步，癌症死亡得到了大幅度的降低。总之，医疗手段的步，使得美国人均寿命，从1950年的68岁达了今天的77岁."
+        },
+        {
+            "role": 0,
+            "text": "Not only have American lives grown longer,  but their quality has improved.The proportion of people over 65 with one or more chronic disabilities —such as the inability to walk,  or to get dressed,  without aid—declined from greater than 25 percent in 1982 to less than 20  percent in 1999. And the development of vision-correction surgery,  among many other drugs and procedures, has allowed many Americans to prolong pleasures historically associated with youth.",
+            "text_zh": "此外，美国人不单是寿命延长了，生活质量也得到了很大的改善。超过65岁并患有一种或多种长期残疾（比方说不能独自行走，不能独自穿衣等）的人口比例，从1982年的25％下降到1999年的20％。视力矫正手术、眼用药品和其它一些技术，延长了美国人的视觉快乐，而这些快乐，向来只是属于年轻人。"
+        } ,
+        {
+            "role": 0,
+            "text": "Of course,  not all the recent improvements in American health and longevity can be directly attributed to our health-care system; some are as much the result of adopting healthier habits (exercise, better diet)  or of dropping unhealthy ones (smoking, too much alcohol-drinking). Still,  better medical care is the principal cause of improvements in American health and life span over the past 60 years.",
+            "text_zh": "当然，并不是所有与健康、长寿相关的改善，都应直接归功于保健体系；人们养成的更为健康的生活习惯（锻炼，合理的膳食)或对不良的生活习惯（吸烟，酗酒）的摒弃，也为健康的改善做出了很大的贡献。但不管怎么说，优良的医疗保健体系，仍是过去60年里，美国健康和寿命状况得到改善的最主要因素。"
+        } 
+        ,
+        {
+            "role": 0,
+            "text": "But the problem is that since 1960 health-care spending has grown significantly faster than the economy,  meaning that we’re spending an ever larger portion of our incomes on medical care.  In 1960 health care constituted 5.1 percent of the U.S. economy; in 1980 it constituted 8.8 percent;  today it constitutes 13.3 percent.  Meanwhile,  private health-insurance premiums—which rose by 14 percent last year alone - are becoming unaffordable for ever more Americans.  The number of things we can do to preserve health is expanding faster than the ability of Americans to pay for them. 41 millions of our citizens are now uninsured So the key question is not whether health care should be rationed in the United States;  it already is. Rather,  the question is how health care should be rationed.  How should the potential benefits of reduced pain, improved quality of life, or extended life be weighted against the high costs of the medications or procedures involved?  And who should weigh them? These are hard questions with high moral stakes.  But we do hope that the health—care system will cover more people.",
+            "text_zh": "而问题是：自从1960年以来，人们保健支出的增幅，就远远高于了经济的发展速度。这说明人们在保健方面的花费，占他们收入的比例越来越大了。1960年，人们的保健支出仅占整个美国经济的5．1％，到1980年，占到了8.8％，而现在，这一数字变成了13.3％。同时，更多的美国人对私人医疗保险费用（仅去年一年就上涨了14％）也日渐无力负担。现在，我们所能拥有保持健康的形式，已经远远超过了美国人的支付能力，有4100万国民，现在仍处于未投保险状态。因此，关键的问题并不是医疗保健是否应该定额分配，它已经是了。问题在于，医疗保健制度应该如何进行定额分配。我们应该怎样去权衡药物治疗或手术所带来的病痛的减少、生活质量的提高以及寿命的延长的利益，和它们所带来的巨大成本，谁又应该去思考这些具有道德困感的难题。其实，我们只是希望，医疗疗保健体系能够切实惠及更多的人。"
+        }     
+         
+    ]
+}

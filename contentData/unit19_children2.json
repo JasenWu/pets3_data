@@ -1,0 +1,57 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Nancy",
+            "name_zh": "南希"
+        },
+        "2": {
+            "name": "Dr.Quinn",
+            "name_zh": "秦医生"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Nancy’ s husband is suffering from high blood pressure and she is now consulting Doctor Quinn about the disease.",
+            "text_zh": "南希的丈夫患有高血压，她正向秦医生询问有关高血压的问题。"
+        },
+        {
+            "role": 1,
+            "text": "Doctor Quinn, recently my husband had a physical examination, and his doctor said that his blood pressure was high.  My husband was not surprised, because his father had high blood pressure,  too.  Now, can you tell me what causes high blood pressure?",
+            "text_zh": "秦医生，最近我丈夫做了次体检，医生说他血压很高。我丈夫一点也不吃惊，因为他父亲也有高血压。你能告诉我是什么导致血压偏高的吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Well doctors don’ t always know what causes high blood pressure,  also called hypertension.  But we do know a few things about this disease.  For example,  more men than women have it, and it usually begins in middle  or old age, and it sometimes runs in families.Many people have high blood pressure without knowing it, because there are usually no obvious symptoms.  If you want to know if you have high blood pressure, ask your doctor to check it with blood pressure machine.",
+            "text_zh": "当然。医生们目前也还不能彻底了解导致血压偏高，也就是高血压的具体原因，但我们还是知道一些影响因素。比方说，男人得高血压的几率比女人要高；高血压通常出现在中年和老年，有时好像还具有遗传性。高血压一般没有明显的症状，因此许多患者通常都不知道自自己已经患病。如果想要了解自己的血压状况，医生们用血压计就可以确诊。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Oh,I see. Now can you tell me what should my husband do about it?",
+            "text_zh": "哦，我明白了。那我的丈夫应该做些什么呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "Is your husband heavy? ",
+            "text_zh": "你丈夫胖吗？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Yes, around 200.",
+            "text_zh": "是的，大约200。"
+        } ,
+        {
+            "role": 2,
+            "text": " Oh He’d better try to control his weight. Losing weight sometimes helps.  Some people’s blood pressure goes down when they give up salt. Other people can improve by learning to relat and by getting the right kind of exercise. Fortunately, it is possible to control high blood pressure today with proper medicine.  High blood pressure can lead to serious problems,  like heart disease,  so it is very important to control it.",
+            "text_zh": "嗯。那他要控制体重，减肥对于血压降低是有帮助的。有人能通过食用盐降低血压，另一些人则可以通过身心放松和适当的锻炼达到改善血压的目的。幸运的是，人们现在已经能够通过服用合适的药物，有效的控制高血压。血压偏高会给人们的身体带来诸如心脏病等的一些严重危害，所以控制高血压是很重要的。"
+        }  
+          
+         
+    ]
+}

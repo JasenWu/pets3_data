@@ -1,0 +1,46 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Dr. Richard Morimoto, a famous researcher in the American Medical Association, is talking about changes in medical care in the U.S.A.",
+            "text_zh": "美国医学协会著名研究员理查德医生，正在谈论美国医疗保健的的变化。"
+        },
+        {
+            "role": 1,
+            "text": "Medical care has changed greatly since the days of the family doctor,  who treated all family members for every type of medical problem.  Today is physician is usually a specialist who treats only problems within his or her specialty.",
+            "text_zh": "相比于家庭医生时代，现代医疗保健已经有了很大的变化。以往，家庭医生往往要治疗所有家庭成员的各种疾病，而今天的医生通常只是处理他们所从事专业的医疗问题。"
+        } ,
+        {
+            "role": 2,
+            "text": "Today’s specialists often work together in a large group in order to share costs. The group will buy expensive equipment for its own offices rather than rely on hospital facilities. The office usually has laboratory where a variety of medical tests can be performed. So unlike physicians of the past, who often visited patients at home, today’s doctors normally see patients in their offices,  where they can use specialized equipment to make a more accurate diagnosis.",
+            "text_zh": "为了分担成本，现代医生们通常选择在一起工作。这样的医生团体会为自己的工作间购置昂费的设备，而不是去依赖医院设施。在他们的工作间中，一般还会设有实验室，以进行各种药物测试。与家庭医生时代，病人通常在家看病不同，现在的医生多在自已的工作间给人看病，也因为如此，现代医生们能使用专业的医疗设备，做出更为准确的诊断。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Likewise,  many changes are taking place in hospitals,  where the cost of medical equipment and care is skyrocketing.  Because of the high costs, patients now spend a limited number of days in the hospital, depending on their illness.Even new mothers, who used to have a five-to-ten day hospital stay after the birth of their babies,  are now being sent home in twenty-four hours.",
+            "text_zh": "同时，医院也发生着巨大的变化。由于医疗设备和护理成本的大幅提高，现在的病人大都依据自己的病情，尽量缩短住院时间。在过去，妇女在生产后通常会住院5到10天，而现在，产妇们甚至在24小时内，就回到了家中。"
+        } ,
+        {
+            "role": 2,
+            "text": "Medical technology certainly has led to great advances in the diagnoses and cure of many illnesses. Sometimes, however, people long for the good old days when the family physician was also a family friend.",
+            "text_zh": " 医疗技术在诊断和对于许多疾病的治疗方面，有了巨大的进步。但事实上，人们还是会怀念过去家庭医生作为每个家庭朋友的好时光。"
+        }  
+         
+         
+    ]
+}

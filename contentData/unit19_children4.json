@@ -1,0 +1,56 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Hob is talking about his visit to a dentist.  The following is what happened to him. ",
+            "text_zh": "以下是霍伯某次看牙医的经所。"
+        },
+        {
+            "role": 1,
+            "text": "I had had toothache for several days, but just hadn’t much courage to go to the dentist.As a matter of fact I went twice.  but just as I got on his doorstep and was going to ring the bell.  the toothache seemed to have gone away, so I went home again. But at last I had to go back, and this time I rang the bell and was shown into the consulting-room.",
+            "text_zh": "牙齿疼了好好几天，但我没有足够的勇气去看牙医。事实上，我去过两次、但每当走上诊所的台阶，正准备按门铃的时候，我觉得牙似乎就不疼了。所以我选择了回家。最后，我还是得去看医生。这一次，我按响了门铃，被带进了诊疗室。"
+        } ,
+        {
+            "role": 2,
+            "text": "The doctor told me to sit in chair that he could move up and down,  backwards and forwards,  and then he had look at the inside of my mouth.He put little mirror on a long handle inside my mouth and poked about for a while, then he looked serious and said, “Yes, I’m afraid we can’ t save that one. It will have to come out. It won’t be necessary to give you gas for that.  I’ll just give you an injection.”",
+            "text_zh": "医生让我坐到椅子上，这样他可以让我上下前后随意移动，以方便诊断。医生观察我的口腔，他把小镜子伸到我嘴里来回拨弄，很严肃地看着我，说到、“有颗牙保不住了，得拔掉。给你打一针吧、还没有必要注射气体麻醉剂。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "So he filled a syringe with a liquid. I felt a little prick on the gum and that was all. He did this in two or three places and waited for a minute or so. My mouth felt rather dead but otherwise it was all right.  Then he took an instrument,  got hold of my tooth, gave a twist (I could see and hear what he did, but I couldn’t feel anything),  then quick pull,  and the tooth was out and he was saying. “ Yes, it’s all over. Spit in there and then wash your mouth out with this.” And he handed me a glass. “There’s the tooth very bad one.”",
+            "text_zh": "医生装好满满一针筒的液体、注射时，我感到齿龈有点刺痛，但这就是所有的感觉了。医生在两到三个位置打了针，一分钟左右，我的嘴失去了知觉，除此以外，一切良好。医生拿起工具，夹住我的牙齿，慢慢转动（我没有任何感觉，但能够看到和听到他所做的），很快地一拔。牙齿已经被拔了出来，医生说：“好了完成了。把水吐在这里，然后用这个清洗嘴巴和伤口。”接着，医生递给我一个玻杯，说：“就是这颗牙，真的很烂了。”"
+        } ,
+        {
+            "role": 2,
+            "text": "He was just going to throw it away,  but I said, “May I have that tooth, please?”",
+            "text_zh": "当医生准备扔掉牙的时候，我叫住了他，“我可以要那颗牙齿吗？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "You can certainly have it if you want it,he said.",
+            "text_zh": "当然可以，如果你想的话。医生回答。"
+        } ,
+        {
+            "role": 2,
+            "text": " Well”,  I replied, “ it has worried me a good deal for the last week,and so now I am going to put it on my dressing-table and watch it ache.",
+            "text_zh": "“是的，”我说，“上个星期这颗牙可把我折腾得够厉害，现在我想把它放在梳妆台上，看着它疼。”"
+        }  
+        
+    ]
+}
