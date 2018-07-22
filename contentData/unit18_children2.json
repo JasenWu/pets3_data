@@ -1,0 +1,95 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "A tourist is making arrangements at a travel agency for a half-day tour around an Francisco.",
+          "text_zh": "一位游客正在旅行社为旧金山半日游做安排。"
+      },
+      {
+          "role": 1,
+          "text": "Good afternoon sir,can I help you?",
+          "text_zh": "先生，下午好，我能帮你吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "Yes， I’d like to take half-day tour around San Francisco. What do you have available?",
+          "text_zh": "好的，我想参加旧金山半日游，你们这儿半日游的内容包括哪些？"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "Well, we have two half-day tours daily—one in the morning from 9:30 to 12:30  and another four-hour tour in the afternoon, starting at 1:30.",
+          "text_zh": "嗯，我们日常有两套半日游方案—一种是从早上9:30到12:30，另一种为下午4小时游，从下午1:30开始。"
+      } ,
+      {
+          "role": 2,
+          "text": "There are two places I really want to see—one is Fisherman’s  Wharf and the other is Golden Gate Park.",
+          "text_zh": "我想去两个地方看看—一个是渔人码头，另一个是金门公园。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "The morning tour does include a stop at Fisherman’s Wharf— but I’m afraid our tours don’ t include the park. You might enjoy going there on your own. You could easily spend a whole day there relaxing.",
+          "text_zh": "晨游线路不包括渔人码头—但是恐怕我们的旅游线路也不包括金门公园。也许你自己去那儿更好玩些，你可以轻轻松松的在那儿呆上一整天。"
+      } ,
+      {
+          "role": 2,
+          "text": "That might be a good idea. Well, I guess I’ll sign up for tomorrow morning’ s tour, anyway. Is there still room?",
+          "text_zh": "真是个好主意。好了，不管怎样，我想报名参加明天的晨游，还有空座吗？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Yes, there is. Will this be for yourself only?",
+          "text_zh": "有，就你自己吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "No my wife and two children will also be going. The name is Peter Stone. What is the fee, by the way?",
+          "text_zh": "不，我妻子和两个孩子也都去，我叫彼得.斯通。顺便问一下，费用多少？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "For adults,$10. Children under 12  go for half price, and children under three are free.",
+          "text_zh": "大人每人10美元，12岁以下的儿童半价，3岁以下的儿童免费。"
+      } ,
+      {
+          "role": 2,
+          "text": "My children are both under 12.",
+          "text_zh": "我的两个孩子都在12岁以下。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "That’ll come to $30 plus tax.",
+          "text_zh": "含税金总共30美元。"
+      } ,
+      {
+          "role": 2,
+          "text": "There you are ... see you tomorrow!",
+          "text_zh": "给你…明天见！"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Just a minute. Here are your tickets. And here’s some information about the tour.",
+          "text_zh": "等一下，这是你的车票，还有一些关于旅游的资料。"
+      } 
+       
+  ]
+}

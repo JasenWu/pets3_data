@@ -1,0 +1,95 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Steve",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "Jane",
+          "name_zh": ""
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Steve and Jane are watching CNN, a TV channel they both enjoy",
+          "text_zh": ""
+      },
+      {
+          "role": 1,
+          "text": "Hey, I know that you are watching TV. Can I join you?",
+          "text_zh": ""
+      } ,
+      {
+          "role": 2,
+          "text": "Sure. I just finished my paper for the course so I am not guilty of not doing anything.",
+          "text_zh": ""
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "Well, I haven't finished yet. Anyway, I will do some research tomorrow.",
+          "text_zh": ""
+      } ,
+      {
+          "role": 2,
+          "text": " Hey, do you know that CNN will shut down its financial news network in December? It decided not to compete with CNBC anymore.",
+          "text_zh": ""
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "But they have been competing with each other for 9 years!",
+          "text_zh": ""
+      } ,
+      {
+          "role": 2,
+          "text": "Yeah, They said instead of repeating 30-minute newscast they will offer some prime-time programs. The financial news of CNN is not so popular anyway.",
+          "text_zh": ""
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "That's right. I heard that among the 110 million national television homes it is only available in about 30 million homes.",
+          "text_zh": ""
+      } ,
+      {
+          "role": 2,
+          "text": "They should really improve their programs. And their present satellite system is going to expire soon.",
+          "text_zh": ""
+      }  
+      ,
+      {
+          "role": 1,
+          "text": " If that's so, then they are going to lose more people.",
+          "text_zh": ""
+      } ,
+      {
+          "role": 2,
+          "text": " I think so. In 1995 when CNN was founded, people were more intersted. Later, it was also hard to compete with the Internet. Actually both CNN and CNBC failed to gain popularity.",
+          "text_zh": ""
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Luckily, their biggest star, Lou Dobbs came back 2 years after he left in 1999.",
+          "text_zh": ""
+      } ,
+      {
+          "role": 2,
+          "text": "When they shut down the financial news network, 60 jobs will be gone!",
+          "text_zh": ""
+      }
+      ,
+      {
+          "role": 1,
+          "text": "But they say 100 new jobs will be adde. Well, talking about jobs, I don't think I should be here discussing about CNN. I'd better go back to my study.",
+          "text_zh": ""
+      }   
+       
+  ]
+}

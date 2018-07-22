@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>window.postMessage</title>
+	
+</head>
+<body>
+ 
+	<script type="text/javascript">
+var op = window.open("./b.html","_blank");
+
+function receiveMessage(event)
+{
+  console.log(event)
+}
+op.addEventListener("message", receiveMessage, false);
+
+		
+	</script>
+</body>
