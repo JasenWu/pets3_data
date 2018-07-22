@@ -1,0 +1,28 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "In this picture, there was a really fat man who was about to leave. In front of him was a table full of dishes filled with cookies, meat and many other delicious foods which are fresh and untouched. Although the waiters try to persuade him to pack them, he refused, After paying the bill with large note,he went away with a peacock smile.",
+            "text_zh": ""
+        },
+        {
+            "role": 0,
+            "text": "It s no doubt that his behavior astonished me. Some people consider it a shame to take leftovers away. Apparently,  he avoided such a “shame” in public by wasting table of food.In fact, what he did was really disgraceful. Every one of us has learnt that each grain does not come easily. If nobody takes the leftovers, there will be a huge amount of waste of food everyday.  Therefore, we should form a good habit of frugality.",
+            "text_zh": ""
+        }  
+    ]
+}

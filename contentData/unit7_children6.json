@@ -1,0 +1,48 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Dear Mr. President,",
+            "text_zh": ""
+        } ,
+        {
+            "role": 0,
+            "text": "I’d like to comment on our canteen service.",
+            "text_zh": ""
+        },
+        {
+            "role": 0,
+            "text": "What I appreciate most about our canteen is its efficient service. In spite of the rush hours at lunch time, I never have to stand in a line to get my noodles.In addition, our canteen is good for the lower prices it charges. We always praise the fried fisn or chicken after we look at our wallets. ",
+            "text_zh": ""
+        },
+        {
+            "role": 0,
+            "text": "However, our canteen service would be perfect with a few improvements. The foods could be made less sweet.  Besides,  it is too noisy in our canteen. If somethinga be done about it, we will surely have an ideal dining environment.",
+            "text_zh": ""
+        },
+        {
+            "role": 0,
+            "text": "Thank you for your kind attention.",
+            "text_zh": ""
+        },
+        {
+            "role": 0,
+            "text": "Yours respectfully,<br/>Wang Lin",
+            "text_zh": ""
+        }
+    ]
+}

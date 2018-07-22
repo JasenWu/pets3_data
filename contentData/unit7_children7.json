@@ -1,0 +1,23 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": " Among these four different types of breakfast, I would like soybean milk and baozi. Soybear milk and baozi are typical breakfast in Northern China. I come from Henan Province. In Henan, nearly every morning, I take soybean milk and baozi as my breakfast. I think baozi, especially those with meat filling,are really tasty. As for soybean milk. I think it contains more nutrition than common milk and is easier for us to digest.  For me, this set of breakfast can provide enough energy for the whole morning, I really enjoy it. ",
+            "text_zh": ""
+        } 
+    ]
+}
