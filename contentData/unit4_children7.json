@@ -1,0 +1,50 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Among theses four places, I would like to visit Tibet most.Located in the southwest frontier of the people's Republic of China,Tibet Autonomous region has an area of over 1.2 million sq.km.,which makes up one-eighth of the total national area. with the average elevation of over 4000meters, Tibet is the plateau region with the largest space and the highest above sea level in the world. Famous for peculiar geological features,magnificent natural scenery,splendid ethnic culture and characteristic local customs and practices,Tibet has become the Holy Land for numerous Chinese and overseas tourists,mountain explorers and scientific surveyors.",
+          "text_zh": ""
+      },
+      {
+          "role": 0,
+          "text": "Tibet Plateau is the main body of the Qinghai-Tibet Plateau, consisting of high mountains and great rivers,prairie and gorges. On the Tibet Plateau stands the world-famous Himalayas,where the world's highest summit Mt. Qomolangma erects with an elevation of 8844.43 meters.",
+          "text_zh": ""
+      } ,
+      {
+          "role": 0,
+          "text": "There are intensive rivers and lakes in Tibet. The famous rivers include the Yarlung Zangbo, River all originate there.",
+          "text_zh": ""
+      } 
+      ,
+      {
+          "role": 0,
+          "text": "Tibet has fairly complete types of land resource tapping and utilization:farmland,garden land,forestland,pastoral land, urban and mineral land,communications land,water area and uncultivated land.",
+          "text_zh": ""
+      } ,
+      {
+          "role": 0,
+          "text": " Tibet has a population of 2.81 million, including Tibetan, Han, Hui, Menba, Geba, Nu an Naxii people and as Deng and Xiaerba ethnic gtoups. Tibetan people make up96.5%of total population. daylight city and Buddhist Holy Land. the Potala palace situated in the Lhasa center is grand and characteristic, symbolizing Tibet in people's eyes.",
+          "text_zh": ""
+      }  
+      ,
+      {
+          "role": 0,
+          "text": "Tibet has a wide span of territory, majestic mountains, and rivers, abundant materials,dense resources and unique humane views:it is a pearl on the southwestern border of China.",
+          "text_zh": ""
+      } 
+  ]
+}
