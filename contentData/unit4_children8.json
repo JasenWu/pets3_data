@@ -1,0 +1,23 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "It is a traveling season. Many people go climbing or visit parks or scenic spots to keep fit or enjoy the beautiful view. However, some tourists don't pay much attention to environment protection . They throw away waste at will. The litter would do harm to the environment, but it is a relief to know some children volunteers are collecting litter dropped by tourists. They are putting litter into waste bags,which is part of beautiful scenes,too. These children set a good example for us. The picture indicates that every one of us should do something to protect the environment.",
+          "text_zh": ""
+      } 
+  ]
+}
