@@ -1,0 +1,46 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "John",
+            "name_zh": "约翰"
+        },
+        "2": {
+            "name": "David",
+            "name_zh": "大卫"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "David is the Operations manager of the Waldorf Meridien Hotel in London.  Now he is answering questions about reservations.",
+            "text_zh": "大卫是伦敦瓦尔多夫美丽殿酒店的业务经理，现在他正在回答关于酒店预订的问题。"
+        },
+        {
+            "role": 1,
+            "text": " Could you please tell me how I can make reservations in your hotel?",
+            "text_zh": "您能告诉我怎样才可以在您的酒店预订房间吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "You can book rooms in number of ways, including, the most recently,  the Internet, which is becoming more and more important for hotel bookings,  I wouldn t say overall it is going to increase our bookings,  but we have to be aware of it because it’s a different method of the way guests can book.",
+            "text_zh": "你可以通过很多方式来预订，最常见的方式便是网上预订。网络在房间预订中起着越来越重要的作用，虽然我们不能说它是否在总体上增加了我们酒店的预订数量，但是我们不得不意识到它的作用，因为它是顾客预订房间的新方式。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Could you give me some tips on booking?",
+            "text_zh": "那您能给我一些关于房间预订的建议吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "When making a booking,  I suppose the most important thing to remember,  if you are a leisure traveler, is to book as early as possible because that’s when most of the discount or promotional offers will be available.  When you make the reservation always,  if you are making it by phone or the Internet,  always ask for or write down the confirmation number.  And they will then be able to easily find your booking.  even if they have spelt your name wrong or something has gone wrong.  If you have any preferences for rooms,  such as you’ d like a room which is quiet,  or at the front of the hotel, or it’s not near a lift or it is near a lift, then again I would suggest, or recommend,  that you make these at the time of booking.  Once you check in on the day,  those preferences will be available.  To guarantee your room,  hotels in London, or in England specially,  will ask for a credit card or a confirmation which will guarantee that your room is held,  basically all night or for late arrival.  Most U.K. hotels will,  if it is not guaranteed by a credit card,  or some form of payment,  will release the room between 2 and 4 p.m. now.",
+            "text_zh": "在预订房间的时候，如果你是休闲的旅游者，那么，我想最关键的一点就是越早预订越好，这样你就会得到一些折扣和优惠服务。如果你是通过电话或网络预订，那么你最好是记下确认号码，这样，即使他们拼错了你的名字或出现其他的状况，他们也能很容易地找到你的预订信息。另外，如果你对所预订的房间有什么要求，例如安静，在酒店的前方，靠近电梯或远离电梯等等，那么，我建议你，在预订的时候就把这些要求说清楚，以便你在登记入住时，酒店可以满足你的所需。在伦敦，尤其是在英格兰，为了保证顾客的房间，他们通常会询问你的信用卡号或者确认号码，以保证你的房间已被保留，基本上酒店会为顾客保留一个晚上或者为晚归的顾客保留。如果房间没有通过信用卡或者其他支付形式来确定，大多数英国的酒店会在下午2点至4点取消预订。"
+        }  
+           
+         
+    ]
+}

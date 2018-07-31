@@ -1,0 +1,95 @@
+{
+    "roles": {
+        "0": {
+            "name": "Louis",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Peter",
+            "name_zh": "皮特"
+        },
+        "2": {
+            "name": "Clerk",
+            "name_zh": "服务员"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Peter and Louis are feeing tired since they have been driving for a whole day .They decite to stop for the night  at motel .",
+            "text_zh": "皮特和路易斯开了一整天的车，他们都感觉很疲倦，于是他们决定在一家旅馆休息一晚上。"
+        },
+        {
+            "role": 1,
+            "text": "I think we’d better stop for the night  soon, dear. I’m getting tired of driving. You look as though you’re done in too.",
+            "text_zh": "亲爱的，我想我们最好停下来休息一晚上。我已经开累了。你看起来也挺累的。"
+        } ,
+        {
+            "role": 2,
+            "text": " I am .  hours on the road is long enough for anyone . Especially in this heat . I ‘m anxious to get to Mom ‘s but I don’t think we should overdo it .We should be rested when we arrive or we won’ t have a good visit .",
+            "text_zh": "是的。开10个小时的车对任何人来说都太长了，特别是在这么热的天。我很想早点到妈妈家，但是我并不认为我们可以做到，我们的确该好好地休息一下了，否则我们的旅行会不顺利的。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "I agree . Why don ‘t you look in the travel guide to see if it recommends any motels along this highway ? The last sign we passed said that there were a few small towns up ahead . There will probably be some motels  ... well , look at that ! No sooner do we start to look for a motel , when one appears . Let’s pull over and have a look .",
+            "text_zh": "我同意。你为什么不看看旅行指南上是否推荐了附近有什么好的汽车旅馆呢？我们经过的最后一个标志牌上写着前面有些小镇，那里可能会有汽车旅馆…哦！看那儿！我们刚刚一开始找，前面就出现了一个。快把车开过去看看。"
+        } ,
+        {
+            "role": 2,
+            "text": "Uh-oh , “No Vacancy” sign . I hope we don’ t run into that problem . I’d hate to sleep in the car all night .",
+            "text_zh": "啊！有一个“客满”的标志。我希望我们可不要遇到这种麻烦。我讨厌在车里睡一晚上。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "I’m sure we won’t have to . What does the book say ?",
+            "text_zh": "我想我们应该不会的，指南上还说些什么？"
+        } ,
+        {
+            "role": 2,
+            "text": "Let me look at it .There’s another nearby . Turn right at that road up there . It’s about half a mile down that road . It s not far .",
+            "text_zh": "让我看看。这附近还有一家。在前面向右转，差不多半英里，还不太远。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "There it is . We’re in luck; let’s check in .",
+            "text_zh": "到了。我们可真走运，先去登记吧。"
+        } ,
+        {
+            "role": 2,
+            "text": " Good evening , Sir Ma’am . Just two of you ?服务员：两位，晚上好！就你们二位吗？",
+            "text_zh": "晚上好！就你们二位吗？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Yes . We’d like a single for one night . Do you have one available ?",
+            "text_zh": "是的，我们要一间房，住一晚上，这里还有空房吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Just one , and it only became available a few minutes ago . A couple on their way to Salt Lake City had a reservation , but they called to say they couldn’t make it . This is a busy time of the year . You’re lucky you found this one . Please fill out this registration card and be sure to list your car’ s license number . Will you be paying by credit card ?",
+            "text_zh": "服务员：只有一间了，而且还是在几分钟以前空出的，本来是一对去盐湖城的夫妇预订的，后来他们又说不要了，每年这个时候人都很多啊！你们可真幸运！请先填一下登记卡并留下你们的驾照号码，请问你们是用信用卡吗？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Yes . Here .",
+            "text_zh": "是的，给你。"
+        } ,
+        {
+            "role": 2,
+            "text": "All right . You’re in room 27 . It’s around the back , past the swimming pool . You can park your car right up to the door . The restaurant closes at 9:30 , but the bar stays open until midnight . The snack bar opens for breakfast at 6:30 a.m . Here is the key Enjoy your stay .",
+            "text_zh": "好的，你们是27号房。你们的房间在后面，穿过游泳池就到了。你们可以把车停在门口。我们这里的餐厅9点半关门，但是酒吧会直开到午夜，快餐店会在早上6点提供早餐。这是钥匙，祝你们住得愉快！"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Thank you. Good night.",
+            "text_zh": "谢谢，晚安."
+        }   
+         
+    ]
+}

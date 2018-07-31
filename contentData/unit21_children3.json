@@ -1,0 +1,84 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "clerk",
+            "name_zh": "服务员"
+        },
+        "2": {
+            "name": "Myrtle",
+            "name_zh": "默特尔"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Myrtle is now at a Fast-food Restaurant.  He is ordering his food and asking for the information about discount.  A clerk is greeting him.",
+            "text_zh": "默特尔现在正在快餐店，他一边点菜边询问着优惠信息。一个服务员正在接待他。"
+        },
+        {
+            "role": 1,
+            "text": "Hello there! What can I get for you today? ",
+            "text_zh": "您好！我能为您做点什么吗？"
+        } ,
+        {
+            "role": 2,
+            "text": " Well, your restaurant specializes in hamburgers and chicken,  right? But I don’t care for fried chicken. I’m going to have the bacon cheeseburger with a can of orange soda.  And,  you’re having an introductory special for free french fries with every sandwich order, is that right?",
+            "text_zh": "呃，你们餐斤的特色菜是汉堡包和炸鸡，对吗？但是我不喜欢吃炸鸡，我就要一份熏肉干酪汉堡包和一杯橘子苏打水吧。另外，是不是点了三明治的顾客都可以免费获得法国油炸食品呢？"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Yes. And as an unadvertised special,  you can have a trip to the salad is that right bar with your order for only a dollar more. ",
+            "text_zh": "是的，它是我们还未公开的特别优惠，您只需多加1美元便可以到沙拉柜合去。"
+        } ,
+        {
+            "role": 2,
+            "text": " No, thanks,  this will be enough.  Here’s my coupon for a free small order of fries.  Here take my order out of this.  Do I enjoy special privileges for being a senior citizen? ( He hands the a clerk ten- dollar bill.)",
+            "text_zh": "不了，谢谢！这些已经足够。这是我的优惠券，给，这这是我点的菜。对了，我能享受老年人的特别优惠吗？（他递给服务员10美元。）"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": " All our stores offer a ten-percent discount on all purchases over five dollars for people over sixty-five,  but I must say that you don’t look old enough to be called “senior.”",
+            "text_zh": "我们所有的店都为年龄超过65岁以上，消费金额达5美元的老年人提供9折优惠。但是，我必须得说您看起来的确不像是“老年”人啊！"
+        } ,
+        {
+            "role": 2,
+            "text": "You’ re too kind.  Thank you young lady. ",
+            "text_zh": "默特尔你太可爱了。谢谢，小姐。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Will this be to go or will you be eating here?",
+            "text_zh": "您是带走吃还是在这吃呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "I’ll eat here.",
+            "text_zh": "我在这吃。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "While you’ re waiting for your order,  here are two of our big prize game cards. You have to scratch the surface of the cards and match the number which appears with one of the prize-winning numbers up there on our bulletin board. You  could win up to ten thousand dollars. ",
+            "text_zh": "当您等待上菜的时候，我们这儿有两副有奖游戏牌。您只需将牌的表面刮开，然后将公告栏上的获奖数字配对就可以了。说不定您可以赢一万美元元呢。"
+        } ,
+        {
+            "role": 2,
+            "text": "Oh I never win anything.",
+            "text_zh": "噢，我可从来没赢过什么呢！"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": " (She prepares his order.) Who knows?  You might get lucky this time.  I’d like to draw your attention to our breakfast menu up there over the food counter.  If you’re ever in the mood for fast and easy breakfast, we have a wide selection which we serve from 6:30 to 10:30 a.m.  Here You are.  Your order  is ready. Enjoy your meal and have a nice day.",
+            "text_zh": "（她正在准备他所点的菜）谁知道呢？或许这次你会走运呢！我是想让到食品柜台去看看我们的早餐菜单。如果你想吃个简单而又快捷的早餐，我们这里从上午6点半至10点半一直都有丰盛的早餐供您选择。给您，您的菜好了。都您用餐愉快！"
+        }   
+         
+    ]
+}

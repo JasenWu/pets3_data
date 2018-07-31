@@ -1,0 +1,40 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "The sale of alcohol in Britain is strictly controlled by licensing laws . These restrict where . when and by whom alcohol may be sold.  In order to open a pub or wine bar the owner must obtain the approval of the local magistrates who must be satisfied that he or she is a suitable person to sell alcohol . If the application is approved the owner obtains a license to sell alcohol and becomes the licensee . The name of the licensee is displayed above the front door . If magistrates are not happy with the way a pub is being run they can cancel the license .",
+            "text_zh": "英国酒类销售受酒类专卖法的严格控制，这些限制包括在何地、何时由谁来售卖。为了开一家酒馆或酒吧，业主必须得到当地法官的同意。法官则必须选择他认为合适的人来售酒。如果申请被通过，业主就可以获得销售酒类的执照并成为一个许可出售酒类的人，那么业主的名字将被挂在店的门口。如果法官对酒馆经营的方式不满意、他们将取消其经营权。"
+        },
+        {
+            "role": 1,
+            "text": "Many pubs are licensed to sell alcohol for drinking on or off the premises .However , most people buy alcohol for drinking at home in supermarket or an off-license . Shops and supermarkets have to get license . called an off-license before they can sell alcohol . Nobody under 18 is allowed to buy alcohol . either in a pub or in a shop .",
+            "text_zh": "很多商店都允许售酒给在店内喝的顾客或是带走的顾客，但是，大多数买酒回家喝的顾客都会去超市或者拥有售酒执照的商店。商店和超市同样需要售酒执照。但无论是在酒馆还是在商店，未满18周岁的青少年都不允许买酒。"
+        } ,
+        {
+            "role": 2,
+            "text": "Pubs are only allowed to sell alcohol during official opening hours . They are allowed to remain open all day from 11 a.m . to 11p.m . though many close in the afternoon . If they wish to stay open after11 p.m . they must obtain a special late license . Pubs open for a shorter time on Sundays , and in some parts of Wales they are closed altogether .",
+            "text_zh": "酒馆只能在规定的营业时间内售酒。尽管有些酒馆下午都是不营业的，但他们还是只允许上午11点至晚上11点的时间里营业。如果他们想在晚上11点之后继续营业，那么他们就必须获得一个特殊的夜间售酒执照。星期日，酒馆通常会缩短营业时间，在威尔士部分地区的酒馆会全部停止营业。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "In the US , there are local laws about when and where alcohol can be sold . Some towns are dry , i.e ., no alcohol can be sold there at all . In general , restaurants and bars need a license to sell beer and wine . In some states alcohol for drinking at home is sold only in special liquor stores ; in other places it is sold in any food shop . There are fewer restrictions on when alcohol can be sold than there are in Britain , and bars can stay open very late . The most common restriction is that alcohol may not be sold early on Sunday mornings .",
+            "text_zh": "在美国，也有关于何时何地才能售酒的地方售酒法。有些地方是禁酒的，也就是说，在那儿没有酒可以销售。总体来说，餐厅和酒吧都必须有执照才能售酒。在美国的有些州，人们只能在特殊的酒类商店才能买酒回家，在其他的一些地方便可以在任何的食品商店买到酒。关于何时可以卖酒的限制，美国要比英国少得多，美国的酒吧可以营业到很晚。两个国家最大的共同点就是在周日上午不允许过早地销售酒类产品。"
+        }  
+         
+    ]
+}
