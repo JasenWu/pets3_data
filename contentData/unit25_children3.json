@@ -1,0 +1,73 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Simon",
+            "name_zh": "西蒙"
+        },
+        "2": {
+            "name": "Don",
+            "name_zh": "唐"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Simon is asking Don ，a career consultant , about how to solve the career problem he has .",
+            "text_zh": "西蒙正在就其遇到的职业问题请教职业顾问唐。"
+        },
+        {
+            "role": 1,
+            "text": "I don’t feel up to the demands and responsibility of my first job . I just don’t have the knowledge needed .",
+            "text_zh": "我没有实力达到我第一份工作的要求并承担这份职责。我觉得我不具备我所需的知识。"
+        } ,
+        {
+            "role": 2,
+            "text": "The way you feel is common during the first few weeks in a new post . even when it isn’t their first job.  You’re walking into the unknown . surrounded by people who appear to know everything while you know nothing .",
+            "text_zh": "你的感受是从事第一份新工作的最初几周很常见的，甚至有些入已经不是从事第一份工作也会感到如此。你步入一个未知的领域，周围的人似乎对一切都了如指掌，而你一无所知。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Please tell me , how can I get over it quickly? ",
+            "text_zh": "请告诉我，怎样才能尽快走出这种困境？"
+        } ,
+        {
+            "role": 2,
+            "text": "It depends on how good your employer’ s induction and support systems are.  Don’t feel it’s entirely your responsibility to work things out and don’t try to conceal any problems you’re having.",
+            "text_zh": "这取决于你雇主的引导和支持体系如何。不要认为解决一切问题都是你一个人的责任，也不要试图隐藏你遇到的问题。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "But I don’ t know how to tell him . I am afraid an apologetic way will not work .",
+            "text_zh": "但是我不知道怎样告诉他。我担心道歉的方式不会奏效。"
+        } ,
+        {
+            "role": 2,
+            "text": "You are right .Take the approach that in order to fit in and contribute.  To identify the help you need, keep a reflective diary .Record your difficulties and look for a pattern ; are your problems related to a lack of time.  comprehension , support or suitable equipment ? And,  identify solutions that would make the difference . Categorizing and grouping problems is one way of startig to tame them .",
+            "text_zh": "没错。采用适合并有效的方式。寻求你所需要的帮助，可以试着记反思日记。记录下你的困难并找出解决模式；你的问题是否是因为时间不足，理解不够，缺乏支持或必要设施？之外，找出可行的解决方案。将问题分组归类是开始战胜它们的一种方法。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Thank you for your advice. What else do I have to know ?",
+            "text_zh": "谢谢你的意见。还有什么别的可以告诉我吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Just bear in mind that your employer wants you to succeed and stay , but they might need help from you to set up the right supporn mechanisms . They chose you because they had faith in your ability and wits . Trust their judgment and stop comparing yourself with those around you .",
+            "text_zh": "你要记住你的雇主希望你能成功并留下来，但是他们可能需要你的帮助来建立正确的支持机制。他们选择你是因为对你的能力和判断力有信心。相信他们的判断并停止拿自己和周围的人作比较。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "OK I won’ t miss it.",
+            "text_zh": "好的，我记住了."
+        }    
+         
+    ]
+}

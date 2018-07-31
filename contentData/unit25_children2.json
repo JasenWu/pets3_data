@@ -1,0 +1,84 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Florence",
+            "name_zh": "佛罗伦斯"
+        },
+        "2": {
+            "name": "Cathryn",
+            "name_zh": "凯瑟琳"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Florence is the hosress or New york Kids , a radio program . Every month she talks to someone with a different  job .Now she meets Cathryn , an anima handler.",
+            "text_zh": "佛罗伦斯是《纽约儿童》这档收音节目的女主持。每个月她都会与从事不同职业的人交谈。现在她正在与驯兽师凯瑟琳交谈。"
+        },
+        {
+            "role": 1,
+            "text": "Hello, Cathryn. Now tell us what an animal handler does usually?",
+            "text_zh": "你好，凯瑟琳。现在请告诉我们驯兽师通常干些什么？"
+        } ,
+        {
+            "role": 2,
+            "text": "An animal handler provides professional animal talent; it could  be to TV , to print , or to film.   And it’s  when people have a special request for an animal talent to do special event . a special scene in one of those things and they come to professionals like us .",
+            "text_zh": "一个驯兽师具备专业的驯兽才能，这可以用于拍电视、出版印刷、或拍电影。当人们在这些特殊场合和特殊事件中对驯兽才能有特殊要求时、他们会求助于我们这些专业人士。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "So when people see a dog in  a commercial it isn’t just any old dog ?",
+            "text_zh": "所以人们所看见的广告中的狗绝不是一只普通的狗？"
+        } ,
+        {
+            "role": 2,
+            "text": " No , not at all .A lot of people think that my dog Buster or my dog Max could do that , but really a lot of training goes into that scene,and that dog , and the handler .",
+            "text_zh": "不，绝对不是。很多人认为我的狗巴斯特或麦克斯都可以完成，但是这场戏涉及了狗和驯兽师大量的操练。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "How long have you had this job ?",
+            "text_zh": "你做这份工作多久了？"
+        } ,
+        {
+            "role": 2,
+            "text": " I’ve been doing this since I was a very young child . My Mom is a zoologist . And she worked at the Bronx Zoo . And I had all sorts of animals as a child growing up . We raised lion cubs and gorillas in our house , and they didn’t break anything ! I’ve been doing this for a very long time.",
+            "text_zh": "我从孩提时代就开始做了。我的母亲是一位动物学家。她在布朗克斯动物园工作。我成长中接触到了各种各样的动物。我们在自已家的房屋中饲养狮子幼崽和大猩猩，他们没有造成任何破坏！我做这个工作很久了。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "What kind of animals do you handle ?",
+            "text_zh": "你训练什么动物？"
+        } ,
+        {
+            "role": 2,
+            "text": "Almost every animal ! We can get special animals that are trained for anything .",
+            "text_zh": "几乎任何动物！我们可以得到些特殊的动物，并训练它们做任何事情。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "How do you identify the animals that you find ?",
+            "text_zh": "你怎样辨别你找到的动物？"
+        } ,
+        {
+            "role": 2,
+            "text": "I’ve had years and years of training , with books and practices , just in the same way you experience yourself in school . By the way , you got to love it . Because you love it , it will be fun to learn.",
+            "text_zh": "我已经从事驯兽工作很多年了，阅读了大量书籍，也进行了很多实践，就像你在学校中你所经历的一样。与此同时你开始热爱它。因为你的热爱，学习就变得有趣。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Ok thank you for talking with me about your job, Cathryn.",
+            "text_zh": "好，谢谢你和我谈你的工作。"
+        }     
+         
+    ]
+}

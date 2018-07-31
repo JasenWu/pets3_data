@@ -1,0 +1,40 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "I work in a University library. I’m a library aide which isn’t very high up the ladder in fact and on those organizational flow charts you get mine is the job put at the bottom of the page right in the corner.  But I like my work which I know makes me luckier than lot of people . There’s variety and I get to meet some interesting people . In fact I meet people from places I wouldn’ t even know where to look for on the map .",
+            "text_zh": "我在一所大学的图书馆工作。作为一名图书馆助理，我的级别还够不上梯子高，事实上在组织机构的流程图上你可以发现我的工作被置于页面底端的角落里。但是我很喜欢我的工作，我知道拥有这份工作使我比很多人都幸运。这工作让我接触了各种人，并且有些非常有趣。事实上我见到的有些人所来自的地方都没法在地图上找到。"
+        },
+        {
+            "role": 1,
+            "text": "There are periods of boredom however,  skull-crushing , mind-numbing boredom . And summer is the worst.  As you can imagine summer in University library doesn’t exactly buzz . You might think that’s a bonus . especially if you’ve got your nose to the grindstone . But you’ d be wrong . Unless you’ve worked somewhere when at times there is almost nothing to do you can’t appreciate the sense of time creeping , the feeling of sleepiness,  the sheer physical dullness in the atmosphere and the sense of something like panic that sets in at the thought of yet another hour of trying to shelve from empty shelves or an hour standing at a desk waiting and hoping for readers to appear.  But that only lasts two or three months until , suddenly , they’re back and the year starts again with its moments of frantic effort and spells of inactivity .",
+            "text_zh": "然而还是有一些让人感到乏味的时期，那是令人无计可施、思想麻木的乏味时期。夏天是最糟糕的。你可以想象下大学图书馆在夏天简直就没有丁点声响。也许你认为那是种恩赐，尤其是你埋头苦干时。但是你错了。除非你曾经在某个经常让你无所事事的地方工作过，否则你体会不到时间流逝，昏昏欲睡以及那种氛围中生理上的彻底麻木。还有某种类似惊恐的感觉在你脑海中生根蔓延，此时你会想到试图在下一刻从空书架上拿书或是站在桌前昐望读者的出现。但是仅仅持续了两三个月后，突然地，他们回来了，然后下一年的繁忙时刻与休止期又开始了。"
+        } ,
+        {
+            "role": 2,
+            "text": "There are a lot of misconceptions about library work—many of which I was guilty of before I started working in one . Most people think of it , when they think of it at all , for it seems to have this reputation as dull , as a nice , quiet almost charming job . Well, think again . At the sharp end it’s hard , heavy and sometimes dangerous work.  And if you  think I’m kidding about the dangerous part how about the risk of heavy metal . very springy , hanging bookend flying out from the shelf into your face which has nearly happened to me more than once or five or six pound book dropping on your head or your foot —both of which actually dio happen to me There are lot of bruises paper cuts —and dust .",
+            "text_zh": "人们有很多关于图书馆工作的误解一一在我开始这种工作之前我为很多的误無高到内疚。大多数人一想到这份工作时就想当然地认为，这份工作似乎是一份无趣、优雅、安静并且很吸引人的工作。可是我再次思索之后发现恰恰相反，这是份艰难、繁重并且有时会很危险的工作。如果你以为我说这份工作危险是开玩笑的话，那么你可以想一下由厚重的金属制成且富有弹性的书挡从高悬于书架处向下砸在你脸上的危险。而这发生在我身上已经不止一次，或者你想一下被五六磅的书在头上和脚上的情形一这些都是我所亲身经历的，我忍受着大量瘀伤、纸的划伤一一和灰尘。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "For all that I have to repeat I enjoy it .When it’s not dead quiet it’s hectic, the time flies and you get a good feeling of accomplishment . It’s nice place to work . the students mainly are great and so . with one or two exceptions , are the academic staff we have to deal with . And there’s a good feeling among the staff , especially among us lowly,  put at the foot of the page in the corner aides .",
+            "text_zh": "尽管如此我还是要重复一下我喜欢这份工作。当度过了死一般的沉寂阶段后、我会非常忙碌，时间飞逝，你也会颇具成就感。这是一个绝佳的工作场所，学生大多非常优秀、只有一两个例外。与我们打交道的学校教师也很出色。同事之间相处融治，尤其是我们这些地位低下并且被置于页面底端角落里的助理们。"
+        }   
+         
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Louis is a weather forecaster with a German TV station . She is now talkine about her entire day of work for only two minutes on the air everyday .",
+            "text_zh": "路易斯是德国电视台的天气预报员。她正在谈她从事的一整天工作，而这一切工作仅仅为了每天两分钟的天气节目。"
+        },
+        {
+            "role": 1,
+            "text": "The morning shift starts at 3 a.m . After a good cup of coffee and lots of jokes . meteorologist Rolf Engels , Ph .D . explains to me what is happening that day in the skies over Germany and the rest of Europe . Together with the graphics person . we decide what kind of maps we will use and in which order . How much on-air time will I have that day ? If there is important news,  I have to reduce my time accordingly .",
+            "text_zh": "早上的轮班3点就开始了。在饮用完可口的咖啡并说完一大堆笑话之后，气象学家罗尔夫・恩吉尔博士开始向我解释德国以及欧洲其他部分上空将会出现的变化。和电脑图像处理师一起，我们决定采用何种地图，并以什么顺序采用。我当天的报道天气的时间会有多长呢？如果有重要新闻，我必须相应减少我的时间。"
+        } ,
+        {
+            "role": 0,
+            "text": "Will I have interesting features from APTN, Reuters , CNN or other partners ? Without some knowledge of English and French , I would be in trouble.  I have to create my own text , edit the maps and features from the agencies,  choose music for the features and add a voice-over to the short weather report, etc .",
+            "text_zh": "我是不是有来自于美联社电视新闻网、路透社、美国有线新闻网络或其他媒体伙伴的一些有趣新闻特写？倘若不懂英语和法语、我就会陷入困境。我必须要自己写稿、编辑地图以及来自代理机构的新闻特写、为新闻特写选择音乐并为简短的天气报道加上画外音等等。"
+        } 
+        ,
+        {
+            "role": 0,
+            "text": "And since we don’t broadcst on the radio.  the make-up artist is alread waiting for me .",
+            "text_zh": "自从我们不再用无线电广播以来，化妆师就总是等待着我。"
+        } ,
+        {
+            "role": 0,
+            "text": "6:12 a.m . The first ive weather report of the day-errors inclusive.(epecially on Fridays , when everybody is tired.  It’s a funny thing ...) ",
+            "text_zh": "早上6:12，每天的第一次天气报道现场直播一错误在所难免（尤其是周五时，那时大家都很累。这很有趣…）"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "7:15 a.m . Finally breakfast time! And having plenty of fun with my colleagues while watching the Alps view with the funny “mountain” music .Preparing the final weather report with new maps and features .",
+            "text_zh": "早上7：15，早餐时间总算来了！与同事们一起伴随有趣的“山脉”音乐观赏阿尔卑斯的景色真是非常开心。然后我要开始准备用新的地图和新闻特写做最后的天气闻报道。"
+        } ,
+        {
+            "role": 0,
+            "text": "9:25 a.m .The next live weather report .",
+            "text_zh": "早上9：25，下一个现场直播的天气语预报。"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "9:30 a.m .Conference about the today’s and tomorrow’s shows . answering mail and phone calls ... Unfortunately those letters or mais h need to be answered in more detail stay on my desk longer -sorry !",
+            "text_zh": "早上9．30，有关当天和第二天节目的会议，答复邮件和来电…很不幸的是那些要详细答复的信件或电子邮件总是较长时间地被搁置于我的桌上一一抱款！"
+        } ,
+        {
+            "role": 0,
+            "text": "Between 8-9 p.m . I call it a day! Otherwise I won’t look very fresh the next morning at 6:12 a.m .",
+            "text_zh": "晚上8、9点之间，我收工了！否则第二天早上6：12分时我就打不起精神了。"
+        }  
+           
+         
+    ]
+}

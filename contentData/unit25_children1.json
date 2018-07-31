@@ -1,0 +1,68 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Sara",
+            "name_zh": "萨拉"
+        },
+        "2": {
+            "name": "David",
+            "name_zh": "大卫"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "David is a full time web designer and a lot of people envy his work-at-home reewheeling lifestyle . Now he is talking with Sara about the truth of his work .",
+            "text_zh": "大卫是一个全职的网页设计师，很多人羡慕他在家工作且无拘无束的生活方式。现在他正在和萨拉交谈他的实际工作。"
+        },
+        {
+            "role": 1,
+            "text": "David ,you must have more time to spend with your family Right ?",
+            "text_zh": "大卫，你一定有较多的时间和家人相处，是吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Well,  while I can choose what time I spend with my family , inevitably sometimes I’ll end up working evenings and weekends to meet deadlines .",
+            "text_zh": "嗯，我可以选择和家人在一起的时间，但最终结果是我不可避免地必须晚上或周末工作，使我在最后期限内完成任务。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "But you’ll be able to take time off whenever you want .",
+            "text_zh": "但是你可以在你想休息的时候就休息。"
+        } ,
+        {
+            "role": 2,
+            "text": "Yeah, my schedule is more flexible , but just like with any business , when I can afford to take off is determined by what responsibilities I have .",
+            "text_zh": "是，我的日程更灵活，但是和其他工作一样，我肩负的职责决定了我什么时侯才能休息。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Your job must be less stressful than other jobs.",
+            "text_zh": "你的工作应该比其他工作的压力要小些。"
+        } ,
+        {
+            "role": 2,
+            "text": "The stress comes from different sources . Instead of boss demands , it’s client demands ; instead of raises, it’s cash flow . There’s often as much stress or even more,  because your success all boils down to what you do .",
+            "text_zh": "压力是有不同来源的。尽管没有老板的苛责，但我要达到客户的要求，我不需集资，却操作着现金流转。我的压力和其他工作一样甚至更多，因为成功全由自己把握。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "I suppose being a web designer working at home, you don’t have to worry about stupid things like office politics . because you can create all the time .",
+            "text_zh": "我想作为一名在家工作的网页设计师，你不必担心如办公室政治之类数一些无聊的事情，因为你可以由自己创造出时间。"
+        } ,
+        {
+            "role": 2,
+            "text": "You’ll be able to be creative sometimes ; sometimes you’ll need to do the books (and let’s hope you’re not too creative with that), and sometimes you’ll have to market vour services .or clean up code .or cut and paste copy .Creativity is a small piece of the puzzle .And don’t think you won’t need those people skills ! You may be working with an entire company’s worth of differing agendas and personalities to develop a website . At the very least , you’ll usuall be getting input from several different people at one stage or another . You’ll even have to convince folks to hire you before you make it to the office politics stage . People skills are essential !",
+            "text_zh": "有时你可以发挥创造性、有时你要读书籍（希望我们这时还是不要太有创造性为好），有时你要推销自己的服务，或是清除一些代码，或是剪切并粘贴复制文本。创造性的应用只能解决整个难题中很小的一部分。不要以为你不需要与人打交道的技巧！你有可能是与团队一起工作来建设网站，而这个团队的价值就在于人人拥有的不同议程和不同性格特点。至少，你经常在某一阶段或不定期地从不同人那里接收建议和帮助。你必须要在走到办公室政治这一步之前使别人放心雇佣你。与人打交道的技巧非常关键！"
+        }  
+         
+         
+    ]
+}
