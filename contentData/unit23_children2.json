@@ -1,0 +1,89 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Jack",
+          "name_zh": "杰克"
+      },
+      "2": {
+          "name": "Tom",
+          "name_zh": "汤姆"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Tom wants to settle down and start a family , but his girlfriend Monica is not ready yet Therefore , they have to break up , Listen to the dialogue between Tom and his friend Jack .",
+          "text_zh": "汤姆想安定下来建立个家庭，但是他的女朋友莫尼卡却还没有做好准备，因此，他们不得不分手。听下面这段来自汤姆和他的朋友杰克的对话。"
+      },
+      {
+          "role": 1,
+          "text": "Hi Tom , how have you been ?",
+          "text_zh": "嗨，汤姆，你好吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "Not very well .",
+          "text_zh": "不太好。"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "Why ? What happened ?  You look so down !",
+          "text_zh": "怎么了？发生了什么事？你看起来闷闷不乐的。"
+      } ,
+      {
+          "role": 2,
+          "text": "Nothing",
+          "text_zh": "没什么。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Come on . For a man who’s so down , there’re usually two reasons .Either his career is going downhill , or he has a broken heart .You’ re so successful , so apparently ...",
+          "text_zh": "别这样嘛！令一个男人意志消沉只有两个原因，不是事业正在走下坡路、就是他有一颗破碎的心。你的工作这么成功，那么很显然..."
+      } ,
+      {
+          "role": 2,
+          "text": "Well you’re right . I just broke up with Monica ",
+          "text_zh": "好了，你猜对了。我刚刚和莫尼卡分手了。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Oh I’m sorry . I thought you two were made for each other .",
+          "text_zh": "哦，对不起。我一直认为你们挺般配的呢。"
+      } ,
+      {
+          "role": 2,
+          "text": "Well , you never know . I’m ready for a commitment and want to settle down , but she says she wants to pursue her career while she’s  still young .",
+          "text_zh": "哎，你不会知道的。我已经为我们的承诺准备好了，我很想稳定下来，但她说她想趁年轻去追求自己的事业。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": " Well , it’s always difficult to chose between career and family .",
+          "text_zh": "哎，事业和家庭的确很难决择。"
+      } ,
+      {
+          "role": 2,
+          "text": " Maybe you’re right .",
+          "text_zh": "也许你说得对。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "om, I don’ t know what to say to comfort you , but cheer up !There’ s plenty of fish out there and you’ll find your perfect match !",
+          "text_zh": "汤姆，我不知道该怎么安慰你才好，可你得振作啊！天涯何处无芳草，你定会找到最适合你的另一半。"
+      } ,
+      {
+          "role": 2,
+          "text": " Yeah, but it’s hard to forget her at the moment.You know, we were together for almost five years. It’s really  hard...",
+          "text_zh": "是的，但是我现在很难忘记她啊！你知道，我们在一起已经快5年了，我真的很难..."
+      }   
+       
+  ]
+}

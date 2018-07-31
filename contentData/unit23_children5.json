@@ -1,0 +1,51 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "I got a chance to actually meet an online friend in real life when I went on vacation to San Francisco . I’d left a note in my Live Journal telling everyone where l’d be going . When I went online at the hotel , I found a comment from my friend Kim telling me that she lived nearby in Palo Alto,  and asking if l wanted to get together .",
+          "text_zh": "当我去旧金山旅游时，我有机会在现实生活中真正地去见一位网友。我在我的博客上留言告诉大家我将要去旅行了。当我在酒店上网时发现我的朋友金留言说她住在帕洛阿尔托市附近，问我愿不愿意见面。"
+      },
+      {
+          "role": 0,
+          "text": "After checking with my parents, I rushed back to the computer to let her know that I could meet her on my way back to Los Angeles . We exchanged cell phone numbers and set up a meeting place and time . After hanging up , though ,I began to get nervous . I had known her for a few months , but meeting someone in person is a lot different than chatting over the Internet , and I was worried it would’ t turn out well .",
+          "text_zh": "在和我父母商量了之后，我很快在网上告诉她我可以在回旧金山的路上见她。于是我们交换了手机号码，约好了见面的时间和地点。当我挂掉电话的时候，我居然有点紧张。我认识她已经几个月了，但是见网友和跟网友在网上聊天是截然不同的两种感觉。我有点担心一切是否会顺利。"
+      } ,
+      {
+          "role": 0,
+          "text": "We both brought people with us for safety reasons—I brought my parents and she brought a friend - and met in front of a bookstore . I got there a few minutes early , and instructed my parents to please try not to embarrass me . I didn’t see her at first , but after a few minutes , we both recognized each other .",
+          "text_zh": "为了安全起见，我们都是有人陪着去的。我带着我的爸爸妈妈，她则带了一个朋友。我们约好是在书店门口见面，我先到了几分钟，并告诉我爸妈不要使我太尴尬。我一开始并没认出她，但几分钟之后我们彼此都认出了对方。"
+      } 
+      ,
+      {
+          "role": 0,
+          "text": "Even though I’d never met her before, I felt like I knew her from all the times we’d talked online . We talked about graphic design . the classes we were taking , clubs we were in and college , which we were both stressed out about since California schools are so competitive and it’s becoming harder to get accepted into good universities . My parents seemed to have a good time too - my dad got into some incredibly involved science conversation with Kim’s friend Derrick .",
+          "text_zh": "尽管我以前没见过她，但是我们在网上聊过很多次，所以我感觉我好像认识她。我们聊了美术设计、我们上过的课、我们去过的俱乐部还有使我们都感到有压力的大学，因为加州的学校竞争力很大，所以要进一所好的大学越来越难了。我的爸爸妈妈似乎也聊得很开心—我爸爸和金的朋友德里克在有关科学的话题上谈得很投机."
+      } ,
+      {
+          "role": 0,
+          "text": "The meeting lasted less than an hour , since I had to get home . At the end , we hurried outside to take photos with each other , then said goodbye . Even though the meeting was short , it was lot of fun , and we made plans to get together again if I came up north or she visited near Los Angeles . Now , we talk online several times a week . Before we had only a few conversations a month .",
+          "text_zh": "因为我不得不回家，所以这次见面持续了不到一小时。最后，我们匆忙地跑到外面留了影并告别。尽管见面的时间是短暂的，但是却非常有趣。以后如果我再去北方或者她来旧金山，我们计划将再次相聚。以前我们ー个月才聊几次天，而现在，我们每周都会在网上聊天。"
+      }  
+      ,
+      {
+          "role": 0,
+          "text": "Meeting Kim helped my parents and I get more used to the idea of online and offline life intersecting . I’m glad to have found friends whom I never woul have discovered otherwise .",
+          "text_zh": "这次见金使我和爸爸妈妈都认识到网络生活的有趣。我很高兴找到了我以前从未发现的朋友。"
+      }   
+       
+  ]
+}

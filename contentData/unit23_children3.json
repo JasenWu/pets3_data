@@ -1,0 +1,121 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Bill",
+          "name_zh": "比尔"
+      },
+      "2": {
+          "name": "Dan",
+          "name_zh": "丹"
+      },
+      "3": {
+        "name": "Claire",
+        "name_zh": "克莱尔"
+    }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Bill brings his niece Claire to a party . Now he is introducing Claire to one of his colleagues , Dan .",
+          "text_zh": "比尔将他的侄女克菜尔带到派对上，现在他正在向他的同事丹介绍克莱尔。"
+      },
+      {
+          "role": 1,
+          "text": "Hi ! How are you ?",
+          "text_zh": "嗨！你好吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "Fine . How about you ?",
+          "text_zh": "我很好，你呢？"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "Super! Let me introduce you to my niece. Claire Claire . this is Dan—he works with me at the office .",
+          "text_zh": "棒极了！让我来向你介绍我的侄女，克莱尔。克莱尔，这是丹，他和我一个办公室工作。"
+      } ,
+      {
+          "role": 2,
+          "text": "Hello, Dan .",
+          "text_zh": "你好，丹。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": " Dan , this is my brother John’s daughter, Claire .",
+          "text_zh": "丹，这是哥哥的侄女，克莱尔。"
+      } ,
+      {
+          "role": 2,
+          "text": "Pleased to meet you . I didn’ t know John had a daughter ? Where’s he been hiding you ?",
+          "text_zh": "很高兴见到你，我从来不知道约翰还有个女儿。他一直把你藏在哪儿了？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "She’s been living out East with one of her aunts . She just moved back .",
+          "text_zh": "她一直和她的阿姨住在东部，她才刚刚搬回来。"
+      } ,
+      {
+          "role": 2,
+          "text": "What part of the East, Claire ?",
+          "text_zh": "东部什么地方，克莱尔？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Boston ,near the harbor .",
+          "text_zh": "波士顿，靠近海港。"
+      } ,
+      {
+          "role": 2,
+          "text": "It must be quite a change— coming back here?",
+          "text_zh": "那你回来之后肯定觉得变化很大吧？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "It is , but I’m glad to be back and see all my friends .",
+          "text_zh": "是的，但是我很高兴回到这看我的朋友们。"
+      } ,
+      {
+          "role": 2,
+          "text": "Hey ,Dan . Do you still play golf ？",
+          "text_zh": "嘿，丹，你还打高尔夫吗？"
+      }
+      ,
+        {
+            "role": 1,
+            "text": "Not as much as I would like .",
+            "text_zh": "不像以前那么爱打了。"
+        } ,
+        {
+            "role": 2,
+            "text": "Claire plays . Maybe we could all play sometime soon ?",
+            "text_zh": "克莱尔喜欢打。也许我们可以找个时间一起打？"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "That sounds great . How about tomorrow morning ?",
+            "text_zh": "好主意。要不明天早上？"
+        } ,
+        {
+            "role": 2,
+            "text": "Sure , say 7:00, out at Harrison Park ?",
+            "text_zh": "比尔和克菜尔：好，7点，在哈里森公园外。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Great ,7 a.m . at Harrison .I’ll look forward to it .",
+            "text_zh": "太棒了，早上7点，在哈里森，真期待啊！"
+        }  
+       
+  ]
+}

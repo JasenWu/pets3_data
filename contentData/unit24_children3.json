@@ -1,0 +1,68 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": " The following is from the remarks that Hillary R . Clinton made to the United Nations Fourth World Conference on Women .",
+          "text_zh": "以下摘自希拉里·克林顿在联合国第四次妇女会上的讲话。"
+      },
+      {
+          "role": 0,
+          "text": "There are some who wonder whether the lives of women and girls matter to economic and political progress around the globe .",
+          "text_zh": "有人想知道是否妇女和女孩的生活会对全球的经济和政治进步带来影响。"
+      } ,
+      {
+          "role": 0,
+          "text": "Let them look at the women gathered here and at Huairou —the homemakers , nurses , teachers , lawyers , policymakers , and women who run their own businesses .",
+          "text_zh": "他们可以看看在这里聚集以及在怀柔的妇女—家庭妇女、护士、教师、律师、法律制定者以及自己经商的妇女。"
+      } 
+      ,
+      {
+          "role": 0,
+          "text": "It is conferences like this that compel governments and people everywhere to listen , look and face the world’ s most pressing problems .",
+          "text_zh": "正是这样的会议迫使各地的政府和人民倾听，关注并且面对世界最为紧迫的问题。"
+      } ,
+      {
+          "role": 0,
+          "text": "Wasn’t it after the women’s conference in Nairobi ten years ago that the world focused for the first time on the crisis of domestic violence ?",
+          "text_zh": "难道不是十年前内罗毕的妇女大会之后，全世界才第一次密切关注家庭暴力引发的危机吗？"
+      }  
+      ,
+      {
+          "role": 0,
+          "text": "Earlier today , I participated in a World Health Organization forum , where government officials , NGOs , and individual citizens are working on ways to address the health problems of women and girls .",
+          "text_zh": "今天早些时候，我参加了世界卫生组织的论坛。期间，政府官员、非政府官员以及群众都努力以各种方式阐述妇女儿童的健康问题。"
+      } ,
+      {
+          "role": 0,
+          "text": "What we are learning around the world is that if women are healthy and educated , their families will fourish . If women are free from violence , their families will fourish.  If women have a chance to work and earn as full and equal partners in society , their families will flourish .",
+          "text_zh": "我们从世界范围内可以得知，倘若妇女们身体健康并受到教育，她们的家庭就会幸福。如果妇女们不受暴力侵害，她们的家庭就会幸福。如果妇女们有机会就业并同工同酬，她们的家业就会兴旺。"
+      }  
+      ,
+      {
+          "role": 0,
+          "text": "And when families flourish, communities and nations will flourish .",
+          "text_zh": "而当家业兴旺时，社会和国家才会兴旺。"
+      } ,
+      {
+          "role": 0,
+          "text": "That is why every woman , every man,  every child , every family , and every nation on our planet has a stake in the discussion that takes place here .",
+          "text_zh": "这就是为什么每个妇女，每个男性，每个孩子、每个家庭以及我们星球上的每个国家都与我们正在进行的讨论利害攸关。"
+      }  
+        
+       
+  ]
+}

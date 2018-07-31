@@ -1,0 +1,106 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Mary",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "Jim",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Mary and her husband David have just moved to a new town , In this conversation ,Mary  will introduce herself and her husband to Jim ,their new neighbor .",
+          "text_zh": "玛丽和她的丈夫大卫刚刚到搬到一个新的城镇，在下面的对话中，玛丽将向她的新邻居吉姆介绍自己和大卫。"
+      },
+      {
+          "role": 1,
+          "text": "Hello.",
+          "text_zh": "你好"
+      } ,
+      {
+          "role": 2,
+          "text": "Oh , hi there !",
+          "text_zh": "哦，你好！"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "Please allow me to introduce myself . My name is Mary Smith .Nice to meet you .",
+          "text_zh": "请允许我做个自我介绍，我叫玛丽·史密斯，很高兴认识你！"
+      } ,
+      {
+          "role": 2,
+          "text": "Nice to meet you , too . My name is Jim Peters . Did you just move in next door ?",
+          "text_zh": "我也很高兴认识你！我叫吉姆·皮特。你是刚刚搬到隔壁的吗？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Yes , I did , with my husband David . He is now inside dealing with our lavatory.  Have you lived here long ?",
+          "text_zh": "是的，和我丈夫大卫一起。他现在在屋里整理我们的卫生间。你在这住了很久了吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "Me ? I guess so . I’ve lived here for about 6 years now . Havaae you lived in America very long ?",
+          "text_zh": "我？我想是的。我在这已经住了差不多6年了。你们在美国住了很久吗？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "No . Not really . When we left New Zealand and came to America we lived with a cousin in Dallas for 2 years . Where do you work, Jim ?",
+          "text_zh": "不，事实上没多久。当我们离开新西兰来到美国以后，我们在达拉斯的亲戚家住了两年。你在哪工作，吉姆？"
+      } ,
+      {
+          "role": 2,
+          "text": "I teach mathematis at Peach Springs Community College .What do you do ?",
+          "text_zh": "我在桃树温泉社区大学教数学，你呢？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "I became nurse at the local nursery , that’s why we moved here .Previously I worked as a surgeon assistant at the Dove County Hospital .",
+          "text_zh": "我在本地的托儿所做护士，这也就是我搬到这来的原因。以前我是多佛郡医院外科医生的助理。"
+      } ,
+      {
+          "role": 2,
+          "text": "Oh , I see .What about your husband David ?",
+          "text_zh": "哦，明白了。那你的丈夫大卫呢？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "He is mechanic at Allied Diesel . He repairs tractor engines .",
+          "text_zh": "他是联合柴油机厂的机械师，他修理拖拉机引擎。"
+      } ,
+      {
+          "role": 2,
+          "text": "Well I must go now . My wife slipped down the staircase last week and sprained her wrist . I have to do a load of laundry today . It was good to meet you.",
+          "text_zh": "呃，我现在必须得走了。我的妻子上个星期从楼梯上滑下来扭伤了手腕。我今天得去洗一大堆衣服。见到你可真高兴。"
+      }
+      ,
+        {
+            "role": 1,
+            "text": "It was good to meet you , too , Jim .",
+            "text_zh": "我也是，吉姆。"
+        } ,
+        {
+            "role": 2,
+            "text": "See you around !",
+            "text_zh": "再见！"
+        }
+        ,
+        {
+            "role": 1,
+            "text": "Good-bye Jim !",
+            "text_zh": "拜拜，吉姆！"
+        }    
+       
+  ]
+}
