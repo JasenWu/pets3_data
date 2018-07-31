@@ -3,18 +3,32 @@
 <html>
 <head>
 	<title>window.postMessage</title>
+	<script src="https://cdn.ravenjs.com/3.26.4/raven.min.js" crossorigin="anonymous">
+
+	</script>
+	<script>
 	
+	Raven.config('https://cca5c36322f6459187ab2d9598e54701@sentry.io/1249548').install()
+		Raven.context(function () {
+			//initMyApp();
+			//console.log(s);
+			console.log(aa)
+	});
+
+	</script>
+
+
 </head>
 <body>
  
 	<script type="text/javascript">
-var op = window.open("./b.html","_blank");
+// var op = window.open("./b.html","_blank");
 
-function receiveMessage(event)
-{
-  console.log(event)
-}
-op.addEventListener("message", receiveMessage, false);
+// function receiveMessage(event)
+// {
+//   console.log(event)
+// }
+// op.addEventListener("message", receiveMessage, false);
 
 		
 	</script>

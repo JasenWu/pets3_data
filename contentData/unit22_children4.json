@@ -1,0 +1,46 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "A brief introduction to China EMS at a seminar .",
+          "text_zh": "中国邮政特快专递简介研讨会。"
+      },
+      {
+          "role": 0,
+          "text": "The International Express Service (EMS) in China genuinely started in 1980 , which was formally introduced by China Post . To satisfy the further requirements of the service , State Post Bureau of China set up its specialized postal express company CCSC (China Courier Service Corporation ) in 1985, which is in charge of the operations , marketing and management of nationwide EMS service .",
+          "text_zh": "全球邮政特快专递在中国是于1980年真正开办的，它是由中国邮政正式引进的。为了满足将来服务的需要，国家邮政局于1985年建立了专门的国家邮政局快递局，其主要负责全球邮政特快专递的业务、市场和管理。"
+      } ,
+      {
+          "role": 0,
+          "text": "Taking “Best service and time guaranteed” as its sole purpose . CCSC provides the customers with worldwide , domestic and local EMS services , the internet-post service , the domestic COD service, the gift service , the PBA (paid by addressee ) service , and so on . The company also offers some extended services such as declaring , packaging storing , insuring and advertising as well .",
+          "text_zh": "国家邮政局快递局将“服务周到交货及时”作为它唯一的目标，它给顾客提供了国际的、国内的以及地方的特快专递服务，另外还有网上邮政服务、国内货到付款服务、礼品邮寄服务和收件人付款服务等等。公司还提供一些扩展服务，例如申报、打包、储存、投保以及广告。"
+      } 
+      ,
+      {
+          "role": 0,
+          "text": "The time limit and safety is not only the core of express service but also the aim pursued by EMS . From the moment when the service started , EMS constantly stick to serving the economic reform and opening to the outside world by reorganizing the operational procedures and accelerating the transmission of the items to meet the various needs of the people , by incresing the investment to the production capaciy and adopting high-tech to improve services , by offering 11185,  the hotine and desk-to-desk , door-to-door service to qualify the services .",
+          "text_zh": "对期限和安全的要求不仅仅是特快专递的核心，也是全球邮政特快专递所追求的目标。从建立之初，特快专递就一直坚持经济改革政策和对外开放战略，通过重组操作程序和加快项目的传播以满足更广大顾客的需求，通过增加促进生产力的投资和采用高新技术来提高服务，通过提供热线1186和上门服务来保证服务的质量。"
+      } ,
+      {
+          "role": 0,
+          "text": "China EMS is now cpable of assuming the great trust of thecustomer .",
+          "text_zh": "现在，中国邮政特快专递已经得到了广大顾客的广泛信任。"
+      }  
+       
+       
+  ]
+}

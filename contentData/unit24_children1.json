@@ -1,0 +1,57 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Sophie Wigram",
+          "name_zh": "索菲·韦格来姆"
+      },
+      "2": {
+          "name": "Douglas Hurd",
+          "name_zh": "道格拉斯·赫得"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Douglas Hurd is the former Foreign Secretary of Britain , a powertul politician , Now BBC’s Sophie Wigram is interviewing him .",
+          "text_zh": "道格拉斯・赫德是英国前外交大臣，并且也是一位颇具影响力的政治家。现在，英国广播公司的索菲·韦格来姆正在对他进行采访。"
+      },
+      {
+          "role": 1,
+          "text": "Was it inevitable that you would go into politics .",
+          "text_zh": "您从政是必然的吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "I always wanted to . But just when I was leaving Cambridge , my father said, “Don’t go straight into politics,  because no one will be particularly interested . You don’ t know anything about anything . Go and do something else first.”  So I became diplomat for 14, 15 years .",
+          "text_zh": "我一直想从政。但是当我从剑桥毕业时我的父亲说，“不要直接从政，因为没有人会对这格外有兴趣。你对任何事都一无所知，还是先干点别的吧。”于是我做了十四、五年的外交官。"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "You were Foreign Secretary for the first half of the 1990s- a very dramatic period in world politics . What’ s left the deepest impression on you ?",
+          "text_zh": "您在20世纪90年代前期担任外交大臣，而这又是世界政局剧烈动荡的时期。什么给您的印象最为深刻？"
+      } ,
+      {
+          "role": 2,
+          "text": "Bosnia . I think it was an intellectual tangle , and a moral one , whereas the Gulf War was very straightforward . I mean , there were big , difficult decisions to be taken during the Gulf War,  but looking back , they seemed very straightforward -big decisions easily taken . Bosnia wasn’ t like that . We were feeling our way all the time with the French . We were sometimes at odds with the Americans , and even the Germans . We were doing what we thought was best to rescue the situation , and it took very a very , very long time and there were many tragic moments during that time .",
+          "text_zh": "波斯尼亚。我认为它是一个思维上的困感，也是道德上的困惑，然而海湾战争却非常简单明了。我是说，在海湾战争中是要做出非常重大艰难的抉择，但是回顾起来，一切都很简单明了—重大决定就这样做出了。波斯尼亚却完全不同。我们和法国人总是谨慎行事，而我们有时和美国人甚至和德国人会发生争执。我们用我们认为最佳的方式来挽救局势，并且耗费了很长时间，在此期间也发生了很多悲剧。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "You , and the British government , were criticized for being too cautious over Bosnia— for not making an active enough commitment to stopping the war . Is that criticism valid ?",
+          "text_zh": "您和英国政府在波斯尼亚一事上被指责过于谨慎—因为没有足够主动地做出阻止战争的承诺。这种批评正当吗？"
+      } ,
+      {
+          "role": 2,
+          "text": " We were mainly criticized by people who were doing much less than we were . The criticism came from America and from Germany,  and I don’t accept that . The question in my mind is whether we could all—Europeans and Americans—have done something earlier , before people started killing each other . But , at the end of the day , peace came when those who were fighting were exhausted of fighting and had had enough of it.",
+          "text_zh": "批评我们的人往往做得比我们少得多。这些批评来自于美国、德国，而我并不接受。我思索的问题是我们所有人—欧洲人和亚洲人是否本可以在人们开始相互残杀之前，提前做一些事情。但是，一直到最后，直到那些战争者自已也厌倦了战争并忍无可忍时，和平才会到来。"
+      }  
+        
+       
+  ]
+}

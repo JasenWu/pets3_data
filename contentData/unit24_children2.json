@@ -1,0 +1,46 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Dreifus",
+          "name_zh": "得福斯"
+      },
+      "2": {
+          "name": "Meissner",
+          "name_zh": "梅森勒"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Doris Meissner works as Commissioner of the Immigration and Naturalization service . Now reporter Claudia Dreifus is interviewing her .",
+          "text_zh": "桃瑞丝・梅森勒是移民局的官员。现在记者克罗蒂亚·忿福斯正在采访地。"
+      },
+      {
+          "role": 1,
+          "text": "So you oppose the idea of national origins being a factor in immigration policy . But the new bill requires that any American wishing to sponsor immigrants must have an income 125 percent above the poverty level.  Previously, a  sponsor needed only an income at poverty level . Doesn’t this diseriminate against immigrants from poor countries?",
+          "text_zh": "您反对将原始国籍作为移民政策中的考虑因素。但是新法案要求任何一位希望担保移民者的美国人必须拥有超过贫困线125％的收入。以前，一位担保者只需要一份达到贫困线的收入。这难道不是对来自贫穷国家的移民的歧视吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "This was something we opposed . At first, Cogress had this at 200 percent,  then 140 percent ; 125 percent was the compromise .",
+          "text_zh": "这是我们所反对的。起初，国会要求将这一数字定为200％，后来定为140％，125％是折衷的结果。"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "A lot of proposals floating around state legislatures are aimed at throwing the children of illegal immigrants out of publie schools .Do you find such ideas helpful ?",
+          "text_zh": "很多围绕国家立法的议案都指出要阻止那些非法移民者的孩子进入公立学校。您认为这些观点有用吗？"
+      } ,
+      {
+          "role": 2,
+          "text": " No . I also disagree with the similar notion of barring the U.S .— born children of illegals from citizenship.  Now , it used to be that a child born in the United States would create the basis for the parents getting legal status . That has been changed - the parents cannot get legal status until the child is Its hard to imagine that people come and have a baby for the sake of waiting 21 years in order to get legal status .",
+          "text_zh": "不。我也反对类似剥夺在美国非法出生的孩子的公民权的观点。现在来看，过去一个在美国出生的孩子将为他的父母创造获得合法的身份的基本条件。然而，这个已改变一一父母在孩子21岁之前都无法获得合法身份。很难想象，人们来生孩子只是为了等上21年后获得合法身份。"
+      }  
+        
+       
+  ]
+}

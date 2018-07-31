@@ -1,0 +1,95 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Tom",
+          "name_zh": "汤姆"
+      },
+      "2": {
+          "name": "Jenny",
+          "name_zh": "珍妮"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Tom meets Jenny at a party for the first time . Now they are introducing themselves to each other . ",
+          "text_zh": "汤姆和珍妮在聚会上初次见面，他们正互相做着自我介绍。"
+      },
+      {
+          "role": 1,
+          "text": "Hi . I don’t think we’ve met . My name’s Tom .",
+          "text_zh": "嗨，我们以前没见过吧！我叫汤姆。"
+      } ,
+      {
+          "role": 2,
+          "text": "Hi , Tom . Nice to meet you.  My name is Juanita , but everybody calls me Jenny .",
+          "text_zh": "你好，汤姆，很高兴见到你。我叫胡安妮塔，但大家都叫我珍妮。"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "Nice to meet you , Jenny . So, where are you from ?",
+          "text_zh": "很高兴见到你，珍妮。那么，你是哪里人呢？"
+      } ,
+      {
+          "role": 2,
+          "text": "Well ,originally I’m from Argentina,  but we moved to the United States when I was about five years old . My parents now live in Chile . That’s where they first met . How about you ,Tom ?",
+          "text_zh": "呃，我本来是阿根廷人，可我5岁的时候就搬到美国来了。我的父母现在住在智利，那是他们初次见面的地方。你呢，汤姆？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "I was born in Fresno . California,  and we lived there until I was seven .Then since my father worked for the military . we moved all over the place .",
+          "text_zh": "我出生在加州的弗雷斯诺，我们在那住了7年。后来，自从我爸爸到军队工作之后，我们就经常搬家。"
+      } ,
+      {
+          "role": 2,
+          "text": " Oh yeah ? Where are some of the places you’ ve lived ?",
+          "text_zh": "是吗？那你都去过哪些地方呢？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Mostly, we were overseas . We spent a total of ten years in Korea.  Germany , and Japan . We were transferred back to the States three years ago , but I think my parents would have liked to live overseas for at least 20 more years .",
+          "text_zh": "我们大部分时间都在国外。我们在韩国、德国和日本住了10年，3年前我们才搬回美国，不过我想我爸妈可能会在国外至少住20年。"
+      } ,
+      {
+          "role": 2,
+          "text": "Wow . It sounds like you’ve had an interesting life .So , what do you do now ?",
+          "text_zh": "哇，听起来你的生活应该挺丰富多彩的吧！那你现在在做什么呢？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "I’m a student at Yale University.",
+          "text_zh": "我现在是耶鲁大学的学生。"
+      } ,
+      {
+          "role": 2,
+          "text": "Oh really ? What are you studying ?",
+          "text_zh": "哦，真的吗？你学什么的？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "I’m majoring in philosophy.  How about you ?What do you do ?",
+          "text_zh": "我的专业是哲学，你呢？你是干什么工作的呢？"
+      } ,
+      {
+          "role": 2,
+          "text": "Well, I’m working as a sales representative for VegSemiconductor downtown .",
+          "text_zh": "呃，我在市区维佳半导体公司做销售代表。"
+      } 
+      ,
+        {
+            "role": 1,
+            "text": "No kidding ! My brother works there too .",
+            "text_zh": "你没开玩笑吧！我哥哥也在那儿工作。"
+        }  
+       
+  ]
+}

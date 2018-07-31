@@ -1,0 +1,79 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Zhang Jun",
+          "name_zh": "张军"
+      },
+      "2": {
+          "name": "Mary",
+          "name_zh": "玛丽"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "Zhang Jun ， a young Chinese student of 22, is now pursuing his Ph . D. of law at the university of  Anizona, U. S. A. Thougt  he has stayed in Tueson for a couple of weeks, he is still puzzled about the mailling service in America.  So he’s now tuming to Mary,  his fellow student yet a native American,  for help. ",
+          "text_zh": "张军，一个22岁的年轻中国学生，现在正在美国亚利桑那大学攻读法学博士学位。尽管他已经在图森住了几个星期,但他仍然不了解美国的邮政服务，所以他正向他的美国同学玛丽寻求帮助。"
+      },
+      {
+          "role": 1,
+          "text": "Well,  Mary,  I’m desperately in need of your help.  I haven’t sent letters to my parents for nearly a month since I arrived here in Tucson. I’m afraid they will be worried about me. Could  you please tell me where I can mail letters ？",
+          "text_zh": "呃，玛丽，我现在特别需要你的帮助。自从我来到图桑以后，我已经快一个月没给家里写信了，我想他们现在一定很担心我。你能告诉我在哪儿可以寄信吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "You know every city in the United States has at least one post office where you can buy stamps and mail packages and letters .The postal service also places public mailboxes on various street corners. You can also find places for outgoing mail just outside your dormitory. ",
+          "text_zh": "你知道美国的每一个城市至少多有一家邮局，你可以在那儿买到邮票，并邮寄包裹或信件。邮政服务处在很多街角都安置了邮筒，你也可以就在你的寝室外面找到能邮寄信件的地方。"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "But how do I mail letters for overseas destinations?",
+          "text_zh": "但我怎么邮寄海外信件呢？"
+      } ,
+      {
+          "role": 2,
+          "text": " First of all, you should check with the post office for current overseas airmail rates.  Make sure you always clearly mark “air mail” on the envelope. Using self-folding airmail forms, called “aerogrammes”, can save you money on postage.",
+          "text_zh": "首先，你必须查询邮寄目前的海外航空邮件费用。然后确定你在信封上标明“航空邮件”字样。通过“航空邮件”可以节省你的邮资。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Sounds not very troublesome.  That is a great relief to me. How can I mail packages ?",
+          "text_zh": "听起来似乎不那么麻烦，这可使我松了一口气。另外，我该怎么邮寄包裹呢？"
+      } ,
+      {
+          "role": 2,
+          "text": " A post office clerk can explain the various rates for mailing packages within United States or   Overseas. Within the United States.  packages can often be sent cheaper and faster using independent package and delivery services.  such as United Parcel Service, UPS .",
+          "text_zh": "邮局的工作人员会告诉你国内和国外邮寄包裹的各种费用，在国内常常会采用独立包裹，然后通过美国联邦快递邮寄，这样又快又便宜。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "I will probably move around a lot while I’m in the United States .How do I obtain a permanent address ?",
+          "text_zh": "在美国的时候，我可能会经常地搬家，那我该怎样获得一个永久住址呢？"
+      } ,
+      {
+          "role": 2,
+          "text": "For a small fee, you can rent a box, called a post office box or “P .O .Box, at your campus post office. When you give someone your permanent address, use the box number, city state, and zip code.",
+          "text_zh": "只用交一点点钱，你就可以在学校的邮局里租个信箱，当你告诉别人你的永久住址时，你只需说明邮箱号，城市在哪个州以及邮编就可以了。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Thanks a lot .",
+          "text_zh": "太感谢你了。"
+      } ,
+      {
+          "role": 2,
+          "text": "My pleasure!",
+          "text_zh": "不客气！"
+      }  
+        
+       
+  ]
+}

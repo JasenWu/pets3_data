@@ -1,0 +1,62 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "If you want to get something done quickly , it’s a good idea to spend some time getting the prper inforaton fist . If you don’t , you’ll generally spend more time doing it in the end . With  pay telephone calls , you may spend more money , too . Adam’s story is an example .",
+          "text_zh": "磨刀不误砍柴工，如果你在做一件事之前没有花时间去收集准确的信息，那么你只会在后面浪费更多的精力。你有可能会在电话费上花更多的钱，亚当的故事就是一个例子。"
+      },
+      {
+          "role": 0,
+          "text": " Adam is a sophomore at Tinghua University , majoring civil engineein . His girl friend Rebecca goes to Beijing Institute of International Relations and studies accounting .",
+          "text_zh": "不亚当是清华大学土木工程专业的一名大二的学生。他的女朋友蕾贝卡在北京国际关系学院会计学专业。"
+      } ,
+      {
+          "role": 0,
+          "text": "On Thursday night , Adam tried to make a phone call to Rebecca about their date of the weekend .",
+          "text_zh": "一个星期四的晚上，亚当正在给蕾贝卡打电话商量周末约会的事。"
+      } 
+      ,
+      {
+          "role": 0,
+          "text": "When Adam met Rebecca three months ago , he wrote her telephone number on the back of his calculus notebook . He never memorized it because he almost always carris the notebook with him . But Thursday night he didn’ t have the notebook with him. ",
+          "text_zh": "当亚当3个月前遇到蕾贝卡的时候，他将她的电话号码记在了他的算术笔记本背面。他从来不记她的电话号码，因为他几乎天天带着他的笔记本。但是这个星期四的晚上他却忘带了。"
+      } ,
+      {
+          "role": 0,
+          "text": "He went to the public telephone booth and called the general telephone number of the institute where Rebecca studies . The night operator at the institute didn’ t have a list of students and their numbers . She told him to try the dormitory and gave him the number . But Adam accidentally dialed the wrong number and woke up an old lady , who threatened to call the police .",
+          "text_zh": "他来到公用电话亭，拨了一个蕾贝卡所在学院的总机号。学院夜班接线员没有学生的名单和电话，她告诉亚当去打寝室电话并告诉了他电话号码。但是亚当不小心拨错了号码，吵醒了一位老太太，这位老太太威胁说要叫警察。后来，亚当很仔细的又拨了一次，这次是拨对了，但却是男生寝室。接电话的学生告诉亚当另一个电活号码。"
+      }  
+      ,
+      {
+          "role": 0,
+          "text": "Adam careflly dialed the number again , this time correctly , but it was the men’s dormitory . The guy who answered gave Adam another number to call .Adam dialed this number , and a girl answered . He asked to speak to Rebecca , but the girl said, “Rebecca lives in the dorm , but not on this floor .This is the third floor,  and she lives on the eight” After a delay , she was able to find the number for the eighth floor . He dialed this number .",
+          "text_zh": "亚当拨了这个号码，一个女生接了电话。亚当请蕾贝卡接电话，但是那个女生说：“蕾贝卡的确住在寝室，但是不在我这一楼。我这是3楼，她住在八楼。”耽误了ー会儿，她终于找到了8楼的电话号码。亚当又拨了这个电话。"
+      } ,
+      {
+          "role": 0,
+          "text": "Another girl answered the telephone . Adam again asked to speak to Rebecca . and the girl yelled , “Just a minute ... Hey , Rebecca!    It’s for you ！”Five minutes went by . Then someone hung the phone up . He impatiently dialed the number again . and this time Rebecca finally answered .",
+          "text_zh": "这一回是另一个女生接了电话。亚当又请蕾贝卡接电话，这个女生叫着回答；“等一下…唉，蕾贝卡，你的电话！”5分钟之后有个人把电话给挂了。于是，亚当又打了过去，这一次，终于是蕾贝卡接了电话。"
+      }  
+      ,
+      {
+          "role": 0,
+          "text": "Adam spent two yuan for the call that night !",
+          "text_zh": "那天晚上亚当整整花了两元钱打电话。"
+      }  
+       
+  ]
+}
