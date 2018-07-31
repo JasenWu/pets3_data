@@ -1,0 +1,127 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Secretary",
+            "name_zh": "秘书"
+        },
+        "2": {
+            "name": "Donna",
+            "name_zh": "堂娜"
+        }
+    },
+    "contents": [
+      {
+          "role": 0,
+          "text": "Donna Gregory has arranged an appointment with Mr . Thomas , her new business partner , She is now calling to cancel the arrangement . But Mr . Thomas isn’t  in his office . His secretary answers her phone instead .",
+          "text_zh": "堂娜・格雷戈里与她新的商业合作伙伴托马斯先生有一个约会，她现在正在打电话取消这个安排，但是托马斯先生不在他的办公室，他的秘书替他接了电话。"
+      },
+      {
+          "role": 1,
+          "text": "Good morning . Wilson Associates .",
+          "text_zh": "早上好，这里是威尔逊公司。"
+      } ,
+      {
+          "role": 2,
+          "text": "This is Donna Gregory speaking .  I’d like to speak to Mr . Thomas , please .",
+          "text_zh": "我是堂娜·格雷戈里，请问托马斯先生在吗？"
+      } 
+      ,
+      {
+          "role": 1,
+          "text": "I’m sorry ,  but Mr . Thomas left the office a few minutes ago .",
+          "text_zh": "对不起，托马斯先生几分钟以前刚刚离开办公室了。"
+      } ,
+      {
+          "role": 2,
+          "text": "That’s too bad ! I’ve been trying to call him for the last ten minutes . but your line has been busy . Will he be back soon ?",
+          "text_zh": "真糟糕！我刚オー直打他的电话，足足打了10分钟，但一直都占线。他会马上回来吗？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "I’m afraid not . He’s gone for the rest of the day .",
+          "text_zh": "我想不会，他今天一整天都不会回来了。"
+      } ,
+      {
+          "role": 2,
+          "text": "Is there anywhere I can reach him ?",
+          "text_zh": "那我到哪儿可以找到他呢？"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "I don’ t believe so . He’s going to the suburbs on business . Is there any message I can give him ?",
+          "text_zh": "我也不太清楚。他因公事到城郊去了。您有什么口信要我转给他吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "I had a business appointment with him for tomorrow morning at ten o’clock but I’m afraid I can’t make it .",
+          "text_zh": "我明天上午10点与他有个商业约会，但我可能去不了了。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "Would you care to make another appointment?",
+          "text_zh": "你可以改个时间吗？"
+      } ,
+      {
+          "role": 2,
+          "text": "Unfortunately , I’m leaving town rather unexpectedly . and I may be gone for several days .",
+          "text_zh": "很不巧，我突然要出城几天、可我也不太确定。"
+      }  
+      ,
+      {
+          "role": 1,
+          "text": "I see . I can tell Mr . Thomas that you phoned .",
+          "text_zh": "明白了，我可以转告托马斯先生您打电话来了。"
+      } ,
+      {
+          "role": 2,
+          "text": " I wanted to speak to him before I left .",
+          "text_zh": "我想在我离开之前能跟托马斯先生谈谈。"
+      } ,
+      {
+        "role": 1,
+        "text": "If it is urgent , you might try his mobile phone .",
+        "text_zh": "如果很急的话，您可以打他的手机。"
+    } ,
+    {
+      "role": 2,
+      "text": "Yes , I tried . But his phone was not in service . Could you tell me his home telephone number , please ?",
+      "text_zh": "是的，我打过了，但是他的手机不在服务区内。你能告诉我他家的电话吗？"
+  }  
+  ,
+      {
+        "role": 1,
+        "text": "His home number is 5785–4758.",
+        "text_zh": "他家的电话是5785－4758。"
+    } ,
+    {
+      "role": 2,
+      "text": "I can reach him , I presume , around eight o’clock ?",
+      "text_zh": "我猜我该可以联系到他的，他八点应该在家吧？"
+  }   
+  ,
+      {
+        "role": 1,
+        "text": "Possibly .I’m not sure what time you can reach him .",
+        "text_zh": "可能在，我也不太确定你什么时候以联系到他。"
+    } ,
+    {
+      "role": 2,
+      "text": "In any case , thank you for your trouble . If I don’t reach him at his home, you’ll tell him , of course , that l called ?",
+      "text_zh": "无论如何，麻烦你了。如果我找不到他，请替我转告一声我打过电活，好吗？"
+  }   
+  ,
+      {
+        "role": 1,
+        "text": "I certainly will , Good-bye.",
+        "text_zh": "当然，我会的。再见。"
+    }  
+       
+  ]
+}

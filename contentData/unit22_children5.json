@@ -1,0 +1,46 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "tourist",
+          "name_zh": "游者"
+      },
+      "2": {
+          "name": "passerby",
+          "name_zh": "路人"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "A modern bank provides many services other than checking accounts . One of the most important of these is regular passbook savings .",
+          "text_zh": "现代银行所提供的服务已不仅仅是支票存款。其中最重要的一项便是定期存折存款。"
+      },
+      {
+          "role": 0,
+          "text": "If you went to a bank to open savings account .  you would go through almost the same procedures as followed in applying for a checking account .First you would be asked to fill out signature card . Then you would be given a passbook in which your initial deposit would be recorded . All deposits and withdrawals from your account are entered into your passbook . This means that the passbook contains an actual record of all savings you have at any one time . With a regular passbook savings account . you would be able to withdraw money whenever you needed it .All you would have to do is fill out withdrawal order and present it . along with your passbook , to the teller .",
+          "text_zh": "如果你到银行开立储蓄账户，你会经历与申请支票账户所需的相同手续。首先你必须填一个（銀行）签字样卡，然后你就会得到一个记录你初始存款的存折。所有你账户上的存款和取款信息都会记录在你的存折上，这也就意味着存折上有你任何时候存款的实际记录。有了定期存款账户，你可以在任何时候去取钱。你要做的事情就是填写取款单，然后将它和存折一起递交给银行出纳员。"
+      } ,
+      {
+          "role": 0,
+          "text": " All banks pay interest on savings accounts . The interest rate varies from bank to bank . but the general range is from 4 to 6 percent . Banks also pay interest at different times . But the majority of them pay semiannually . Suppose , for example , that on January 1, you deposit $1,000 in a bank that paid 5 persent  interest semiannually . By July 1, you would have earned $50 interest . he interest would automatically be credited to your account ; and if you left in the bank . along with your original deposit , you would receive interest on $1,050 for the next six-month period . That is , your interest would be compounded .",
+          "text_zh": "所有银行都会给储蓄存款的顾客付利息。各银行的利率也不一样，但变化范围通常在年利率4％到6％之间。银行在不同时期所付的利息也会不一样，但大多数银行都是半年一付。举个例子，假如你在1月1日的时候，往银行存入了1000美元、那么到了7月1日的时候、你将得到50美元的利息。如果你不支取、它将并入原有的存款，在以后的6个月里，你将得到按本金1050美元计算的利息。也就是说，以复利计算利息。"
+      } 
+      ,
+      {
+          "role": 0,
+          "text": "If you knew that you could keep your money in the bank for certain period of time . you could get a higher interest rate by buying a savings certificate . These certificates can be bought in amounts of $500 or more . The longer the term of the certificate . the higher the rate of interest paid . Short-term certificates are for three months . You can also buy certificates for periods of one or two years . When you buy a savings certificate . you sign a contract with the bank stating that you will not be able to get your money back until the date when the certificate is due .",
+          "text_zh": "如果你确定存就的期限，那么你可以通过购买储蓄券来获得更高的利率。储蓄券必以至少500美元的数量来购买。存储的期限越长，利率也就越高。短期的存储券是3个月，你也可以购买一年或两年的存储券。当你购买存储券的候，你和银行会签一个合同以保证你在存储到期之前不会从银行取款。"
+      } ,
+      {
+          "role": 0,
+          "text": "Another important service that banks provide is traveler’s checks . If you go on a vacation or travel on business to another city or state or country , you probably want to bring some traveler’s checks along with you . They have two important advantages over cash . One is that your money is always safe . If the checks are lost or stolen . you can receive refund for the total amount .Another is that they are more convenient . Many businesses are reluctant to cash personal checks on out-of-town banks . But with proper identification , you can readily cash travele’ s checks almost anywhere in the United States or abroad . Every traveler’s check has its own individual number . When you buy these checks (you must purchase at least $50 worth ),the teller gives you a slip on which the number of every check is recorded . A copy of this slip is kept by the bank.  If the checks are lost or stolen ,you can bring this slip to the bank and your money will be returned . Before you are given the checks, you are asked to sign each one of them at the top . When you cash the check , you must sign it again in the presence of the person who gives you the money at the bottom .For this service , the bank charges 1 percent of the amount of the check . If you bought a $50 check , for example , you would have to pay $ 0.50 for it.",
+          "text_zh": "银行提供的另一项重要的服务就是旅行支票。如果你外出旅行或者因公事出差到其他城市或国家，那么你肯定想带一些旅行支票。旅行支票和现金相比有两大优点。第一你的钱一定是安全的。如果你的支果弄丢了或者被偷了，你可以得到全额偿还。第二旅行支票使用方便。很多生意都需要在外地兑换支票，但是只要拥有了准确的身份证明，你就可以在美国甚至国外的任何地方兑换旅行支票。每张旅行支票都有其单独的号码。当你购买这些支票时（你最低购买金不得少于50美元）出纳员会给你一张清单，上面记录着每张支票的号码，银行也会保留一份清単。如果你的支票弄丢了或是被偷了，你便可以凭借这张清单得到银行的全额偿还。在得到支票之前，你必须在每张支票的顶端签名，当你兑换支票的时候，你得当着兑换支票的银行职员的面在支票底部签名。通过这种服务，银行会收取1％的手续费例如，如果你购买50美元的支票，你就得付给银行0.5美元的手续费。"
+      }  
+        
+       
+  ]
+}
