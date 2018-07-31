@@ -1,0 +1,57 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Compared to elections in other countries , a British election is a rapid and straightforward affair . Traditionally about 75 percent of the country’s 44 million registered voters take part . They each place a cross next to the name of the candidate they want to vote for on a ballot paper . In a general eletion , voters  choose the man or woman they wish to represent them in the House of Commons .",
+            "text_zh": "和其他国家的选举相比较，英国的选举是一件快速且简单的事情。传统上全国4400万注册选民中75％会参与投票。在其选票上，每人在自己赞成的候选人名字旁边画又。在大选期间，选民可以选择他们意向中的男性或女性在下议院中作为他们的代表。"
+        },
+        {
+            "role": 0,
+            "text": "Unlike other countries , Britain uses the “first-past-the-post” method for choosing its government.  Under this system , the candidate who wins the highest number of votes in each constituency becomes the Member of Parliament (MP )for that seat . even if he or she has less than half of the total vote . Currently , there are 651 geographical constituencies in Britain .",
+            "text_zh": "和其他国家有所不同，英国采取了“简单多数票当选”方式来选择政府成员。在这一体系之下，每个选区获得选票最多的候选人可以在国会获得一席之地，即使他或她的选票不足总体的半数。目前，在英国有651个地理上的选区。"
+        } ,
+        {
+            "role": 0,
+            "text": "Most candidates are members of Britain’s 3 main political parties . They are the Conservatives , Labour , and the smaller Liberal Democrats .",
+            "text_zh": "大部分的候选人都是来自于英国主要的3个政党。他们分别是保守党、工党和小一些的自由民主党的成员。"
+        } 
+        ,
+        {
+            "role": 0,
+            "text": "Any citizen of Britain can try and get elected as an MP . Only bankrupts , prisoners , members of the clergy , peers and certain senior public officials are not allowed to stand . But in order to limit the number of people who do take part,  each candidate is required to deposit £500 before the election . They “lose their deposit” if they fail to 5 win percent of the poll .",
+            "text_zh": "任何英国公民都可以尝试参选国会议员。只有破产者、四犯、神职人员、贵族和某些高级公务员不允许参选。但是为了限制民众参选，每个候选人按要求要在选举前交纳500英磅定金。如果他们在选举中所获票数不足总数5％就将失去定金。"
+        } ,
+        {
+            "role": 0,
+            "text": "The “first-past-the-post” principle is also used to decide which party will form the new government . As a rule , the party which wins the most seats is invited by the Queen to form the government.  The leader of that party then becomes the new prime minister .",
+            "text_zh": "简単多数票当选”方式也会被用于决定将由哪个政党组阁新政府。按照常规，赢得大多数选票的政党将被女皇邀请组阁。政党首领将担任首相。"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "The exact date of the election is chosen by the prime minister and is normally announced about month in advance . This makes the election campaign quite short in comparison to countries like the U .S .A ., where the campaign to elect the president lasts for up to nine months .",
+            "text_zh": "选举的确切日期由首相挑选并且通常提前一个月宣布。这就使得这场选举运动比较起美国等一些国家长达9个月以上的总统选举来显得非常短促。"
+        } ,
+        {
+            "role": 0,
+            "text": "It’s estimated that up to fifth of voters in Britain only decide who they will vote for in the last 4 weeks before an election.  As a result , parties spend huge sums of money on advertising in the last few weeks . Individual candidates are limited by law on how much they may spend but no such restriction applies to the parties .",
+            "text_zh": "据估计，英国有五分之一的投票者是在选举结東四周前才决定他们的投票对象。于是，政党都在最后几周耗费巨资进行宣传。法律限制了独立参选者的资金花费，而对于政党却没有诸类限制。"
+        }  
+          
+         
+    ]
+}

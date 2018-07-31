@@ -1,0 +1,45 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Harmer",
+            "name_zh": "哈默"
+        },
+        "2": {
+            "name": "Goldstone",
+            "name_zh": "高尔德斯通"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Richard Goldstone is one of South Africa’s leading judges . He was appointed chief prosecutor for the international criminal tribunal for Rwandan . He talks re to Chris Harmer about his work for the war crimes tribunals .",
+            "text_zh": "理查德・高尔德斯通是南非的主法官之ー。他被任命为卢旺达的国际罪犯法庭的首席起诉人。在此他向克里斯·哈默讲述他在战犯法庭的工作。"
+        },
+        {
+            "role": 1,
+            "text": "Why did you accept such a difficult position ?",
+            "text_zh": "你为什么接受这份棘手的工作？"
+        } ,
+        {
+            "role": 2,
+            "text": "I was given very little time to decide whether or not to accept the job , but I took it after consultation with members of the then new South African government , including President Nelson Mandela .It was agreed that it was an important job— important from a human rights point of view , especially an international human rights point of view . and also because it was the first ,important position offered to a South African since South Africa s readmission into the international community . But obviously I was very frustrated at having to work outside South Africa at what would be , for me , the most exciting period of South African history .",
+            "text_zh": "我根本就没有时间来决定是否接受，但是在与新南非府成员包括总统尼尔森·曼德拉磋商之后我接受了。大家都认为这是份很重要的工作一一从人权的角度来看，尤其是从国际人权的角度来看。并且因为这是一个南非人在南非被国际社会接纳之后获得的第一份重要职位。但显然的是，在这个我看来是南非历史上最激动人心的时期，我却不得不离开南非，这非常令我沮丧。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Why do you think war crimes trials are so important ?",
+            "text_zh": "你为什么认为对战争罪行的审判很重要？"
+        } ,
+        {
+            "role": 2,
+            "text": "Throughout the 20th Century there has been a history of cycles of violence . such as in countries like Rwanda . And I believe that the only way to avoid future cycles of violence is to have some sort of justice at the end of violent period . In that way , victims can at least have the comfort of some sort of official acknowledgement, and then the healing process can begin . Otherwise , feelings of injustice and revenge can develop—certainly if the violence is on massive scale .",
+            "text_zh": "整个20世纪是一部暴力周而复始的历史，比如在卢旺达这样的国家。我相信避免未来暴力循环的唯一办法就是在暴力结束的时期主持正义。这样，受害者至少才能因官方的承认而得到慰藉，接下来开始治愈创伤。否则，不公正的感受会加深，复仇行为会愈演愈烈一如果暴力是大规模的时候，这就是必然结果。"
+        }  
+        
+    ]
+}
