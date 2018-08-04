@@ -12,7 +12,7 @@
             "2": {
                 "name": "passerby",
                 "name_zh": "路人"
-            } , "contents": [
+            } }   , "contents": [
             {
                 "role": 0,
                 "text": "Mr Kapil Sibal is the Union Minister of State for Science and Technology and Ocean Development, Government of india . In the following interview ,Mr . Kapil sibal shares his views on the utilization of GIS (Geographic Information System ) for social and economicdevelopment .",
@@ -53,6 +53,6 @@
             }   
              
         ]
-    }  }              
+    }             
             
         

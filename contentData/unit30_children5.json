@@ -11,7 +11,7 @@
         "2": {
             "name": "passerby",
             "name_zh": "路人"
-        } , "contents": [
+        }} , "contents": [
         {
             "role": 0,
             "text": "Ecosphere Thinking",
@@ -58,7 +58,7 @@
         }   
          
     ]
-}  }              
+}                
         
     
         

@@ -11,7 +11,7 @@
         "2": {
             "name": "passerby",
             "name_zh": "路人"
-        } , "contents": [
+        }  } , "contents": [
         {
             "role": 0,
             "text": "Mary and Tom are talking about computers in the future .",
@@ -61,4 +61,4 @@
             "text_zh": "恰恰相反。对不同用户有不同层次的用户友好操作方式。使用计算机采购不会比操作录音机更麻烦。"
         }  
     ]
-}  }             
+}             

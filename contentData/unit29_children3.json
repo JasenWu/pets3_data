@@ -11,7 +11,7 @@
         "2": {
             "name": "passerby",
             "name_zh": "路人"
-        } , "contents": [
+        }  }, "contents": [
         {
             "role": 0,
             "text": "The following talk tells us something about how Australia is related to Britain .",
@@ -31,4 +31,4 @@
           
          
     ]
-}  }          
+}           

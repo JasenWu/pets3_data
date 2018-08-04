@@ -11,7 +11,7 @@
         "2": {
             "name": "passerby",
             "name_zh": "路人"
-        } , "contents": [
+        }  }, "contents": [
         {
             "role": 0,
             "text": "Listen to radio report on the world shocking event of September 11.",
@@ -36,6 +36,6 @@
         }   
          
     ]
-}  }              
+}               
         
         

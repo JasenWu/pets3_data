@@ -11,7 +11,7 @@
         "2": {
             "name": "passerby",
             "name_zh": "路人"
-        } , "contents": [
+        }  } , "contents": [
         {
             "role": 0,
             "text": "Listen to a brief summary about China’s climate.",
@@ -25,7 +25,7 @@
         }   
          
     ]
-}  }              
+}              
         
     
         

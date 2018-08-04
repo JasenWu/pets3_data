@@ -11,7 +11,7 @@
         "2": {
             "name": "passerby",
             "name_zh": "路人"
-        } , "contents": [
+        } }  , "contents": [
         {
             "role": 0,
             "text": "Kevin’s father suggests that Kevin take geography as his minor which is offered in his university .",
@@ -74,7 +74,7 @@
         }   
          
     ]
-}  }              
+}              
         
     
         
