@@ -1,0 +1,54 @@
+{
+    "roles": {
+        "0": {
+            "name": "Heidi",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "Tim",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Tim is interviewing Heidi about her experience of almost entirely being home—educated.",
+            "text_zh": "海蒂正在向提姆讲述地家庭教育的经历。"
+        },
+        {
+            "role": 1,
+            "text": "y eperience with deschooling was entirely unstructured . No kitchen table classroom . No petent as teacher . No curriculum . No grades . Nothing  remotely school-like at all .",
+            "text_zh": "我的非学校化教育是完全自由的，没有固定的桌子、教室、课程和年级，也没有父母当老师。一点也不像学校。"
+        } ,
+        {
+            "role": 2,
+            "text": "Did you ever question if you were  learning fundamentals and did you ever seek comparison with other kids ",
+            "text_zh": "你曾经怀疑过你是否真正掌握了基础知识吗？你有没有和其他同龄人比较过吗？"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": " I learned through living . My parents recognized that the best learning is learning-by-doing, and they facilitated a lot of interesting experiences for me , whether it was driving me across town , paying  for courses and lessons,  or just including me in their lives . To say that I never compared myself to anybody else would be inaccurate , but real comparison wasn’t something I learned until I went to school . Even then , I had trouble understanding it . Comparison is , to me, competition , and I don’t believe in competition . Competition is something prevalent at school . and probably in many conventional workplaces . I have tried most of my life to avoid those types of places.",
+            "text_zh": "我是从生活中学习知识的。我父母认为最好的学习方法就是通过实践学习，并且他们带我经历了很多有趣的事。他们驱车带我去城镇，为我课时付费，并把我视为为他们生活中的一部分。但是说我从未将自已与他人相比是不准确的，不过真正意义上的比较是我在上学后オ知道的。不过从那时起，我就很难弄明白。对于我来说，比较就是竟争，但是我并不相信竞争。竟争是在学校较为盛行，可能也存在于传统的工作场合中。但我会试着在生活中尽量去避开那些竞争的场合。"
+        } ,
+        {
+            "role": 2,
+            "text": "I know what you mean about competition for grades . but interacting with a large group of people my own age was one of the joys I derived from school .  Did you sometimes miss that ?",
+            "text_zh": "我知道你指的是分数上的竟争，但是和一大群人接触，年龄是我从学校获得的一种快乐。有时候你是不是忽略了这一点？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "I interacted with many people on a regular basis , both individuals and large groups of people of all different ages . I think that socializing with a large group of people your own age is very unnatural . It was one of the things that really irritated me about high school . Actually , when I was in high school , my friends were rarely in the same grade . or they were teachers or support staff . I enjoy the company of people of all different ages .",
+            "text_zh": "我经常接触不同年龄的人，有个人也有团体。我认为要想和一大群年龄不同的人和睦相处，你的年龄似乎有点不自然。这也是中学让我大为恼火的一件事。实际上，当我还在中学读书的时候，我的朋友中就很少有人和我在同一个年级，他们要么当了老师，要么就在任职。但我喜欢和不同年龄的人打交道。"
+            
+        }   
+         
+    ]
+}     
+        
+          

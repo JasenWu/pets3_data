@@ -1,0 +1,104 @@
+{
+    "roles": {
+        "0": {
+            "name": "Tracy",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "philip",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Tracy is talking with Philip and asking about how he considers his son’s education .",
+            "text_zh": "特蕾西正和菲利普聊天，特蕾西和菲利普在讨论儿子的教育问题。"
+        },
+        {
+            "role": 1,
+            "text": "For a start , it would have to be a mixed school and not a boarding establishment .",
+            "text_zh": "最初他可能要在男女兼收的学校就读，而不是在寄宿学校。"
+        } ,
+        {
+            "role": 2,
+            "text": " For a start , it would have to be a mixed school and not a boarding establishment .",
+            "text_zh": "最初他可能要在男女兼收的学校就读，而不是在寄宿学校。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "What have you got against single sex schools ?",
+            "text_zh": "你为什么反对他上只招收男生的学校呢?"
+        } ,
+        {
+            "role": 2,
+            "text": "Clearly , a coeducational environment promotes understanding between boys and girls . It’s far more natural .",
+            "text_zh": "显然男女一起受教育的环境会促进男孩和女孩之间的相互了解。这样再自然不过了。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Don’t you think they distract one another when they become teenagers ?",
+            "text_zh": "难道你就不担心将来这些青少年会互相影响而耽搁学业？"
+        } ,
+        {
+            "role": 2,
+            "text": "Well , maybe they do , but they’ ve got to learn to live together . I’m against all forms of separation .",
+            "text_zh": "当然，他们也许会互相影响，但是他们也必须学会相处呀。我本人不赞成把他们刻意分开的各种形式。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "How about boarding schools ? Don’t they teach children how to live together?  I’d have thought they’d be very useful for children without brothers and sisters .",
+            "text_zh": "你觉得寄宿学校如何呢？难道在那里孩子们就不能学会如何相处吗？我认为寄宿学校对那些没有兄弟姐妹的独生子女会很有帮助。"
+        } ,
+        {
+            "role": 2,
+            "text": "But an only child can still find friends in his or her neighborhoods or local day schools . Why have we got to create large institutional families ? If people decide to have children , then they should value family life .",
+            "text_zh": "但是他们也可在邻居中或是当地的学校里交朋友呀！为什么我们非得营造一个老套的大家庭呢？如果人们真的决定要孩子的话，那他们就应该珍视家庭生活。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Would you prefer your child to be educated privately or by the state ?",
+            "text_zh": "那你愿意让你的孩子上私立学校还是公立学校？"
+        
+        }  
+        ,
+        {
+            
+            "role": 2,
+            "text": "Philip: To be honest, that’ s a very difficult question, because if the state schools in my town were very bad,  then I might be tempted to pay private fees . I hope that wouldn’t be necessary .",
+            "text_zh": "坦率地说，这个问题很难回答。因为如果我们当地的公立学校教学质量很差的话，那么我也许还是愿意自己掏腰包。但我想可能没有这个必要。"
+        }     
+        ,
+        {
+            "role": 1,
+            "text": "Would you consider sending your child to a grammar school ?",
+            "text_zh": "你有没有考虑过让你的孩子上文法学校？"
+        }   
+        ,    
+        {    "role": 2,
+            "text": "Again , that depends on the alternatives.  I prefer the comprehensive system , but I wouldn’t want my child to be in mixed ability classes for all subjects . There’d have to be some form of streaming .",
+            "text_zh": "当然考虑过，不过也要视情况而定。我虽然倾向于综合中学，但我并不想让我的孩子在学生能力参差不齐的班里学习所有的课程。必须得根据学生的能力进行分班教学。"
+        }     
+        ,
+        {
+             
+            "role": 1,
+            "text": "What’s wrong with mixed ability teaching ?",
+            "text_zh": "那么你认为不分班上课有那些弊端呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "The reality is that people learn subjects such as languages and mathematics at different speeds.  It’s nonsense to keep everybody at the sane level regardless of their progress .",
+            "text_zh": "事实上，人们对诸如语言和数学等科目的学习进度不ー。因此无视学习者的学习进度而把所有人放在同一层次的班级上课是没有道理的。"
+        }   
+         
+    ]
+}   

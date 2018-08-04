@@ -1,0 +1,34 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "The following talk tells us something about how Australia is related to Britain .",
+            "text_zh": "下面的讲座让我们了解澳大利亚与英国的历史渊源。"
+        },
+        {
+            "role": 0,
+            "text": "Australia was portrayed as a remote and unattractive land for European settlement . However , it had some social and strategic value for a nation with rising crime rates and commercial interests in the Pacific and East Asia . Britain moved quickly after the American Revolution ended in 1783 to establish its first settlement in Australia , since it could no longer ship British convicts to America , Food shortages , harsh penal laws , and the general displacement of people during the early stages in the Industrial Revolution in Britain added to its criminal population . Leading social reformers of the day asserted that the best way to eliminate crime was to remove these criminals from society . In 1786 the British government announced its intention to establish a penal settlement at Botany Bay in Australia .",
+            "text_zh": "就欧洲殖民者看来，澳大利亚总是被描绘成偏僻而缺乏吸引力的地方。但是作为一个国家，随着犯罪率逐渐上升以及澳大利亚在亚太地区的商业利益日益扩大，澳大利亚还是具有重要的社会战略地位。自1783年，美国独立战争以后，英国无法再将罪犯流放到美国，于是首先很快在澳大利亚建立了殖民地。在英国工业革命初期，由于食物短缺，刑法严酷，移民增加促使犯罪率激增。英国当政的改革家们认为减少犯罪的最好方法就是将罪犯流放到海外。因此，1786年英国政府宣布在澳大利亚的博坦尼湾建立安置囚犯的殖民地。"
+        } ,
+        {
+            "role": 0,
+            "text": "The 11 vessels of the First Fleet brought the first European settlers to the Australian land mass in 1788 . After a brief stay at Botany Bay , Governor Arthur Philip directed the ships carrying “transported” convicts and jailors into Port Jackson , to the north, On January 26,1788, the ships landed at Sydney Cove ,which Phillip named after Lord Sydney , the British home secretary of the time . The new settlement , a penal colony for exiled convicts from Britain , experienced a number of problems . The three major ones are providing a sufficient supply of foodstuffs ; developing an internal and economic system ; and producing exports to pay for the colony’s imports from Britain .",
+            "text_zh": "1788年1月，由11艘船只组成的第一舰队载着第一批殖民者浩浩荡荡的踏上澳大利亚的土地。在博坦尼湾停泊后，总督亚瑟·菲利普带领船队向北行驶载着囚犯来到杰克森港下错。1778年1月26日，菲利普总督在悉尼港登陆，后来菲利普被授予悉尼爵士，即当时的英国内政大臣。这群来自英国的放逐犯人经历了一系列考验。三个最主要的难题分别是：提供充足的食物供给，大カ发展内陆经济，和扩大出口以应对英国的殖民倾销。"
+        } 
+        
+          
+         
+    ]
+}  }          

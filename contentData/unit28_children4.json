@@ -1,0 +1,64 @@
+{
+    "roles": {
+        "0": {
+            "name": "Mary",
+            "name_zh": "玛丽"
+        },
+        "1": {
+            "name": "Tom",
+            "name_zh": "汤姆"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Mary and Tom are talking about computers in the future .",
+            "text_zh": "玛丽和汤姆正在讨论未来的计算机。"
+        },
+        {
+            "role": 1,
+            "text": "Computers are extremely popular at present. You see , the pas te years has brought us much more powerful CPUs , much large memories and hard disks , as well as much better printers an scanners at affordable prices .",
+            "text_zh": "计算机现在非常流行。你看，在过去的十年中出现了速度越来越快的中央处理器CPU，容量越来越大的内存和硬盘，以及效果越来越好的打印机和扫描仪。并且它们的价格都是可以接受的。"
+        } ,
+        {
+            "role": 2,
+            "text": " Don’t you think what we’re using will be much improved in th future , say , in five or ten years’  time?",
+            "text_zh": "难道你不认为我们现在使用的计算机在未来会变得越来越强大吗，比如说，5到10年后？"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": " Well, can you make any predictions ?",
+            "text_zh": "当然啦，你能做出预测吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "OK , We all see that screens are getting bigger. and bigger Soon they will be large enough to cover a whole wall . Digital television and video can use this space . But I still hope I can open screens of any size depending on the distance I want to be from the wall in my living-room . Of course , keyboards will be portable and you’ll have the option of voice control.",
+            "text_zh": "可以啊。我们都发现屏幕现在变得越来越大。这样下去不久它们就会大得可以覆盖整个墙面了。数字电视能够使用这种空间。但是我仍希望在起居室里能够根据我到墙的距离自由展开大小合适的屏幕。当然啦，键盘必须是便携式的并且你能够控制音量。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "What does that mean ?",
+            "text_zh": "你指的是？"
+        } ,
+        {
+            "role": 2,
+            "text": "You’ll literally be able to talk to the wall , to recite a shopping list , for example , What you say will appear as text on the wall.  Your computer will be able to search the local supermarkets for the items you have listed ,you’ll be given information about quality and price and may even see pictures of what is available . Then you’ll fill in an order form and the items will be delivered to your door the next day.",
+            "text_zh": "可以简单理解为你能和墙进行对话，比如说出一份采购清单。你所说的内容会以文字的方式显示在墙上。计算机能在当地的超市中搜寻你所列出的物品。如果找到了，你可以得到相关商品的质量和价格，乃至实物图片。随后你填写一份购物单，第二天所购商品就会被送到你家。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Surely , the technology for all this isn’ t going to be very user-friendly .",
+            "text_zh": "当然这些技术不会太好用啦。"
+        } ,
+        {
+            "role": 2,
+            "text": "On the contrary . There’ll be different levels of user-friendliness for different users . Shopping by computer needn’t be any more difficult than operating a cassette player .",
+            "text_zh": "恰恰相反。对不同用户有不同层次的用户友好操作方式。使用计算机采购不会比操作录音机更麻烦。"
+        }  
+    ]
+}  }             

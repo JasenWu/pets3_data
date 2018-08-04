@@ -1138,26 +1138,193 @@
   "27": {
     "order": 27,
     "title": "Education",
-    "children": []
+    "children": {
+      "1": {
+        "title": "Dialog/Monologue",
+        "startTime": 0,
+        "endTime": 189,
+        "audioName": true
+      },
+      "2": {
+        "title": "Dialog/Monologue",
+        "startTime": 190,
+        "endTime": 321,
+        "audioName": true
+      },
+      "3": {
+        "title": "Dialog/Monologue",
+        "startTime": 322,
+        "endTime": 469,
+        "audioName": true
+      },
+      "4": {
+        "title": "Dialog/Monologue",
+        "startTime": 470,
+        "endTime": 553,
+        "audioName": true
+      },
+      "5": {
+        "title": "Passage",
+        "startTime": 554,
+        "endTime": 733,
+        "audioName": true
+      },
+      "6": {
+        "title": "Excise A",
+        "startTime": 554,
+        "endTime": 733,
+        "audioName": true
+      },
+      "7": {
+        "title": "Excise B",
+        "startTime": 554,
+        "endTime": 733,
+        "audioName": true
+      } 
+    }
   },
   "28": {
     "order": 28,
     "title": "Popular Science",
-    "children": []
+    "children": {
+      "1": {
+        "title": "Dialog/Monologue",
+        "startTime": 0,
+        "endTime": 189,
+        "audioName": true
+      },
+      "2": {
+        "title": "Dialog/Monologue",
+        "startTime": 190,
+        "endTime": 321,
+        "audioName": true
+      },
+      "3": {
+        "title": "Dialog/Monologue",
+        "startTime": 322,
+        "endTime": 469,
+        "audioName": true
+      },
+      "4": {
+        "title": "Dialog/Monologue",
+        "startTime": 470,
+        "endTime": 553,
+        "audioName": true
+      },
+      "5": {
+        "title": "Passage",
+        "startTime": 554,
+        "endTime": 733,
+        "audioName": true
+      } 
+    }
   },
   "29": {
     "order": 29,
     "title": "History",
-    "children": []
+    "children": {
+      "1": {
+        "title": "Dialog/Monologue",
+        "startTime": 0,
+        "endTime": 189,
+        "audioName": true
+      },
+      "2": {
+        "title": "Dialog/Monologue",
+        "startTime": 190,
+        "endTime": 321,
+        "audioName": true
+      },
+      "3": {
+        "title": "Dialog/Monologue",
+        "startTime": 322,
+        "endTime": 469,
+        "audioName": true
+      },
+      "4": {
+        "title": "Dialog/Monologue",
+        "startTime": 470,
+        "endTime": 553,
+        "audioName": true
+      },
+      "5": {
+        "title": "Passage",
+        "startTime": 554,
+        "endTime": 733,
+        "audioName": true
+      } 
+    }
   },
   "30": {
     "order": 30,
     "title": "Geography",
-    "children": []
+    "children": {
+      "1": {
+        "title": "Dialog/Monologue",
+        "startTime": 0,
+        "endTime": 189,
+        "audioName": true
+      },
+      "2": {
+        "title": "Dialog/Monologue",
+        "startTime": 190,
+        "endTime": 321,
+        "audioName": true
+      },
+      "3": {
+        "title": "Dialog/Monologue",
+        "startTime": 322,
+        "endTime": 469,
+        "audioName": true
+      },
+      "4": {
+        "title": "Dialog/Monologue",
+        "startTime": 470,
+        "endTime": 553,
+        "audioName": true
+      },
+      "5": {
+        "title": "Passage",
+        "startTime": 554,
+        "endTime": 733,
+        "audioName": true
+      } 
+    }
   },
   "31": {
     "order": 30,
     "title": "Geography",
-    "children": []
+    "children": {
+      "1": {
+        "title": "Dialog/Monologue",
+        "startTime": 0,
+        "endTime": 189,
+        "audioName": true
+      },
+      "2": {
+        "title": "Dialog/Monologue",
+        "startTime": 190,
+        "endTime": 321,
+        "audioName": true
+      },
+      "3": {
+        "title": "Dialog/Monologue",
+        "startTime": 322,
+        "endTime": 469,
+        "audioName": true
+      },
+      "4": {
+        "title": "Dialog/Monologue",
+        "startTime": 470,
+        "endTime": 553,
+        "audioName": true
+      },
+      "5": {
+        "title": "Passage",
+        "startTime": 554,
+        "endTime": 733,
+        "audioName": true
+      } 
+    }
   }
 }

@@ -1,0 +1,44 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Listen to a brief introduction to Tsinghua University which is one of the best universities in China .",
+            "text_zh": "以下是中国一流大学一一清华大学的简介"
+        },
+        {
+            "role": 0,
+            "text": "singhua University is a comprehensive state key university having isciplines of science , engineering, management and social science with engineering as its main focus . As one of the most important national bases for higher education , scientific research and technological development , Tinghua University shoulders a great responsibility of educating high level talents , accomplishing sophisticated scientific research for the Country and promoting national economic construction.",
+            "text_zh": "清华大学是一所以工科为代表的拥有理、工、文、管等多种学科的国家重点综合性大学。作为国家最重要的高等教育中心，科学研究和技术推广基地，清华大学肩负着为国家培养高等人才，开展尖端科学研究和推动经济建设的重任。"
+        } ,
+        {
+            "role": 0,
+            "text": "Tsinghua University is one of the most important bases for high-level talents of China . At present , Tsinghua consists of 9 schools , 44 departments, 44 research institutes , 9 national engineering research centers and 163 laboratories including 15 state key laboratories . Tsinghua offers 44 bachelor’s degree programs , 139 master’ s degree programs and 107 Ph .D . degree programs .",
+            "text_zh": "清华大学是中国最重要的高等人才教育中心。目前，清华设有9个学院，44个系，9个国家工程研究中心和163个实验室，其中包括15个国家重点实验室。全校共有本科专业44个，有权授予硕士学位的专业139个，有权授予博士学位的专业107个。"
+        } 
+        ,
+        {
+            "role": 0,
+            "text": "Tsinghua University has many famous professors, including 48 members of the Chinese Academy of Sciences and the Chinese Academy of Engineering . At present,  more than 1,000 professors and more than 1,700 associate professors work for Tsinghua University .",
+            "text_zh": "清华大学师资力量雄厚，有许多著名的教授执教，其中中国科学院院士和中国工程院院士48人，全校现有1000多名教授和1700多名副教授。"
+        } ,
+        {
+            "role": 0,
+            "text": "There are 23 post-doctoral research stations at Tsinghua University . Since 1985, more than 1,000 post-doctoral fellows . have worked for Tsinghua At present,  there are more than 400  post-doctoral fellows . The post-doctoral researchers have made great contributions to scientific research and education at Tsinghua .",
+            "text_zh": "清华大学现有博士后科研流动站23个。自1985年以来，1000多名博士后曾为清华工作，现在清华共有400多名博士后。博士后科研人员为清华的科学所究和教育发展做出了杰出的贡献。v"
+        }  
+    ]    
+}       

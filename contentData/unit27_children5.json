@@ -1,0 +1,55 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "China’s Education System ",
+            "text_zh": "中国的教育制度"
+        },
+        {
+            "role": 0,
+            "text": "The development of education is of primary importance in China Under the policy of “developing the country through science and education,” each child is offered free nine-year compulsory education and the education system is constantly being improved .“Oriented towards modernization,  the world, and the future”  is the guiding principle for the development of the Chinese education system,  both in the long and the short term . ",
+            "text_zh": "在中国，教育已摆在首要地位。在“科教兴国”的战略决策指引下，每个孩子享有九年义务教育的权利，中国的教育体制正在不断完善。不管现在还是将来，“面向现代化，面向世界，面向未来”始终是中国教育发展的方向"
+        } ,
+        {
+            "role": 0,
+            "text": "China’s education system can be divided into the following stages : ",
+            "text_zh": "中国的教育制度可分为以下几个阶段："
+        } 
+        ,
+        {
+            "role": 0,
+            "text": "Pre-school education is for 3 -5  year olds and takes place in kindergartens .",
+            "text_zh": "学前教育是指3至5岁的儿童进入幼儿园接受的教育。"
+        } ,
+        {
+            "role": 0,
+            "text": "Primary education is from 6-11 Primary schools are usually run by local educational authorities and over free tuition , although there are some private schools owned by enterprises and individuals. ",
+            "text_zh": "小学教育为6至11岁儿童设立。小学一般由地方政府兴办建立且全免学费，也有由企业和私人创办的学校。"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "Secondary schooling is for children from 12-17 years of age . Education of this kind is run by local governments and various business authorities .State-run secondary schools include junior middle schools and senior middle schools , both with three grades or years . The first three years of secondary school are compulsory and tuition is free .Senior middle school is not compulsory and students must pay minimal tuition fees . Private secondary schools often offer specialized education and have a more vocational bent,  but the qualifications they offer are considered to be on the same level as those of State-run middle schools . However , graduates from secondary professional schools are seen to have achieved a higher level in some ways akin to a university education . Students graduating from junior middle schools usually go on to senior middle schools , although some move to vocational high schools or secondary professional schools for 3- 5 years of study .",
+            "text_zh": "中等教育是为12至17岁的少年提供的教育。一般都是由地方政府和业务部门兴办。普通中学通常分为初中和高中，学习年限各为3年。初中三年为义务教育、学费全免。高中学习不是义务教育，学生必须交纳最低限额的学费。私立中学提供专业化教育，职业性较强，这种教育得到认可与普通中学的教育层次相同。但是，中等职业技术学校的毕业生在某种程度上更能接受相关的大学教育。初中毕业生一部分升入普通高中学习，还有一部分升入职业高中或中等专科学校学习，学制为3至5年。"
+        } ,
+        {
+            "role": 0,
+            "text": "For higher education there are vocational courses as well as undergraduate , postgraduate , and doctoral degrees . Bachelor’s degrees usually require 4-5 years of study ,Master’ s degrees need 2-3 years and Ph . D . s are granted after 3 years . Higher education is offered in universities , colleges , institutes , and vocational colleges . These institutions conduct academic and scientific research and provide social services as well as offering courses to students . To enter a university or college, students have to take the national entrance examination , which takes place every June and is now open to people of all ages.  Selection is based on each student’s marks in this exam , and due to the number of people sitting the exam ,getting into university is highly competitive . Those who fail to get selected have to go to private colleges if they want to continue their education .Tuition at such colleges is more expensive than at the State-run universities .Those who have missed out on higher education can continue their studies as adults in the workplace ."
+        }   
+         
+    ]
+}            

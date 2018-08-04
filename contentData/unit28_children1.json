@@ -1,0 +1,96 @@
+{
+    "roles": {
+        "0": {
+            "name": "Jane",
+            "name_zh": "简"
+        },
+        "1": {
+            "name": "Dad",
+            "name_zh": "父亲"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Jone is a fourth-grade student and has had a hard time on her science course .She’s asking her father, a science teacher in high school,  some questions in astronomy .",
+            "text_zh": "简是一位四年级的学生，她发现科学课对她很难。她正和在高中担任科学课教师的父亲讨论一些关于天文学的问题。"
+        },
+        {
+            "role": 1,
+            "text": "Dad , can I ask you some astronomy questions?",
+            "text_zh": "爸爸，我能问几个关于天文学的问题吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Sure . What are in your mind ?",
+            "text_zh": "当然可以，是些什么问题呢？"
+        } 
+        ,
+        {
+            "role": 1   ,
+            "text": "When were planets first discovered?  How many were first discovered and who discovered them ?",
+            "text_zh": "人们最初是在什么时候发现行星的？人们最初发现了多少颗行星，又是谁发现他们的？"
+        } ,
+        {
+            "role": 2,
+            "text": "Well, many planets are visible to the naked eye, such as Mercury,  Venus, Mars,  Jupiter, and Saturn, these planets have been known since ancient times.  As for the rest, Uranus was discovered in 1781 by William Herschel,  Neptune was discovered in 1846 by Galle and d’arrest , and Pluto was discovered by Tombaugh in 1930.",
+            "text_zh": "许多行星是人们肉眼可以看到的，比如水星、金星、火星、木星和土星，这些行星自古代就已为人们所知了。至于其他行星嘛，天王星是在1781年由威廉・赫希尔发现的，海王星是伽利略于1846年偶然发现的，冥王星是汤博洛于1930年发现。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Have planets been discovered outside of our solar system ?",
+            "text_zh": "人们有没有发现太阳系以外的天体呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "Yeah, many of them have been discovered in other solar systems .",
+            "text_zh": "有，人们在太阳系以外还发现了许多天体。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": " When were telescopes first used to view the planets ?",
+            "text_zh": "那望远镜最早是什么时候被用来观测天体的呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "That was in the early 1600’s when Galileo first used a telescope to look at the planets .",
+            "text_zh": "早在十六世纪初，伽利略开创了人类用望远镜观星的先河。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "How many moons does each planet have ?",
+            "text_zh": "每个行星共有几颗卫星啊？"
+        } ,
+        {
+            "role": 2,
+            "text": "Uh , Mercury and Venus have no moons.  Earth and Pluto both have one moon.  Those who have 2 moons are Mars , Uranus and  Neptune. Jupiter has 16  or more moons , and Saturn has 18 named and many smaller ones .",
+            "text_zh": "哦，水星和金星没有卫星。地球和冥王星各有一颗卫星。有两颗卫星的行星分别是火星，天王星和海王星。木星至少有16颗卫星。土星有18颗已经命名的卫星并且还有许多更小的卫星。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "What is gravity like on each planet?  Is it different from the gravity on Earth ? What does gravity have to do with the planets staying in orbit around the sun ?",
+            "text_zh": "每颗行星的引力是怎样的呢？和地球的不同吗？那引カ又是怎样使行星以定的轨道围绕太阳转的呢？"
+        } ,
+        {
+            "role": 2,
+            "text": " The force of gravity is different on each of the planets . On some planets,  you would feel lighter than you do on the earth . on others , you would feel heavier . Gravity is the force that keeps the planets in orbit around the sun .",
+            "text_zh": "每个行星上的引カ大小不同。在有些行星上，你会感觉自己比在地球上时要轻，然而在其他的行星上你却会感觉重一些。引力是行星以一定的轨道国绕太阳转的一种力。"
+            } ,
+            {
+            "role": 1,
+            "text": "Thank you , Dad . You’ve solved many of the problems with my assignment .",
+            "text_zh": "谢谢你，爸爸。你已帮我解决了作业中的许多难题。"
+        }   
+         
+    ]
+}                                    
+        
+    

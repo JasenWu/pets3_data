@@ -1,0 +1,66 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Ecosphere Thinking",
+            "text_zh": "生态圈沉思"
+        },
+        {
+            "role": 0,
+            "text": "Although in theory every educated person knows that the world is more than people , resources, and a vague environment to be protected, the very fact of seeing it as one spherical air—watenland system gives it a new and different reality . From a vaniage point outvide our home, a  revealing perspective has shown us the planet for what reall is ; a ball  of living star dust ,a four-and-one billion year old miracle .",
+            "text_zh": "尽管从道理上讲每个受过教育的人都知道世界不仅仅是由人、资源和被保护且定义还不清晰的环境所组成的，但是事实上将世界看作一个由大气圈-水圈-陆地圈组成的系统会给这个世界赋予全新的不同理解。跳出我们生存的家园来观察会更佳，我们将会明白我们这个星球到底是什么：一颗由活动恒星的灰尘组成的球体，一个41亿年的古老奇迹。"
+        } ,
+        {
+            "role": 0,
+            "text": "Perthaps the strange human desire to fly away from the planet , to “stip the surly bonds of earth,” is a necessary impulse for discovering who we are .Perhaps we can tever be satisfied on earth until we have traveled away in space and come back home,  back to our roots ,to where we belong .",
+            "text_zh": "可能异想天开的人总是渴望着飞离这颗行星，摆脱地球的禁锢是我们不断追问自己到底是谁的原动カ。只有当我们经过太空邀游回到家园、回到自己的根，我们真正所属的地方，人类才可能得到最终的满足。"
+        } 
+        ,
+        {
+            "role": 0,
+            "text": "To the question , “What is the world ?” the answers still tend to be ambiguous . In the traditional sense, the earth remains the supportive environment for humanity merely the means for enhancement of the one animal “made in God’s image.” To physical science that has denatured reality the world is a material place of molecules and atoms , of solids , liquids and gases , of atmosphere , hydrosphere , lithosphere and biosphere . For biological science it is a scene wherein mechanistic organisms compete for survival , driven by selfish genes . To the economist it is raw materials and resources . valueless until transformed by the “innovative genius of man” into marketable commodities . These are our humanistic homo-centred tegacies - no longer reasonable .",
+            "text_zh": "世界到底是什么”这个命题的答案至今仍令人困惑。在传统观念中，地球只是人类社会赖以存在的环境，仅仅是“由上帝依据自己的形象创造的”这种动物发展进化所依赖的工具。对物理学而言，世界被理解为只是由分子、原子、固体、液体、气体、大气层、水圈、岩石圈和生物圈组成的物质空间。对生物学而言，世界只是生物凭着自私的本能重复上演弱肉强食闹剧的舞台。对经济学家而言，世界只是一堆未经处理过的原材料，如果不经过人类的創造性加工变成可供销售的产品，那么世界将一文不值。人类是世界的主宰的传统观念不再合理。"
+        } ,
+        {
+            "role": 0,
+            "text": "In the profounder ecological sense , the world is now known as a unity . The various spheres - atmo hydro , litho , and bio -are intertwined and related , both in the historical evolutionary sense and in the present functional sense .Organic tissues of living things are fashioned from the elements of air , water and soil which in turn bear the imprints of life . Thus , the nutrient composition of sea water is maintained by organisms which also stabilize the improbable composition of the atmosphere . Plants and animals formed the limestone in mountains whose sediments make our bones . Our blood and sea water are akin . On the earth’s surface the artificial divisions that we have made between living and non-living , biotic and abiotic ,organic and inorganic , are not only false but mischievous .“",
+            "text_zh": "在生态学的观念中，世界是一个整体。大气圈、水圈、岩石圈及生物圈由于历史的演进和现实中不同的作用而相依共存。活着的生命体都必须随着空气、水和土壤的成分变化而改变，同时在其中留下生命的烙印。因此维持大气成分稳定的生物体同时维持着海水中营养物质的含量。植物和动物便成为形成山脉的石灰岩，而这些山脉的沉积物也是我们骨骼的组成成分。我们的血液和海水成分类似。地球表面上的这种人为划分是错误甚至是有害的，依据这种划分的话，我们既是生命体又没有生命，既是生物又是非生物，既是有机体又是无机体。"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "The reality of the world is not people and separate “other things”. Nor is the earth machine whose secrets lie in its fragmented parts . It is - beyond all understanding- an integrated ecosphere of marvelous creativity .",
+            "text_zh": "真正的世界不应该以人为分界。地球也不是一部将秘密隐藏在各个部件中的机器。世界是一个完整充满惊人创造力的生态圈，这种观点超越了所有的现存观念。"
+        } ,
+        {
+            "role": 0,
+            "text": "The root meaning of “eco” is “home”,  and the revealed ecosphere is the home-sphere from which all life came and in which all life exists . Thanks to NASA , ecology- which means study of the home-has had its eyes opened to the reality of the Home of all homes .",
+            "text_zh": "词根“eco”的含义是“家”，生态圈的本质含义是世界应该是所有来过的和继续存在着的所有生命的家园。多亏美国国家航空航天局，才使生态学（一门研究家园的学科）的目光注意到了我们所有小家的大家园的现实状况。"
+        }  
+        ,
+        {
+            "role": 0,
+            "text": "Ecology needs to escape its obsession with organisms—the legitimate subject matter of biology —and fasten its attention on the large whole in which organisms, including people, function as parts. Ecology’s natural subject of interest is the earth—home, the ecosphere, not its fragmentary compositional parts.  Ecology studies the whole; biology studies the organic comstituents of the whole that are no more imporant than air, water and soil.",
+            "text_zh": "生态学必须避免传统生物学中的有机体观念的困扰，必须将其注意力牢牢地集中在更大的整体上。在这个整体中，有机体，包括人类只是其中的部分。生态学关心的是地球家园、生态圈，而不是世界某个局部的组成部分。生态学探究的是世界整体，生物学研究的则是整个世界中的有机组成部分，这些部分与空气、水和土壤一样都不那么重要。"
+        
+        }   
+         
+    ]
+}  }              
+        
+    
+        
+    
+        

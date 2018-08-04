@@ -1,0 +1,44 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Listen to the following talk about science teaching in Britain .",
+            "text_zh": "请听以下在英国所作的关于科学教育的讲话。"
+        },
+        {
+            "role": 1,
+            "text": "British parents may find it difficult to help their children with their Science and Technology homework . Since the implementation of the National Curriculum in the late 1980s , the teaching of these disciplines has changed radically .",
+            "text_zh": "在英国，父母们现在可能会发现他们几乎无法给他们的孩子在涉及科技内容的家庭作业上提供任何帮助。这是由于从20世纪80年代国家课程方案实施以来，关于科技的学科教育发生了根本上的改变。"
+        } ,
+        {
+            "role": 2,
+            "text": "Science is no longer presented as Physics , Chemistry and Biology to be learnt parrot fashion,  but as a practical discipline requiring communication skills and the application of knowledge and understanding . Pupils now have to behave like scientists in and outside the classroom . They learn to communicate , whether working alone or contributing to a group effort . They learn research skills such as the use of reference materials . They practice gathering and organizing information from different sources . They develop the ability to record and report as well as to translate information from one form to another to suit particular audience or purpose . Familiarity with computers is now essential as pupils are expected to use spreadsheets and databases for collecting and presenting information.",
+            "text_zh": "现在，科学不再分为物理、化学和生物来行“填鸭式”教授，而是作为实用型的学科要求学生的交流技巧，理解和灵活应用知识的能カ。现在，无论是在课堂还是课外，学生不得不表现得像科学家一样。他们必须学会沟通，判断是应该独自工作还是要团队协作。他们必须学会诸如如何使用参考资料等研究技能。他们动手收集并整理不同来源的资讯。他们必须增强记录和报告的能カ，以便他们能够在不同的听众面前或为不同的目的而调整汇报的方式和内容。由于学生必须使用电子表格和数据库来收集使用资料，所以熟练使用计算机成为了他们的必备技能。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Technology , which was previously encountered as an option at Secondary School and often limited to Technical Drawing , is now compulsory for pupils aged between five and sixteen . As in Science , the new approach is based on practice,  Pupils are encouraged to identify opportunities for design and technological activities and to express them verbally . They learn these abilities in the contexts of home . school , recreation community and also business and industry as they approach school-leaving age  . They also learn to generate designs , to plan and make things using suitable resources and to evaluate the processes , products and effects of their design and technological activities . Computer literacy from an early age and the ability to use certain software applications such as computer-aided design programs now form important parts of the Technology syllabus .",
+            "text_zh": "工艺课程以往只在中级学校教授，并且内容往往仅限于工艺制图。现在也成为年纪在5至16周岁的学生的必修课。在科学研究过程中，由于新方法是产生于实践的，所以学生们被鼓励去尝试进行设计，工艺实践和口头表达。他们无论是在家里，在学校，在娱乐中，在社团还是当他们已到离开学校的年龄而进入商业或工业领域，都必须掌握以上的技能。他们也必须学会如何设计方案，如何使用合适的资源规划和实行目标并如何评价进度，产品及设计和生产的效果。早期的计算机使用能力以及诸如计算机辅助设计等应用软件的使用技能都成为工艺课程大纲的重要组成部分。"
+        
+        
+        }   
+         
+    ]
+}                
+        
+    

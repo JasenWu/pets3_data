@@ -1,0 +1,56 @@
+{
+    "roles": {
+        "0": {
+            "name": "Interview",
+            "name_zh": "记者"
+        },
+        "1": {
+            "name": "Prof. Lee",
+            "name_zh": "李教授"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Professor Richard Lee is the author of the book -Brief Account of the History of China . Listen to the interview with him about Chinese ancient history. ",
+            "text_zh": "理查徳·李是《中国历史概况》的作者，听听他对中国古代史的看法。"
+        },
+        {
+            "role": 1,
+            "text": " It is generally accepted that Chinese civilization is one of the oldest in the world , Can you tell us when China began to be ruled by a dynasty? ",
+            "text_zh": "中国是大家公认的世界上历史最悠久的文明古国之一。那您能否告诉大家中国是在什么时候出现王朝的呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "China traces its origins as a clearly separate political and cultural unit to ancient times. From the 2nd millennium B .C . to the early 20th century ,  succession of dynasties reigned progressively larger parts of what is now China .",
+            "text_zh": "李授。中国的朝代可追溯到中国古代，也就是在政治经济上独立的诸候割据时期。从公元前2世纪到公元20世纪初，中国的历朝历代统治着日益庞大的疆土，国土面积甚至此现在的中国领土还要辽阔。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "There has been a lot of interest lately in the later dynasties of China.  You mentioned in your book that the Ming and Qing dynasties were ruled largely by intellectuals right ?",
+            "text_zh": "近来人们对中国最近的几个朝代颇为关注。在书中你曾经提到明朝和清朝的统治者大多为开明之士，对吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Right , The dominating class in the later dynasties was made up of scholar-officials , who were recruited to serve the government based on their intelligence and skills rather than their family background .",
+            "text_zh": "是的，中国几个朝代的统治阶层大多都是有学识的官员，他们为朝廷效力是凭借自己的真才实学而不是显赫的家世。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "What caused the empire to decay?  Why was the last dynasty overthrown in 1911?",
+            "text_zh": "那又是什么导致王朝的土崩瓦解呢？为什么中国最后一个朝代在1911年被推翻呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "The global context of Chinese history changed in as early as the 16th century when European expansion began in Asia . By the 19th century China had to confront militarily stronger European powers . The corruption and inability of the Qing government had become the catalyst for rebellions and revolutions . Its downfall in 1911 led the country to be torn apart by warlords.  civil war , and Japanese invasion for several decades , until the Chinese Communist Party won the civil war and established China’s current government in 1949.",
+            "text_zh": "早在16世纪欧洲列强对亚洲进行殖民扩张的时候，中国所处的国际大背景已经发生了改变。19世纪中国不得不面对军事强大的欧洲列强。清政府的腐朽无能激化了人民的革命和反抗。1911年清政府被推翻使得整个国家被军阀、内战日本入侵分裂了数十年，这种情况一直持续到中国共产党赢得了内战，在1949年成立了新中国政府为止。"
+        }  
+        
+          
+         
+    ]
+}  }          

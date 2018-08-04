@@ -1,0 +1,31 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Listen to a brief summary about China’s climate.",
+            "text_zh": "听听下面对中国气候的简要概括。"
+        },
+        {
+            "role": 0,
+            "text": "China lies mainly in the northern temperate zone under the influence of monsoon. From September and October to March and April next year monsoon blows from Siberia and the Mongolian Plateau into China and decreases in force as it goes southward, causing dry and cold winter in the country and a temperature difference of 40 degrees centigrade between the north and the south . The temperature in China in the winter is 5 to 18 degrees centigrade lower than that in other countries on the same latitude in winter . Monsoon blows into China from the ocean in summer , bringing with them warm and wet currents, thus rain . Great differences in climate are found from region to region owing to China s extensive territory and complex topography . The northern part of Heilongjiang Province in the northeast has no summer , while Hainan Island in the south has a long summer but no winter . The Huaihe River valley features four distinct seasons , and the western part of the Qinghai-Tibet Plateau is covered by snow all year round.  The southern part of the Yunan-Guizhou Plateau is spring-like in all seasons;  and the northwestern inland regions could see great variations of emperature within the day . The annual amount of rain or snow also varies reatly from region to region , which is as high as 1,500 millimeters along the outheastern coast , and as low as 50 millimeters in the northwest .",
+            "text_zh": "中国主要位于北温带地区并收到季风影响。每年9、10月到次年3、4月间、冬季风从西伯利亚和蒙古高原吹来，由北向南势力逐渐减弱，形成寒冷干燥、南北温差高达40摄氏度的气候状况。中国冬季的气温在5至18摄氏度，并低于同一纬度的其他国家冬天的气温。 夏季，季候风从海洋吹到中国，带来暖湿气流，形成多雨的天气。由于拥有广袤的地城和复杂的地形，中国不同地区间气候差异很大。中国的东北部，黑龙江省北部全年没有夏季，而中国南部海南岛更季长期看不到冬季。淮河流域四季分明，青藏高原的西部地区终年白雪覆盖，云贵高原的南部一年四季如春，而西北内陆地区却可在一年四季内看到极大的温差变化。不同地区年降雨量和降雪量差别也很大、中南沿海地区的降雨量高达1500毫升、而西北地区的降雨量低至50毫升。 "
+       
+        }   
+         
+    ]
+}  }              
+        
+    
+        

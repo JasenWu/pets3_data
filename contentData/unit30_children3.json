@@ -1,0 +1,58 @@
+{
+    
+        "roles": {
+            "0": {
+                "name": "Interviewer",
+                "name_zh": "记者"
+            },
+            "1": {
+                "name": "Kapil Sibal",
+                "name_zh": "卡皮尔.斯巴勒"
+            },
+            "2": {
+                "name": "passerby",
+                "name_zh": "路人"
+            } , "contents": [
+            {
+                "role": 0,
+                "text": "Mr Kapil Sibal is the Union Minister of State for Science and Technology and Ocean Development, Government of india . In the following interview ,Mr . Kapil sibal shares his views on the utilization of GIS (Geographic Information System ) for social and economicdevelopment .",
+                "text_zh": "卡皮尔·斯巴物先生是印度政府国家科学技术和海洋发展协会的会长。在下面的访问中，卡皮尔先生赞同利用地理信息系统为社会和经济发展服务。"
+            },
+            {
+                "role": 1,
+                "text": "The Indian GIS industry is very small compared to the U .S. $10 billion global GIS industry.  What plans do you have for this sector ?",
+                "text_zh": "比起美国100亿美元的全球地理信息产业，印度的地理信息产业就小多了。你们对发展这个产业有些什么计划？"
+            } ,
+            {
+                "role": 2,
+                "text": "We have one of the best satellite technologies in the world and one of the oldest surveying agencies , the Survey of India (Sol ). Digital mapping technologies and latest trends are being embraced these days and soon this industry is to see days of fertile growth . I believe GIS is a revolutionary tool to change the lives of common people .It has applications in urban planning , traffic management , wate resources , road construction system , primary health , and disat management , This tool has to be utilized for developing wealt in the rural sector and for integrating the rural sector with the modern urban economy .",
+                "text_zh": "斯巴勒：我们拥有世界上最先进的卫星技术和历史最悠久的堪测部门一一印度勘测局，近来，数字绘图技术及其最新成果均被广泛采纳，不久将会看到这项事业的莲勃发展。我相信地理信息系统是一种改变老百姓生活的草命性工具。它主要应用于城市规划交通管理里、水利资源、公路建设、国民健康以及灾难应急措施。该工具必将用于发展农村经济，而且必须将发展农村经济与当代城市经济结合起来。"
+            } 
+            ,
+            {
+                "role": 1,
+                "text": " Some developed countries have self-sustaining models whereby the cost is recovered by their product policies . Can Sol work on such models ?",
+                "text_zh": "一些发达国家的地理信息产业有一些自谋发展的模式，并以此借助产品政策来收回成本。印度勘测局也会采取这种模式吗？"
+            } ,
+            {
+                "role": 2,
+                "text": "Sol has a vital social cause other than recovering costs . We would like the agency to generate revenue as well as fulfill its socially responsible functions . We would like to study all the examples and prevailing systems around the world . However , each country is unique with its own set of characteristics and hence India needs to develop its own policies.  Suggestions from the industry are welcome . Privatization perhaps cannot solve all the problems !",
+                "text_zh": "除了收回成本，印度物测局还有重要的社会目标。我们既想让它在履行应尽的社会责任的同时也能产生收益。但是，每个国家拥有自己独有的特点，印度有必要制定发展自己的政策。发展工业的建议是大受欢迎。但私有化恐怕不能解决所有问题！"
+            }  
+            ,
+            {
+                "role": 1,
+                "text": "Certain private companies have developed data , which they are reluctant to share . Is there any plan to come out with a policy on data sharing ?",
+                "text_zh": "一些私有企业拥有自己的资料库并拒绝与同行共享资源。有没有相关的计划出台支持资源共享政策？"
+            } ,
+            {
+                "role": 2,
+                "text": "Any private body might develop a database within their capacity but why they are not sharing or selling it is perhaps an internal matter stemming from their own constraints . We are in the process of framing policy , as I told you , and this issue will be part of that .",
+                "text_zh": "任何私营机构都可能在他们的能力范围内发展自己的资料库，但是至于他们为什么不愿资源共享或出售资料或许是企业内部管理机制的限制。正如我所说的，我们正在制定有关政策，这个议题也必将是其中一部分。"
+            
+            }   
+             
+        ]
+    }  }              
+            
+        

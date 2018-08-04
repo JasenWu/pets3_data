@@ -1,0 +1,81 @@
+{
+    "roles": {
+        "0": {
+            "name": "Father",
+            "name_zh": "父亲"
+        },
+        "1": {
+            "name": "Kevin",
+            "name_zh": "凯文"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Kevin’s father suggests that Kevin take geography as his minor which is offered in his university .",
+            "text_zh": "凯文的父亲建议凯文在大学辅修地理。"
+        },
+        {
+            "role": 1,
+            "text": "Kevin , it seems you have much spare time. Why don’t you take something . as your minor ?Well, I know your university offers geography .",
+            "text_zh": "你好像有很多空余时间。为什么不学点东西作为你的辅修课程呢？对了，我知道你们大学已经开设了地理课。"
+        } ,
+        {
+            "role": 2,
+            "text": " Geography ? It’s justmemorizing capital cities? ",
+            "text_zh": "地理？！那只是记一些首都名称而已。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Hey , how did you get such an idea ? It is more than that !Geography is an integrative,  environmental discipline which belongs to both physical science and social science .",
+            "text_zh": "嗨，你怎么会有这种思想呢？地理远不止那些！地理是一门综合性环境类学科，既属于物理学科也属于社会学科。"
+        } ,
+        {
+            "role": 2,
+            "text": "Geographers study the earth ,I know , because “geo” in Greek means earth,  and “graphy” means write .",
+            "text_zh": "我知道，就是地理学者们研究地球，因为在希腊语中＂geo的意思是地球，而＂ graphy＂是著述的意思。"
+        },
+        {
+            "role": 1,
+            "text": "You are right,  But , unlike chemistry , biology,  or economics which only focuses on one narrow field of study ,geography has been integrating many different subjects in its approach, mathematics , for example , and humanities and several other disciplines of social science . For this reason , geography is often considered interdisciplinary in nature .",
+            "text_zh": "你是对的。但是，它不像化学、生物或者是经济学那样仅限于单一学科领域的研究，地理几乎综合了许多不同的学科，比如数学、人文学科以及一些与其他社会科学有关的学科。正是因为这个原因，地理实际上被认为是门跨学科的科学。"
+        } ,
+        {
+            "role": 2,
+            "text": "Well , I still don’t know why I should learn it ?",
+            "text_zh": "好吧，但我还是不明白我为什么要学习地理。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Haven’t you said that you are always willing to understand and appreciate the dynamics of our rapidly-changing world ?",
+            "text_zh": "你难道没说过你总是想去了解和充分体会我们飞速变化的世界的原动力吗？"
+        } ,
+        {
+            "role": 2,
+            "text": " Yeah ,that’s my life goal .",
+            "text_zh": "是啊，那是我的人生目标"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "That is exactly what geographers do . Like you , they ask a lot of questions such as Where ? Why ? and When ? By the way , the geography program in your university can also develop a variety of skills such as spatial analysis , data collection and processing , and an ability to synthesize information . This unique approach to learning and the set of skills are much desired by employers today .",
+            "text_zh": "这也是一个地理学者真正所需要做的。像你一样，他们会间许多诸如“在哪里？”，“为什么？”以及“何时”的问题。况且，你们大学的地理课程也能够培养学生空间分析、信息收集处理的各种技巧以及分析信息的能力。这种独特的学习方法以及这一系列技能是现今用人单位所期待的。"
+           
+        } ,
+        {
+            "role": 2,
+            "text": "Oh , that sounds perfect . Dad , I will consider it . Thanks for your advice .",
+            "text_zh": "哦，听起来无懈可击。爸爸，我会认真考虑的。谢谢你的建议。"
+        
+        }   
+         
+    ]
+}  }              
+        
+    
+        
+    

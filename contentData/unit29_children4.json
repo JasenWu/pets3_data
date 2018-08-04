@@ -1,0 +1,41 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Listen to radio report on the world shocking event of September 11.",
+            "text_zh": "震惊世界的“9.11事件”报道。"
+        },
+        {
+            "role": 0,
+            "text": "On the sunny morning of September 11,2001,19 terrorists ,working in teams of 4 or 5 , hijacked four commercial jetliners and turned them toward targets chosen for destruction . Two of the planes , loaded with fuel and passengers , were flown at full speed into the twin towers of the World Trade Center in the financial district of New York City . The buildings burst into fame and then collapsed , killing thousands . A third terrorist crew smashed their plane into the Pentagon , headquarters of the U .S . military in Arlington , Virginia , The hijackers of the fourth airliner apparently intended to hit another target in the Washington ,D .C . area ,  but passengers on the plane realized what was happening and fought back , This airplane crashed in a field in rural Pennsylvania .",
+            "text_zh": "2001年9月11日，一个阳光明媚的早晨，19名恐怖分子以四、五个人一组分别同时的劫持了4架美国民航飞机，并直接调转机头妄图袭击他们的既定目标。其中两架飞机满载乘客和燃料全速撞向位于纽约金融中心的双子大楼一世界贸易中心。大楼立即失火、并随后坍塌，导致数千人死亡。恐怖分子持的第三架客机袭击了位于弗吉尼亚阿林顿的五角大楼一一美国国防部的所在地。第四架被劫驾很明显是想撞击华盛顿特区的另一个标志性建筑，但机上乘客意识到机上所发生的一切后极力反抗，飞机最后在宾夕法尼亚的乡村坠毁。"
+        } ,
+        {
+            "role": 0,
+            "text": "The 19 men who carried out the hijackings came from Saudi Arabia , Egypt , and other Arab states . They were affiliated with the al-Qaeda network , a radical Islamic group led by Saudi exile Osama bin Laden and dedicated to waging a holy war against the United States . The targets they chose to destroy perfecty symbolized U .S . financial ,political and military power.  Years in the planning , the attacks in New York and Washington constituted the first major foreign assault on the continental United States since 1814, when the British army invaded Washington , D .C . , and burned the White House.  More people were killed on U .S . soil on September 11 than on any day since the American Civil War . ",
+            "text_zh": "19名劫机者均来自沙特阿拉伯、埃及和其他阿拉伯国家。他们都是基地组织成员，而基地组织是一个极端伊斯兰教恐怖分子组织，其领导人本・拉登一直致力于发动反对美国的圣战。他们选择袭击的目标分别象征美国的经济，政治和军事。这个经过数年精心策划，对纽约和华盛顿的自杀性恐怖袭击是继1814年英国部队入侵华盛顿特区，烧毁白宫后历史上外国势力对美国本土发动的首次袭击。自美国内战以来，“9．11”恐怖袭击事件中丧生的人数甚至比美国任何一天的死亡人数都要多。"
+        } 
+        ,
+        {
+            "role": 0,
+            "text": "United States citizens,  feeling their country under attack , reassembled behind their leaders in display of national unity patriotism , and generosity nseen in decades . The country celebrated anew the values of courage and heroism, exemplified by the New York firefighters and reacue workers whi unhesitatingly rushed into the World Trafe Center towers to save as many people as possible.",
+            "text_zh": "美国人民在感受国家被袭击的过程中，以空前的团结、爱国、慷慨的姿态重新紧密团结在他们的领袖周围。整个美国见证了纽约市消防队员和救援人员毫不犹豫地冲进世贸大楼竭尽全力营救遇难人员的大无畏的牺牲精神，并为他们的英雄气概所鼓舞。"
+        
+        }   
+         
+    ]
+}  }              
+        
+        

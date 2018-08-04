@@ -1,0 +1,69 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Why Study History ?",
+            "text_zh": "我们为什么要学习历史？"
+        },
+        {
+            "role": 1,
+            "text": "I turned down the lights in my classroom and asked the students to close their eyes and , “Imagine you are at a beach on a sunny day .” With your mind’s eye , look around you . You see the waves lapping at the shore . To your left you see children in colorful swimsuits building sand castles , laughing and splashing in the water . To the right you see boat dock painted blue .Several small boats are tied to the dock . You are living in the present , observing your surroundings and feeling the warmth of the sun on your skin .",
+            "text_zh": "我关上了教室的灯，让学生们都闭上眼晴，“想像在一个晴朗的日子里，你在海滩。”用心灵的双眼环顾四周。你看见海浪轻抚着海滩，在你左边，只见孩子们穿着色彩鲜艳的泳衣，在沙滩上堆着沙堡，或在水中嬉戏欢笑。在你右边，你看见一个蓝色的码头，码头边拴着几艘游艇。现在你置身其中，观察着周围的一切，感受着阳光亲吻肌肤的温暖。"
+        } ,
+        {
+            "role": 2,
+            "text": "After spending some time sitting on the beach , you are becoming bored and hot , and you begin to think of the future . What do you want to do ? How did you decide ? Based on your past experience you know the water will be cool and refreshing , and playing in the waves will be fun,  so you decide to go for a swim . Living in the present , you are making a plan for the future based on your knowledge of the past . The present , the future and the past are always tied together and are always with us .",
+            "text_zh": "在海边坐了一会后，你觉得有点无聊，阳光炙热，不覚中你想做点什么事。你想做什么呢？你又该如何决定呢？根据你以往的经验，你知道海水凉爽宜人，在海浪里尽情玩要一定格外有趣，于是你决定去游泳。现在的你，已习慣根据过去积累的经验为自己计划未来，因为现在，过去和未来紧密相连，始终陪伴我们左右。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "It’s getting later now , and the sun is beginning to set over the water . It is time to think about going home . You recall that you arrived at the beach on a boat and that you left the boat tied to the dock. You know how you will get home .This knowledge is comforting , and you home This knowledge is comforting and you decide to say awhile longer andenjoy the sunset. As you can see, your decisions about the future are based on your knowledge of the past . ",
+            "text_zh": "天色渐渐暗了下来，太阳慢慢沉入水中。是该考虑回家的时侯了。你记得你是乘坐游艇来的，之后便将游艇拴在码头。你也知道你该如何回去。想到这里你便轻松多了，于是你决定多呆一会儿，欣赏日落。正如你所知道的那样，你的每一步决定是基于你对过去的了解。    "
+        } ,
+        {
+            "role": 2,
+            "text": "But , suddenly a spaceship falls from the sky knocking you unconscious .You awake with amnesia , remembering nothing of the past . You don’t know why you are on a beach , where home is or how to get there . It’s getting dark and you are frightened . You groaned in agony because your loss of the past means you are hopelessly lost in trying to cope with the future . ",
+            "text_zh": "是，突然一艘飞船从天而降使你昏迷不醒。等你醒来时就像患上了健忘症，什么也记不起来了。你不知道你为什么会来到海滩，你也不记得你的家在哪里以及你该如何回去。天色越来越暗，你害怕了。你气得大叫，因为你忘记了过去，所以你绝望地不知该如何是好。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Relax . You will probably never be struck by a falling spaceship ...  and you will learn what you need to know about beaches and swimming and gettin home from your own personal experience . But,  how will you learn of important things that you cannot experience for yourself ? How will you learn of the larger world outside your own personal experience .",
+            "text_zh": "放松点。或许你永远不会被大空飞船袭击…，然而你一定知道有关海滩、游泳以及回家的事是你的亲身经历。但是，你又该如何知道那些自己无法亲身经历却又至关重要的事情呢？你又该如何了解你经历之外的大千世界呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "This is why we have schools , so you can learn from the experiences of others gathered over centuries of human experience . Without this knowledge , you would suffer from a kind of amnesia that would leave you lost when it comes to understanding important matters in your future . For example , why would foreign terrorists want to attack you and other Americans ? Should the United States go to war with Iraq ? Should we try to stop global warming ?Should we work for economic justice in the world ? Should scientists be allowed to alter human genes ?",
+            "text_zh": "这就是我们为什么要设立学校的原因，正因为建立了学校，我们才能学到人类积累数百年的实践经验。如果没有这些知识，你就会患上一种健忘症，当你将来处理一些重大事情的时候你就会不知所措。比如说，为什么外国恐怖分子会袭击你以及其他的美国人？美国应该对伊拉克宣战吗？人类将会阻止全球变暖的趋势吗？我们能为世界上的经济平等而努力吗？科学家能改变人类基因吗？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "You live in a free society,  in a democracy , where citizens are expected to help decide these kinds of issues and - the truth is -citizens DO help decide important issues in our country . It was the people not the government that brought the Vietnam War to an end It was the people who led the way in the Civil Rights movement of the 1960s ; the government followed . The people of the United States . and their elected representatives , will decide if they can support a war against Iraq .",
+            "text_zh": "你身在一个自由民主的国家，这里的人民期望自己能帮助决定这类议题一一实际上在我们国家，人民的确能促进这类重大议题的决定。因为是人民而并非政府结東了越南战争。正是人民掀起了20世纪60年代的人权运动，接着政府才有所行动。也只有美利坚合众国的人民和他们推选的代表将最终决定他们是否支持对伊拉克的战争。"
+        } ,
+        {
+            "role": 2,
+            "text": "We all need knowledge from the past - whether it comes from personal experience or from studying history . It is our only guide to the future .",
+            "text_zh": "我们大家必须了解过去ー一因为无论是源于个人的经历还是出自对历史的学习，它始终是我们通向未来的唯一向导。"
+            
+        }  
+           
+         
+    ]
+}  }              
+        
+    

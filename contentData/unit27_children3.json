@@ -1,0 +1,127 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "Jack is a newcomer to Tim’s school and class . Now the two boys are talking bout their feelings about schoolwork.",
+            "text_zh": "杰克是提姆班上的新生。现在两个孩子正在谈论他们对功课的看法。"
+        },
+        {
+            "role": 1,
+            "text": "Tim, I must say, I was really impressed with you in the mathematics class yesterday .",
+            "text_zh": "提姆，我必须告诉你,昨天上数学课时你给我的印象很深。"
+        } ,
+        {
+            "role": 2,
+            "text": "Impressed with me ? Why ?",
+            "text_zh": "对我印象很深？这是为什么呢？"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "Well , you didn’t do the homework , and the teacher saw it . But when his voice boomed out at you angrily , you just did not care .",
+            "text_zh": "嗯，你没有做作业，而且老师也看到了。但是当他生气地朝你大吼的时候，你竟然一点也不在乎。"
+        } ,
+        {
+            "role": 2,
+            "text": "So ? What is so impressive about that ?",
+            "text_zh": "是这样？那是什么使你对那件事印象如此深刻呢？"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Well , you told the teacher you did not care about homework , and to leave you alone .",
+            "text_zh": "喔，你对老师说你根本不在乎家庭作业，还让老师不要管你。"
+        } ,
+        {
+            "role": 2,
+            "text": "Well . I only told him the truth . I believe the teacher has to respect my right not to learn , if I do not want to .",
+            "text_zh": "好吧。那我就对你实话实说。我认为如果我不想学习，老师应该尊重我不学的权利。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "I agree,  he has to respect our rights.  But don’t you forget abour the test next week ?",
+            "text_zh": "我同意，他是应该尊重我们的权利。但是你难道忘了下周我们就要考试了吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Hey, don’t be so upset. Take it easy.",
+            "text_zh": "嘿，不要这么着急。放松点。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "What do you mean, don’t be so upset ? How would you feel if you came to a new school and you were way behind everybody in the studies?? Would you feel comfortable ?No !",
+            "text_zh": "你什么意思，不要着急？如果你来到一个新学校，而你又在学习上比别人都落后，你会怎么想呢？你会觉得安心吗？当然不会！"
+        } ,
+        {
+            "role": 2,
+            "text": "All I’m saying is there is no need to be so dismayed.",
+            "text_zh": "我的意思是没有必要惊慌。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "That’s  easy to say . I’m under so much pressure . I try to study at night and I cannot even concentrate on my books . I don’t sleep well .",
+            "text_zh": "说得容易。我的压力这么大。我每晚都努力学习但是我根本不能全神贯注。"
+        } ,
+        {
+            "role": 2,
+            "text": "ow ,that’s really bad and unhealthy.",
+            "text_zh": "呀！那就糟了，而且对身体很不好。"
+   
+         
+        } ,
+        {
+            "role": 2,
+            "text": "Yes, but I have to .You know, I did not learn with the same books as you in my old school .",
+            "text_zh": "是呀，但是我不得不这样。你知道，我以前的学校和你们学校的教材不一样."
+        }  
+        ,
+        {
+                
+            "role": 1,
+            "text": " Let me explain something to you . You know I miss about half of the classes . The teachers are always asking where I am . Do I look worried ? No You ! You know why ?",
+            "text_zh": "让我解释给你听。你知道我有一半的课都没上。老师经常问我去哪里啦。我看上去很担心吗？不！你知道为什么吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Because you are crazy ?",
+            "text_zh": "因为你很生气？"
+                        
+        } ,
+        {
+            "role": 2,
+            "text": " No I have decided not to continue at school next year . Life is for having fun,  not for suffering in school .",
+            "text_zh": "不。因为我决定明年不上学了。生活应该是去寻找快乐，而不是呆在学校里受罪."
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Wow . Don’t you think you should think about it a bit more , and weigh all the options ?",
+            "text_zh": "哇。难道你不再想想，再考虑清楚？"
+        } ,
+        {
+            "role": 2,
+            "text": "I aready weighed all the options . And my best option is to leave school and have fun !",
+            "text_zh": "我已经考虑清楚了。对我来说最好的选择就是离开学校去寻找快乐。"
+        }   
+             
+    ]
+}                         
+       
+        

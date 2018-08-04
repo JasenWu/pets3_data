@@ -1,0 +1,61 @@
+{
+    "roles": {
+        "0": {
+            "name": "Jane",
+            "name_zh": "简"
+        },
+        "1": {
+            "name": "Mark",
+            "name_zh": "马克"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Jane and Mark are discussing the history of Ireland and the United Kingdom .",
+            "text_zh": "简正和马克讨论爱尔兰与联合王国的历史。"
+        },
+        {
+            "role": 1,
+            "text": "My father told me that the Republic of Ireland was once part of the United Kingdom .",
+            "text_zh": "我父亲告诉我爱尔兰共和国曾是联合王国的一部分。"
+        } ,
+        {
+            "role": 2,
+            "text": "Yes ,that’s right Beginning in the 16th century, the British Isles underwent a series of political changes that eventually led to the establishment of the United Kingdom of Great Britain and Ireland in 1801 . The creation of the United Kingdom brought England , Wales , Scotland , and Ireland under the rule of a central government headed by a common monarch and administered by a single parliament. ",
+            "text_zh": "是的，不错。在16世纪初，不列颠诸岛经历了一系列政治变革后在1801年成立了大不列颠及爱尔兰联合王国联合王国的成立使英格兰、威尔士、苏格兰和爱尔兰统一于中央政府，并实行君主立宪和国会制度。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "But , Ireland later achieved its independence, right ? ",
+            "text_zh": "但是，后来爱尔兰独立了，对吗？"
+        } ,
+        {
+            "role": 2,
+            "text": "Yes,  in 1922, Ireland , with the exception of its six northern counties , became independent,  From then on the kingdom was renamed the United Kingdom of Great Britain and Northern Ireland .",
+            "text_zh": "是的，在1922年，除爱尔兰北方六郡外，爱尔兰其他地区脱离了联合王国的统治，成为独立国家。从那以后，联合王国更名为大不列颠及北爱尔兰联合王国。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "What is the reason for Ireland’s independence? And why did its six northern counties still remain in the United Kingdom ?",
+            "text_zh": "是什么原因导致爱尔兰独立的呢？那为什么北部六郡仍归属英国呢？"
+        } ,
+        {
+            "role": 2,
+            "text": "The opposition to the United Kingdom remained strong all the time among Ireland’s predominantly Roman Catholic population .",
+            "text_zh": ""
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "Many Irish citizens resented the long history of domination by Britain’s Protestant majority.  They struggled and eventually split away in 1922 .But its six northern counties . where Protestants are in the majority , still remained a part of the United Kingdom.",
+            "text_zh": "一直以来，爱尔兰的绝大部分罗马天主教徒始终强烈反对联合王国的统治。许多受尔兰人民对英格兰清教徒的长期统治十分不满。爱尔兰人民不断起义反抗，最终在1922年脱离联合王国获得独立。但是由于爱尔兰北方六郡的清教徒众多，所以仍为联合王国的一部分。"
+        } 
+           
+         
+    ]
+}  }          

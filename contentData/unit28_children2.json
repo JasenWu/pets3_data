@@ -1,0 +1,45 @@
+{
+    "roles": {
+        "0": {
+            "name": "aside",
+            "name_zh": "旁白"
+        },
+        "1": {
+            "name": "tourist",
+            "name_zh": "游者"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        }
+    },
+    "contents": [
+        {
+            "role": 0,
+            "text": "The following is a talk about the success of science programs , given by David Filkin,who has directed science programs at the BBC since1991.",
+            "text_zh": "下面是大卫・菲尔金关于一个成功科技节目的访谈。大卫・菲尔金自1991年开始就在BBC广播公司担任科技节目的编导。"
+        },
+        {
+            "role": 1,
+            "text": "A good science program must be useful , that is , it should enable a certain audience to increase its understanding of science or in some way to gain insight into science . It may be a case of communicating knowledge ,drawing attention to new issues or entertaining on the basis of science subjects-and there is no reason why the same program cannot combine all three . The essential task is to comnmunicate information.  For that you have to both capture and hold the viewer’s attention.",
+            "text_zh": "好的科技节目必须是有用处的，也就是说该节目应该能使观众增进对科学的理解或者在某些方面领悟科学的真谛。科技节目应该起到传播知识，激发大众对科技新领城的好奇或者引领人们去思考科学基本原理的作用一一并且没有理由认为在同一个科技节目中不能同时实现以上3个功能。科技节目的本质是传播资讯。为此，节目制作人必须要捕捉并抓住观众的兴趣。"
+        } ,
+        {
+            "role": 2,
+            "text": "Many documentaries cover science subjects in great depth while also including some clever story telling plus the human interest aspect.  This can captivate audiences as effectively as the very best thrillers . Any science subject can make fascinating viewing . As long as the human aspect of science is not ignored . and researchers are not reduced to the role of explaining impersonal data . any subject can make for good television program . The challenge for the producer lies in building a good story around somebody . That does not mean that the story cannot include notions of complexity and doubt , which are necessary features of science . These elements can , in fact , be the most compelling aspect of a science story .",
+            "text_zh": "许多纪录片不但深入涉及科技诸多领域而且还辅以生动的故事来增强人们对此的兴趣。这样做就能使节目如同最畅销的惊悚小说一样牢牢抓住观众。任何学科都能使人沉迷。只要科技的人文作用没有被忽略，而且如果科研人员不再仅仅充当简单说明数据的角色，那么任何学科都可以被做成精彩的电视节目。对节目制作人而言，挑战在于如何创作出大众都能接受的精彩素材。但这并不意味着在这种构思中不能涉及难理解的概念或疑惑。因为复杂和怀疑是科学自身的特点。而且这些要素实际上是科技素材中最吸引观众的部分。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "The documentary produced by Simon Singh for the Horizon series ,for example , dealt with a field as abstract as mathematics . The film opens with an interview with Andrew Wiles , the man who discovered the solution to Fermat’s last theorem, which had remained unsolved for centuries . He breaks down in tears as he tries to explain the significance of his finding . Most people who see this display of emotion remain glued to their sets to find out what this mathematical discovery was really all about .",
+            "text_zh": "比如，西蒙・辛拍摄了关于数学领域的系列纪录片—《地平线》。影片以采访安德鲁·怀尔斯作为开始。安德鲁·怀尔斯以解决了困扰人们数个世纪的费马大定理而闻名于世。节目中安德鲁・怀尔斯在说明其工作的重要价值时激动得泣不成声。大多数看到这一情景的观众都能真切地体会到这项数学发现非同寻常的意义。 "
+        } 
+    ]  
+}         
+
+               
+    
+                        
+        
+    

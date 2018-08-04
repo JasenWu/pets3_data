@@ -1,0 +1,68 @@
+{
+    "roles": {
+        "0": {
+            "name": "Kim",
+            "name_zh": "吉姆"
+        },
+        "1": {
+            "name": "John",
+            "name_zh": "约翰"
+        },
+        "2": {
+            "name": "passerby",
+            "name_zh": "路人"
+        } , "contents": [
+        {
+            "role": 0,
+            "text": "Kim and John are discussing about American children’ s little knowledge on geography.",
+            "text_zh": "吉姆和约输正在讨论美国儿童对地理知识的匮乏。"
+        },
+        {
+            "role": 1,
+            "text": "Give a half dozen high school kids a map of the world and see what happens . Ask them , for instance , “Where is England ?” “Right there .” “No, right here .” “I have no idea ,” they say , some pointing to Ireland .",
+            "text_zh": "如果你给半打上高中的孩子们一张世界地图，你就知道会发生些什么。比如说，你问他们“英国在哪儿？他们会说，“就在这。”，“不，在这。”，“我不知道。”，而有些学生却指向爱尔兰。"
+        } ,
+        {
+            "role": 2,
+            "text": "Yeah , they have an even tougher time locating Israel .",
+            "text_zh": "对呀，要他们在地图上找到以色列甚至更难。"
+        } 
+        ,
+        {
+            "role": 1,
+            "text": "These teens are typical . According to a new survey by National Geographic . if the average American high school student was tested on geography they would fail , because they found that only 17 percent could find Afghanistan on a map . Only 35 percent could find France.  and almost 30 percent could not even find the Arctic ocean .",
+            "text_zh": "这些青少年是典型例子。根据《国家地理》杂志的一项新的调查表明，假如对普通美国高中生测试地理知识的话，他们没准都会不及格。因为调查发现17％的学生能在地图上找到阿富汗。仅有35％的学生能找到法国，而几乎30％的学生甚至无法正确地找到北冰洋。"
+        } ,
+        {
+            "role": 2,
+            "text": "They just don’t care . America is so huge and powerful ; kids do not feel like they have to know about the world beyond their borders .Many schools have eliminated geography in favor of more math and science courses .",
+            "text_zh": "他们才不会在意。美国地大物博，国力强盛。孩子们不会想到要去了解美国地域以外的世界。许多学校删减地理课程以开设更多的数学和科学课程。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "But , as business becomes global , as threats come from overseas ,as our society becomes more multi-cultural , geography has never been more important .",
+            "text_zh": "但由于经济全球化，国外威胁凸现，社会多元化，因此地理似乎从未像现在这么重要过。"
+        } ,
+        {
+            "role": 2,
+            "text": "Right . You have to know what s going on around the world ... If something important happens you must want to know where it is .",
+            "text_zh": "对，你必须知道世界正发生些什么...如果有些重大事件发生，你一定想知道究竟是在哪里发生的。"
+        }  
+        ,
+        {
+            "role": 1,
+            "text": "At least , if someone moved to your school and they’re like “I’m from whatever country” and you don t know where that is, it’s kind of sad .",
+            "text_zh": "至少，如果你们学校来了位新同学，而文当他说到他来自个国家时，你却不知道别人说的国家在哪儿，那就槽了。"
+        } ,
+        {
+            "role": 2,
+            "text": "I think parents can help in this case . If they meet someone from a different country . or hear about a world event , just pull out a map or globe to show to the kids . “You know , here’s where this is, here’s where that is .” Just so the kids can become familiar looking at a globe and understanding .",
+            "text_zh": "我认为家长可以在这件事情上帮忙。如果他们遇到来自一个别的国家的人，或者是听到一则世界新闻，只要拿出一张地图或者一个地球仪指给孩子们看就行了，“你知道，这里就是这个国家的位置，这儿是那个国家。”只有这样，孩子们オ会习惯了解并查看地球仪。"
+        
+        }   
+         
+    ]
+}  }              
+        
+    
