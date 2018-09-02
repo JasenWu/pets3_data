@@ -1,0 +1,111 @@
+{
+  "roles": {
+      "0": {
+          "name": "aside",
+          "name_zh": "旁白"
+      },
+      "1": {
+          "name": "Waiter",
+          "name_zh": "服务员"
+      },
+      "2": {
+          "name": "Karen",
+          "name_zh": "卡伦"
+      }
+  },
+  "contents": [
+      {
+          "role": 0,
+          "text": "karen is ordering her dishes in a restaurant.",
+          "text_zh": "卡伦正在一家餐厅里点餐。"
+      },
+      {
+        "role": 1,
+        "text": "Good evening, miss. Here's your menu. What can I get you to drink?",
+        "text_zh": "小姐，晚上好。这是菜单。您想喝点什么？"
+      },
+      
+      {
+        "role": 2,
+        "text": " I'd like a glass of white wine,please.",
+        "text_zh": "请给我来一杯白葡萄酒。"
+      }  
+      ,
+      {
+        "role": 1,
+        "text": "Okay. We have two specials today, charbroiled steak and leg of lamb. What are you having?",
+        "text_zh": " 好的，我们今天有两个特价菜，炭烧牛排和羊腿。您要哪一种？"
+      },
+      
+      {
+        "role": 2,
+        "text": "The charbroiled steak seems attractive, but the leg of lamb sounds good to me, too. Both are my favorites. What would you suggest?",
+        "text_zh": "炭烧牛排看上去很诱人，但羊腿也很不错，都是我最喜欢吃的。你建议呢？"   
+      }
+      ,
+      {
+        "role": 1,
+        "text": "Personally. I like steak, but ite's really hard to make a pick.",
+        "text_zh": "就个人来说，我喜欢年排，但确实很难作出选择。"
+      },
+      
+      {
+        "role": 2,
+        "text": " Okay, I'll get the charbroiled steak then.",
+        "text_zh": "好的，我就要份炭烧年排。"
+      }
+      ,
+      {
+        "role": 1,
+        "text": "How would you like it done?",
+        "text_zh": "几成熟吧？"
+      },
+      
+      {
+        "role": 2,
+        "text": "Medium-rare, please。",
+        "text_zh": "五成熟吧。"
+      }
+      ,
+      {
+        "role": 1,
+        "text": " Okay, what about vegetables then? We serve peas and carrots, straw mushrooms, or string beans.",
+        "text_zh": "好的，要什么蔬菜呢？我们这里有碗豆加胡萝卜，草菇，或是菜豆。"
+      },
+      
+      {
+        "role": 2,
+        "text": " Peas and carrots.",
+        "text_zh": "豌豆加胡萝卜吧。"
+      }
+      ,
+      {
+        "role": 1,
+        "text": "Baked or mashed potatoes?",
+        "text_zh": "土豆是烤的呢还是土豆泥？"
+      },
+      
+      {
+        "role": 2,
+        "text": "Baked.",
+        "text_zh": "烤的。"
+      }
+      ,
+      {
+        "role": 1,
+        "text": "Okay. What kind of dressing? French, Italian, blue cheese, Russian?",
+        "text_zh": "好的，调味酱是哪种呢？法式、意式、蓝芝士还是俄式呢？"
+      },
+      
+      {
+        "role": 2,
+        "text": "Italian.",
+        "text_zh": "意式。"
+      },
+      {
+        "role": 1,
+        "text": "Okay, fine. I will take your menu.",
+        "text_zh": "好的，您的菜我记下了，就来。"
+      }
+  ]
+}
